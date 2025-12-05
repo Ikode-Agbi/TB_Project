@@ -1,0 +1,4853 @@
+continent,country_code,year,tb_incidence,Country
+Americas,VCT,2010,14.0,Saint Vincent and the Grenadines
+Europe,GBR,2015,10.0,United Kingdom of Great Britain and Northern Ireland
+Eastern Mediterranean,SDN,2007,144.0,Sudan
+Africa,MDG,2023,220.0,Madagascar
+Europe,TJK,2006,209.0,Tajikistan
+Africa,CPV,2008,121.0,Cabo Verde
+Africa,RWA,2023,62.0,Rwanda
+Americas,NIC,2000,125.0,Nicaragua
+Africa,SYC,2016,11.0,Seychelles
+Europe,DEU,2010,5.5,Germany
+Americas,PRY,2019,60.0,Paraguay
+Europe,MKD,2012,26.0,North Macedonia
+Europe,TKM,2003,172.0,Turkmenistan
+Africa,ZMB,2010,495.0,Zambia
+Western Pacific,MHL,2018,1610.0,Marshall Islands
+Americas,PER,2003,245.0,Peru
+Europe,ISR,2023,2.8,Israel
+Europe,EST,2012,27.0,Estonia
+Western Pacific,IDN,2005,360.0,Indonesia
+South-East Asia,LKA,2018,58.0,Sri Lanka
+Europe,TKM,2006,109.0,Turkmenistan
+Americas,JAM,2001,11.0,Jamaica
+Western Pacific,NZL,2007,8.2,New Zealand
+Africa,LSO,2015,780.0,Lesotho
+Europe,PRT,2012,28.0,Portugal
+South-East Asia,BTN,2015,264.0,Bhutan
+Americas,USA,2023,3.1,United States of America
+Europe,MNE,2010,27.0,Montenegro
+Africa,CAF,2003,641.0,Central African Republic
+Western Pacific,MHL,2020,581.0,Marshall Islands
+Eastern Mediterranean,OMN,2009,20.0,Oman
+Americas,BHS,2024,18.0,Bahamas
+Africa,MDG,2005,234.0,Madagascar
+Americas,MEX,2017,25.0,Mexico
+Africa,GIN,2023,178.0,Guinea
+Europe,IRL,2013,9.7,Ireland
+Europe,MLT,2009,10.0,Malta
+Europe,LTU,2011,99.0,Lithuania
+Africa,GHA,2016,156.0,Ghana
+Europe,LUX,2005,11.0,Luxembourg
+Africa,BEN,2021,46.0,Benin
+Europe,DEU,2008,5.6,Germany
+Eastern Mediterranean,SDN,2011,105.0,Sudan
+Western Pacific,SGP,2009,40.0,Singapore
+Americas,HND,2021,38.0,Honduras
+Western Pacific,SLB,2020,97.0,Solomon Islands
+Africa,GNQ,2002,310.0,Equatorial Guinea
+Western Pacific,NIU,2005,0.0,Niue
+Western Pacific,KIR,2012,784.0,Kiribati
+Americas,CHL,2008,20.0,Chile
+Europe,FIN,2020,3.7,Finland
+Western Pacific,JPN,2002,37.0,Japan
+Europe,TKM,2016,46.0,Turkmenistan
+Americas,CRI,2001,26.0,Costa Rica
+Africa,BWA,2020,274.0,Botswana
+Eastern Mediterranean,LBN,2006,13.0,Lebanon
+Americas,NIC,2017,51.0,Nicaragua
+Eastern Mediterranean,SAU,2007,19.0,Saudi Arabia
+Europe,FRA,2007,11.0,France
+Africa,BDI,2015,124.0,Burundi
+Americas,CHL,2012,18.0,Chile
+Western Pacific,BRN,2011,84.0,Brunei Darussalam
+Americas,KNA,2023,2.1,Saint Kitts and Nevis
+Africa,BDI,2009,160.0,Burundi
+Africa,COG,2014,365.0,Congo
+Europe,IRL,2014,8.0,Ireland
+Americas,BRA,2020,45.0,Brazil
+Americas,SLV,2014,48.0,El Salvador
+Europe,GBR,2018,8.0,United Kingdom of Great Britain and Northern Ireland
+Africa,MDG,2013,225.0,Madagascar
+Western Pacific,SLB,2015,155.0,Solomon Islands
+Eastern Mediterranean,TUN,2017,43.0,Tunisia
+Europe,MLT,2023,13.0,Malta
+Europe,ARM,2023,21.0,Armenia
+Western Pacific,KHM,2022,277.0,Cambodia
+Europe,KAZ,2013,109.0,Kazakhstan
+Europe,TKM,2000,193.0,Turkmenistan
+Europe,LTU,2018,54.0,Lithuania
+Europe,ISL,2020,3.3,Iceland
+Europe,ITA,2007,6.1,Italy
+Eastern Mediterranean,MAR,2004,97.0,Morocco
+Europe,MCO,2002,0.0,Monaco
+Africa,SWZ,2007,1430.0,Eswatini
+Europe,ITA,2021,4.7,Italy
+Europe,KAZ,2009,151.0,Kazakhstan
+Africa,BWA,2008,676.0,Botswana
+Americas,KNA,2022,1.8,Saint Kitts and Nevis
+Africa,ZAF,2015,988.0,South Africa
+Americas,BRA,2003,51.0,Brazil
+Africa,BEN,2007,84.0,Benin
+Africa,GMB,2006,188.0,Gambia
+Europe,SMR,2019,0.0,San Marino
+Europe,GRC,2002,7.6,Greece
+Europe,LTU,2005,128.0,Lithuania
+Eastern Mediterranean,LBY,2011,43.0,Libya
+Western Pacific,MHL,2005,552.0,Marshall Islands
+Europe,MNE,2009,29.0,Montenegro
+Europe,RUS,2010,85.0,Russian Federation
+Europe,DNK,2008,8.0,Denmark
+Eastern Mediterranean,SDN,2023,50.0,Sudan
+Western Pacific,JPN,2020,12.0,Japan
+Americas,GRD,2006,0.91,Grenada
+Africa,UGA,2012,205.0,Uganda
+Americas,SLV,2022,51.0,El Salvador
+Western Pacific,LAO,2020,149.0,Lao People's Democratic Republic
+Africa,NER,2017,88.0,Niger
+Americas,GRD,2002,0.92,Grenada
+Europe,MNE,2007,38.0,Montenegro
+Africa,LBR,2011,328.0,Liberia
+Americas,GUY,2020,59.0,Guyana
+Europe,CHE,2016,8.0,Switzerland
+Europe,ITA,2024,5.0,Italy
+Western Pacific,KOR,2021,44.0,Republic of Korea
+Americas,LCA,2024,0.56,Saint Lucia
+Europe,SRB,2006,68.0,Serbia
+South-East Asia,NPL,2010,311.0,Nepal
+Africa,MDG,2014,221.0,Madagascar
+Americas,GRD,2016,5.2,Grenada
+Europe,GRC,2012,6.3,Greece
+Europe,FRA,2016,8.7,France
+Africa,GIN,2001,133.0,Guinea
+Africa,RWA,2004,155.0,Rwanda
+Europe,UKR,2001,205.0,Ukraine
+Africa,CAF,2022,437.0,Central African Republic
+Americas,MEX,2016,25.0,Mexico
+Europe,LUX,2021,6.4,Luxembourg
+Eastern Mediterranean,PAK,2016,268.0,Pakistan
+Africa,GNB,2008,282.0,Guinea-Bissau
+Africa,MLI,2009,75.0,Mali
+Americas,HND,2015,49.0,Honduras
+Eastern Mediterranean,JOR,2013,6.4,Jordan
+Europe,ALB,2003,20.0,Albania
+Americas,JAM,2023,4.3,Jamaica
+Europe,EST,2016,19.0,Estonia
+South-East Asia,BGD,2000,221.0,Bangladesh
+Africa,LBR,2017,268.0,Liberia
+Americas,BRB,2020,2.1,Barbados
+Western Pacific,CHN,2007,85.0,China
+Europe,NLD,2013,5.6,Netherlands (Kingdom of the)
+Americas,BLZ,2022,35.0,Belize
+Europe,GRC,2009,6.7,Greece
+Eastern Mediterranean,SOM,2016,184.0,Somalia
+Eastern Mediterranean,LBY,2006,63.0,Libya
+Europe,MCO,2022,0.91,Monaco
+Americas,GTM,2022,26.0,Guatemala
+Africa,TGO,2000,51.0,Togo
+Eastern Mediterranean,AFG,2011,204.0,Afghanistan
+Americas,GTM,2007,26.0,Guatemala
+Africa,NGA,2018,219.0,Nigeria
+Western Pacific,KHM,2000,853.0,Cambodia
+Eastern Mediterranean,LBN,2017,14.0,Lebanon
+Eastern Mediterranean,JOR,2023,3.3,Jordan
+Eastern Mediterranean,LBN,2000,28.0,Lebanon
+South-East Asia,LKA,2020,55.0,Sri Lanka
+Africa,AGO,2005,491.0,Angola
+Americas,LCA,2023,1.1,Saint Lucia
+Africa,STP,2018,123.0,Sao Tome and Principe
+Europe,AND,2014,8.1,Andorra
+Europe,POL,2019,16.0,Poland
+Africa,BDI,2021,93.0,Burundi
+Africa,MDG,2002,221.0,Madagascar
+Africa,NGA,2015,219.0,Nigeria
+Americas,SUR,2017,31.0,Suriname
+South-East Asia,MDV,2012,49.0,Maldives
+Eastern Mediterranean,YEM,2018,39.0,Yemen
+Europe,LTU,2020,34.0,Lithuania
+Europe,GEO,2010,174.0,Georgia
+Europe,ISR,2024,2.4,Israel
+Africa,ZAF,2004,1150.0,South Africa
+Americas,NIC,2007,80.0,Nicaragua
+Europe,FRA,2008,10.0,France
+Americas,COL,2023,46.0,Colombia
+Europe,BIH,2010,57.0,Bosnia and Herzegovina
+Eastern Mediterranean,IRQ,2022,23.0,Iraq
+Eastern Mediterranean,IRN,2015,20.0,Iran (Islamic Republic of)
+Eastern Mediterranean,SDN,2005,143.0,Sudan
+Americas,TTO,2016,20.0,Trinidad and Tobago
+Europe,SVK,2015,7.0,Slovakia
+Africa,KEN,2023,214.0,Kenya
+Africa,COD,2012,480.0,Democratic Republic of the Congo
+South-East Asia,MDV,2011,42.0,Maldives
+Americas,HND,2009,66.0,Honduras
+Europe,MNE,2016,20.0,Montenegro
+Western Pacific,NZL,2015,7.5,New Zealand
+Africa,TGO,2007,91.0,Togo
+Western Pacific,MYS,2015,104.0,Malaysia
+Europe,NLD,2007,6.5,Netherlands (Kingdom of the)
+Europe,GRC,2017,5.2,Greece
+Western Pacific,PNG,2001,972.0,Papua New Guinea
+Western Pacific,PHL,2011,535.0,Philippines
+Western Pacific,VNM,2022,178.0,Viet Nam
+Africa,MRT,2022,75.0,Mauritania
+Americas,BHS,2022,16.0,Bahamas
+Western Pacific,KHM,2021,279.0,Cambodia
+Western Pacific,SLB,2003,249.0,Solomon Islands
+Western Pacific,MNG,2003,428.0,Mongolia
+Americas,ATG,2020,2.2,Antigua and Barbuda
+Europe,FRA,2003,12.0,France
+Africa,SYC,2013,24.0,Seychelles
+Europe,TKM,2021,35.0,Turkmenistan
+Americas,PRY,2024,81.0,Paraguay
+Western Pacific,FJI,2006,27.0,Fiji
+Africa,BEN,2009,81.0,Benin
+Americas,ARG,2015,28.0,Argentina
+Americas,PAN,2008,71.0,Panama
+Europe,HRV,2015,15.0,Croatia
+Western Pacific,PHL,2014,546.0,Philippines
+Americas,GTM,2016,22.0,Guatemala
+South-East Asia,THA,2001,245.0,Thailand
+Europe,NOR,2016,6.1,Norway
+Western Pacific,KIR,2002,888.0,Kiribati
+Americas,HND,2023,38.0,Honduras
+Eastern Mediterranean,EGY,2019,11.0,Egypt
+Europe,FRA,2018,8.8,France
+Europe,BEL,2009,10.0,Belgium
+Africa,SLE,2011,484.0,Sierra Leone
+Europe,MDA,2003,106.0,Republic of Moldova
+Europe,LVA,2024,21.0,Latvia
+Eastern Mediterranean,OMN,2015,12.0,Oman
+Eastern Mediterranean,TUN,2000,57.0,Tunisia
+Africa,MLI,2014,64.0,Mali
+Eastern Mediterranean,AFG,2001,175.0,Afghanistan
+Western Pacific,NZL,2022,6.1,New Zealand
+Americas,ARG,2021,34.0,Argentina
+Eastern Mediterranean,JOR,2016,6.1,Jordan
+South-East Asia,MDV,2005,107.0,Maldives
+Americas,COL,2001,64.0,Colombia
+Africa,ZAF,2012,1160.0,South Africa
+Eastern Mediterranean,AFG,2007,241.0,Afghanistan
+Western Pacific,BRN,2024,65.0,Brunei Darussalam
+Americas,BRB,2021,0.35,Barbados
+Americas,JAM,2003,9.5,Jamaica
+Europe,EST,2018,14.0,Estonia
+Europe,BLR,2006,97.0,Belarus
+Americas,PER,2004,240.0,Peru
+Europe,GEO,2014,128.0,Georgia
+Europe,HRV,2018,11.0,Croatia
+Eastern Mediterranean,LBN,2011,15.0,Lebanon
+Americas,PER,2001,327.0,Peru
+Western Pacific,FSM,2013,312.0,Micronesia (Federated States of)
+South-East Asia,IND,2020,197.0,India
+Africa,SSD,2014,391.0,South Sudan
+Africa,BFA,2000,93.0,Burkina Faso
+Europe,NLD,2002,9.6,Netherlands (Kingdom of the)
+Europe,TUR,2024,13.0,Türkiye
+Europe,IRL,2001,14.0,Ireland
+Africa,MUS,2011,16.0,Mauritius
+Americas,KNA,2021,0.0,Saint Kitts and Nevis
+Western Pacific,KOR,2024,35.0,Republic of Korea
+Americas,BOL,2001,382.0,Bolivia (Plurinational State of)
+Western Pacific,MYS,2005,102.0,Malaysia
+Africa,AGO,2024,373.0,Angola
+Europe,ALB,2015,16.0,Albania
+Europe,KGZ,2011,191.0,Kyrgyzstan
+Africa,CAF,2000,681.0,Central African Republic
+Americas,USA,2002,6.8,United States of America
+Eastern Mediterranean,JOR,2000,9.5,Jordan
+Americas,URY,2013,34.0,Uruguay
+Eastern Mediterranean,SAU,2009,18.0,Saudi Arabia
+Americas,URY,2002,26.0,Uruguay
+Africa,MOZ,2016,361.0,Mozambique
+Africa,BWA,2002,901.0,Botswana
+Americas,ECU,2007,60.0,Ecuador
+Africa,COD,2011,490.0,Democratic Republic of the Congo
+Western Pacific,FJI,2020,81.0,Fiji
+Americas,SUR,2003,44.0,Suriname
+Americas,CAN,2009,5.7,Canada
+Africa,BFA,2008,79.0,Burkina Faso
+Americas,BHS,2011,15.0,Bahamas
+Africa,GMB,2015,173.0,Gambia
+Africa,GIN,2002,144.0,Guinea
+Western Pacific,PNG,2020,616.0,Papua New Guinea
+Africa,ERI,2019,127.0,Eritrea
+Western Pacific,JPN,2011,22.0,Japan
+Americas,VEN,2015,31.0,Venezuela (Bolivarian Republic of)
+Africa,KEN,2004,634.0,Kenya
+Europe,GBR,2006,15.0,United Kingdom of Great Britain and Northern Ireland
+Europe,BEL,2012,9.7,Belgium
+Eastern Mediterranean,DJI,2012,1020.0,Djibouti
+Western Pacific,SLB,2014,137.0,Solomon Islands
+Western Pacific,PHL,2004,549.0,Philippines
+Africa,GHA,2022,133.0,Ghana
+Africa,BDI,2013,136.0,Burundi
+South-East Asia,NPL,2002,393.0,Nepal
+Africa,ZWE,2012,355.0,Zimbabwe
+Eastern Mediterranean,SOM,2003,345.0,Somalia
+Western Pacific,MNG,2017,428.0,Mongolia
+Africa,DZA,2023,55.0,Algeria
+Americas,ECU,2002,95.0,Ecuador
+Europe,BIH,2015,46.0,Bosnia and Herzegovina
+Europe,EST,2000,105.0,Estonia
+Western Pacific,TUV,2022,260.0,Tuvalu
+Americas,COL,2011,40.0,Colombia
+Europe,DNK,2014,6.5,Denmark
+South-East Asia,BTN,2011,421.0,Bhutan
+Europe,SRB,2021,19.0,Serbia
+Africa,RWA,2003,173.0,Rwanda
+Americas,SUR,2005,42.0,Suriname
+Americas,CAN,2006,6.0,Canada
+Eastern Mediterranean,KWT,2019,23.0,Kuwait
+Europe,LTU,2014,79.0,Lithuania
+Africa,KEN,2018,292.0,Kenya
+Americas,BLZ,2001,131.0,Belize
+Eastern Mediterranean,YEM,2020,33.0,Yemen
+Africa,NGA,2013,219.0,Nigeria
+Americas,CUB,2005,10.0,Cuba
+Western Pacific,IDN,2000,370.0,Indonesia
+Europe,ROU,2003,202.0,Romania
+Americas,USA,2013,3.4,United States of America
+Africa,AGO,2013,453.0,Angola
+Eastern Mediterranean,PAK,2005,276.0,Pakistan
+Africa,GNQ,2017,229.0,Equatorial Guinea
+Africa,RWA,2011,76.0,Rwanda
+Europe,ESP,2011,17.0,Spain
+Eastern Mediterranean,TUN,2014,47.0,Tunisia
+Europe,AZE,2002,189.0,Azerbaijan
+Americas,KNA,2007,8.6,Saint Kitts and Nevis
+Western Pacific,BRN,2000,231.0,Brunei Darussalam
+Americas,BRB,2018,0.36,Barbados
+Eastern Mediterranean,YEM,2005,54.0,Yemen
+Eastern Mediterranean,PAK,2018,265.0,Pakistan
+Europe,LVA,2018,33.0,Latvia
+South-East Asia,MMR,2001,555.0,Myanmar
+Eastern Mediterranean,PAK,2012,276.0,Pakistan
+Europe,BLR,2018,31.0,Belarus
+South-East Asia,BTN,2018,213.0,Bhutan
+Americas,USA,2024,3.2,United States of America
+Americas,BRB,2010,2.2,Barbados
+Europe,UKR,2023,89.0,Ukraine
+Western Pacific,COK,2007,6.6,Cook Islands
+South-East Asia,THA,2015,163.0,Thailand
+Western Pacific,NRU,2012,60.0,Nauru
+Europe,AUT,2022,4.7,Austria
+South-East Asia,THA,2012,172.0,Thailand
+Western Pacific,NRU,2014,74.0,Nauru
+Eastern Mediterranean,BHR,2003,56.0,Bahrain
+Western Pacific,TON,2002,28.0,Tonga
+Africa,KEN,2010,531.0,Kenya
+Africa,ETH,2005,366.0,Ethiopia
+South-East Asia,MDV,2010,49.0,Maldives
+Eastern Mediterranean,KWT,2014,27.0,Kuwait
+Eastern Mediterranean,TUN,2010,39.0,Tunisia
+Africa,BDI,2018,106.0,Burundi
+Eastern Mediterranean,ARE,2017,1.0,United Arab Emirates
+Americas,PER,2020,128.0,Peru
+Western Pacific,VUT,2002,248.0,Vanuatu
+Africa,AGO,2022,379.0,Angola
+Africa,TCD,2016,152.0,Chad
+South-East Asia,IND,2002,320.0,India
+Europe,TUR,2012,28.0,Türkiye
+Europe,HRV,2014,15.0,Croatia
+Africa,ERI,2007,417.0,Eritrea
+Africa,TCD,2017,145.0,Chad
+Americas,ATG,2002,5.2,Antigua and Barbuda
+Americas,VEN,2013,30.0,Venezuela (Bolivarian Republic of)
+Eastern Mediterranean,EGY,2008,16.0,Egypt
+Americas,GRD,2010,3.6,Grenada
+Europe,CZE,2020,4.1,Czechia
+Africa,COM,2012,43.0,Comoros
+Americas,URY,2016,32.0,Uruguay
+Europe,KGZ,2022,133.0,Kyrgyzstan
+Eastern Mediterranean,IRQ,2015,33.0,Iraq
+Europe,BIH,2001,141.0,Bosnia and Herzegovina
+Americas,BHS,2003,19.0,Bahamas
+Eastern Mediterranean,JOR,2002,9.0,Jordan
+Americas,VEN,2005,46.0,Venezuela (Bolivarian Republic of)
+Europe,ARM,2010,86.0,Armenia
+South-East Asia,IND,2013,248.0,India
+Eastern Mediterranean,ARE,2024,0.63,United Arab Emirates
+Eastern Mediterranean,SYR,2006,42.0,Syrian Arab Republic
+Americas,DOM,2013,62.0,Dominican Republic
+Europe,CHE,2017,7.3,Switzerland
+Europe,HUN,2017,8.6,Hungary
+Americas,LCA,2018,2.8,Saint Lucia
+Europe,SVK,2000,32.0,Slovakia
+Western Pacific,FJI,2021,63.0,Fiji
+Europe,CYP,2009,6.9,Cyprus
+South-East Asia,THA,2005,224.0,Thailand
+Americas,CHL,2024,19.0,Chile
+Europe,HRV,2010,21.0,Croatia
+Europe,POL,2012,24.0,Poland
+Africa,UGA,2019,200.0,Uganda
+Western Pacific,KOR,2013,89.0,Republic of Korea
+Europe,TJK,2011,158.0,Tajikistan
+Africa,AGO,2009,489.0,Angola
+Europe,DEU,2005,7.6,Germany
+Africa,MRT,2016,102.0,Mauritania
+Western Pacific,PNG,2024,664.0,Papua New Guinea
+Western Pacific,MYS,2012,108.0,Malaysia
+Europe,TUR,2001,49.0,Türkiye
+Europe,SVN,2005,19.0,Slovenia
+Europe,TJK,2015,111.0,Tajikistan
+Western Pacific,JPN,2000,47.0,Japan
+Europe,GRC,2006,7.8,Greece
+Americas,BHS,2013,12.0,Bahamas
+Eastern Mediterranean,DJI,2002,1870.0,Djibouti
+Europe,SWE,2010,8.2,Sweden
+Africa,CAF,2015,503.0,Central African Republic
+Europe,HUN,2021,4.1,Hungary
+Americas,DOM,2007,78.0,Dominican Republic
+Western Pacific,KOR,2017,70.0,Republic of Korea
+Americas,ECU,2013,47.0,Ecuador
+Europe,BEL,2018,9.1,Belgium
+Western Pacific,MYS,2024,96.0,Malaysia
+Europe,ISL,2011,2.5,Iceland
+South-East Asia,NPL,2023,231.0,Nepal
+Eastern Mediterranean,IRQ,2013,37.0,Iraq
+Eastern Mediterranean,BHR,2020,17.0,Bahrain
+Europe,AZE,2005,237.0,Azerbaijan
+Western Pacific,MHL,2010,700.0,Marshall Islands
+Western Pacific,VUT,2012,104.0,Vanuatu
+Americas,JAM,2009,8.4,Jamaica
+Western Pacific,CHN,2005,91.0,China
+Africa,GNB,2019,189.0,Guinea-Bissau
+Americas,PRY,2017,57.0,Paraguay
+Africa,MWI,2008,371.0,Malawi
+Eastern Mediterranean,SDN,2008,116.0,Sudan
+Americas,CHL,2021,17.0,Chile
+Europe,ARM,2004,125.0,Armenia
+Europe,POL,2017,18.0,Poland
+Eastern Mediterranean,OMN,2004,21.0,Oman
+Africa,MUS,2006,19.0,Mauritius
+Africa,NAM,2000,985.0,Namibia
+Western Pacific,AUS,2002,6.4,Australia
+Europe,GEO,2006,196.0,Georgia
+Africa,CPV,2018,56.0,Cabo Verde
+Western Pacific,VNM,2002,284.0,Viet Nam
+Americas,PRI,2021,0.69,Puerto Rico
+Europe,ESP,2000,30.0,Spain
+Africa,TGO,2003,76.0,Togo
+Africa,RWA,2007,110.0,Rwanda
+Europe,ISL,2004,3.8,Iceland
+Europe,TUR,2020,16.0,Türkiye
+Americas,BHS,2023,8.8,Bahamas
+Africa,GIN,2010,189.0,Guinea
+Africa,BFA,2015,68.0,Burkina Faso
+Africa,NGA,2023,219.0,Nigeria
+Americas,COL,2024,49.0,Colombia
+Americas,SLV,2004,41.0,El Salvador
+Eastern Mediterranean,LBY,2008,57.0,Libya
+Eastern Mediterranean,PSE,2002,3.2,"occupied Palestinian territory, including east Jerusalem"
+Europe,FRA,2022,7.0,France
+Africa,RWA,2020,63.0,Rwanda
+Western Pacific,PNG,2009,527.0,Papua New Guinea
+Europe,AZE,2012,134.0,Azerbaijan
+Europe,SVK,2003,28.0,Slovakia
+Europe,AUT,2011,9.9,Austria
+Western Pacific,KOR,2019,58.0,Republic of Korea
+South-East Asia,MDV,2003,129.0,Maldives
+Africa,MUS,2023,12.0,Mauritius
+Europe,MNE,2018,19.0,Montenegro
+Western Pacific,IDN,2004,363.0,Indonesia
+Africa,MRT,2007,176.0,Mauritania
+Eastern Mediterranean,IRQ,2000,60.0,Iraq
+Europe,AZE,2021,67.0,Azerbaijan
+Europe,NLD,2015,5.7,Netherlands (Kingdom of the)
+Europe,HUN,2013,14.0,Hungary
+Africa,GIN,2004,163.0,Guinea
+Europe,TKM,2020,37.0,Turkmenistan
+Western Pacific,MYS,2017,103.0,Malaysia
+Europe,MNE,2022,17.0,Montenegro
+Europe,KAZ,2003,225.0,Kazakhstan
+Western Pacific,PLW,2018,95.0,Palau
+Europe,GRC,2020,4.4,Greece
+Africa,COM,2007,43.0,Comoros
+Europe,MNE,2015,19.0,Montenegro
+Western Pacific,MHL,2001,304.0,Marshall Islands
+Africa,MWI,2004,402.0,Malawi
+Africa,MOZ,2010,357.0,Mozambique
+Americas,BLZ,2005,70.0,Belize
+Europe,TUR,2022,15.0,Türkiye
+Western Pacific,VUT,2001,286.0,Vanuatu
+Europe,TJK,2019,80.0,Tajikistan
+Americas,JAM,2021,2.7,Jamaica
+Europe,ISL,2023,3.6,Iceland
+Western Pacific,BRN,2012,86.0,Brunei Darussalam
+Europe,ISR,2008,5.9,Israel
+Africa,COM,2005,43.0,Comoros
+Europe,MLT,2018,11.0,Malta
+Africa,NGA,2016,219.0,Nigeria
+Americas,JAM,2024,2.3,Jamaica
+Americas,PAN,2018,54.0,Panama
+Americas,DMA,2016,7.2,Dominica
+Europe,NOR,2010,7.1,Norway
+Americas,GUY,2019,80.0,Guyana
+Africa,ETH,2011,253.0,Ethiopia
+Africa,GHA,2021,136.0,Ghana
+Africa,GHA,2017,152.0,Ghana
+Africa,SYC,2007,19.0,Seychelles
+Africa,CAF,2001,667.0,Central African Republic
+Europe,MCO,2012,1.2,Monaco
+Europe,HRV,2006,33.0,Croatia
+Africa,GNQ,2020,216.0,Equatorial Guinea
+Africa,NAM,2009,974.0,Namibia
+Africa,ZAF,2001,867.0,South Africa
+Americas,SLV,2015,53.0,El Salvador
+Eastern Mediterranean,JOR,2010,6.7,Jordan
+Africa,ZMB,2013,437.0,Zambia
+Europe,LTU,2008,122.0,Lithuania
+Western Pacific,IDN,2019,312.0,Indonesia
+Eastern Mediterranean,SDN,2014,94.0,Sudan
+Africa,BWA,2010,601.0,Botswana
+Western Pacific,TUV,2019,284.0,Tuvalu
+Europe,BLR,2009,87.0,Belarus
+Africa,LSO,2003,1080.0,Lesotho
+Americas,BRA,2023,49.0,Brazil
+Africa,GIN,2018,178.0,Guinea
+Eastern Mediterranean,YEM,2017,40.0,Yemen
+Eastern Mediterranean,AFG,2015,200.0,Afghanistan
+Europe,GRC,2016,4.9,Greece
+South-East Asia,BGD,2001,221.0,Bangladesh
+Europe,BEL,2000,17.0,Belgium
+Europe,SWE,2016,8.3,Sweden
+Europe,BIH,2024,21.0,Bosnia and Herzegovina
+Europe,UKR,2018,82.0,Ukraine
+Eastern Mediterranean,TUN,2011,48.0,Tunisia
+Europe,ISL,2018,2.3,Iceland
+Americas,BOL,2018,98.0,Bolivia (Plurinational State of)
+Western Pacific,JPN,2007,26.0,Japan
+Americas,COL,2005,44.0,Colombia
+Europe,ISR,2009,6.2,Israel
+Europe,GBR,2023,8.6,United Kingdom of Great Britain and Northern Ireland
+Western Pacific,NIU,2014,0.0,Niue
+Africa,CMR,2012,248.0,Cameroon
+Europe,SVK,2012,7.8,Slovakia
+Europe,SVK,2018,6.1,Slovakia
+Americas,BHS,2017,17.0,Bahamas
+Africa,COM,2008,44.0,Comoros
+Europe,SVK,2008,15.0,Slovakia
+Western Pacific,FJI,2002,44.0,Fiji
+Europe,SVN,2000,27.0,Slovenia
+Europe,IRL,2019,6.2,Ireland
+Africa,BEN,2022,44.0,Benin
+Europe,BGR,2020,17.0,Bulgaria
+Africa,MLI,2003,79.0,Mali
+Western Pacific,BRN,2018,75.0,Brunei Darussalam
+Europe,HRV,2003,46.0,Croatia
+Africa,NER,2004,118.0,Niger
+Africa,LBR,2001,152.0,Liberia
+Africa,MOZ,2005,342.0,Mozambique
+Europe,BGR,2022,15.0,Bulgaria
+Western Pacific,TUV,2010,132.0,Tuvalu
+Western Pacific,KIR,2019,715.0,Kiribati
+Africa,NAM,2005,1250.0,Namibia
+Africa,TGO,2012,76.0,Togo
+South-East Asia,LKA,2024,59.0,Sri Lanka
+Eastern Mediterranean,QAT,2005,88.0,Qatar
+Americas,BLZ,2013,55.0,Belize
+Europe,ESP,2019,10.0,Spain
+Europe,SVK,2006,18.0,Slovakia
+Africa,MRT,2017,98.0,Mauritania
+Africa,LBR,2020,240.0,Liberia
+Africa,COG,2010,426.0,Congo
+Africa,MRT,2005,195.0,Mauritania
+South-East Asia,LKA,2017,61.0,Sri Lanka
+Western Pacific,IDN,2021,330.0,Indonesia
+South-East Asia,IND,2015,237.0,India
+Africa,BDI,2014,130.0,Burundi
+Americas,BHS,2010,12.0,Bahamas
+South-East Asia,IND,2009,283.0,India
+Africa,BFA,2024,57.0,Burkina Faso
+Americas,SUR,2009,55.0,Suriname
+Africa,DZA,2000,118.0,Algeria
+Europe,ARM,2006,124.0,Armenia
+Eastern Mediterranean,MAR,2010,98.0,Morocco
+Africa,GMB,2005,190.0,Gambia
+Europe,SWE,2009,7.8,Sweden
+Africa,AGO,2006,507.0,Angola
+Europe,ESP,2007,22.0,Spain
+Americas,BRA,2021,47.0,Brazil
+Western Pacific,TUV,2009,172.0,Tuvalu
+Europe,ALB,2022,15.0,Albania
+Western Pacific,SGP,2012,53.0,Singapore
+Americas,GUY,2006,163.0,Guyana
+Eastern Mediterranean,LBN,2008,17.0,Lebanon
+Africa,GNB,2021,183.0,Guinea-Bissau
+Western Pacific,CHN,2001,104.0,China
+Africa,COD,2005,553.0,Democratic Republic of the Congo
+Eastern Mediterranean,KWT,2006,36.0,Kuwait
+Africa,GAB,2000,332.0,Gabon
+Europe,TKM,2018,44.0,Turkmenistan
+Europe,LUX,2001,9.7,Luxembourg
+Europe,AZE,2018,78.0,Azerbaijan
+Europe,TUR,2017,19.0,Türkiye
+Europe,LUX,2014,5.3,Luxembourg
+South-East Asia,BGD,2008,221.0,Bangladesh
+Eastern Mediterranean,QAT,2019,42.0,Qatar
+Europe,ROU,2020,70.0,Romania
+Eastern Mediterranean,SAU,2017,10.0,Saudi Arabia
+Western Pacific,CHN,2006,88.0,China
+Western Pacific,AUS,2020,7.2,Australia
+Europe,GRC,2003,7.8,Greece
+Western Pacific,BRN,2022,63.0,Brunei Darussalam
+Western Pacific,SLB,2005,317.0,Solomon Islands
+Europe,UZB,2011,94.0,Uzbekistan
+Eastern Mediterranean,YEM,2003,66.0,Yemen
+Eastern Mediterranean,SAU,2012,15.0,Saudi Arabia
+Africa,RWA,2014,68.0,Rwanda
+Europe,ALB,2021,15.0,Albania
+Americas,URY,2020,35.0,Uruguay
+Western Pacific,IDN,2020,306.0,Indonesia
+Americas,ECU,2001,103.0,Ecuador
+Africa,GMB,2012,177.0,Gambia
+Eastern Mediterranean,EGY,2006,17.0,Egypt
+Americas,ARG,2019,33.0,Argentina
+Americas,GUY,2014,100.0,Guyana
+Europe,DEU,2023,5.6,Germany
+Eastern Mediterranean,LBN,2021,11.0,Lebanon
+Africa,SYC,2000,24.0,Seychelles
+Europe,BEL,2001,17.0,Belgium
+Africa,GNB,2016,203.0,Guinea-Bissau
+Africa,COM,2023,26.0,Comoros
+Americas,ARG,2020,27.0,Argentina
+Europe,EST,2014,24.0,Estonia
+Europe,MNE,2019,18.0,Montenegro
+Americas,CAN,2013,5.4,Canada
+Western Pacific,MYS,2001,136.0,Malaysia
+Eastern Mediterranean,EGY,2017,12.0,Egypt
+Western Pacific,PHL,2024,625.0,Philippines
+Americas,BHS,2006,25.0,Bahamas
+Europe,TJK,2005,208.0,Tajikistan
+Europe,CZE,2019,5.2,Czechia
+Africa,STP,2016,175.0,Sao Tome and Principe
+Africa,AGO,2002,390.0,Angola
+Africa,GNB,2011,253.0,Guinea-Bissau
+Africa,LBR,2010,331.0,Liberia
+Africa,NER,2014,104.0,Niger
+Eastern Mediterranean,LBY,2003,64.0,Libya
+Europe,MLT,2003,1.7,Malta
+Western Pacific,NIU,2022,0.0,Niue
+Americas,BLZ,2016,49.0,Belize
+Eastern Mediterranean,SDN,2016,82.0,Sudan
+Europe,MKD,2011,26.0,North Macedonia
+Americas,VCT,2009,8.1,Saint Vincent and the Grenadines
+Europe,FIN,2008,7.5,Finland
+Eastern Mediterranean,AFG,2004,228.0,Afghanistan
+Americas,NIC,2006,75.0,Nicaragua
+Europe,SVK,2009,12.0,Slovakia
+Africa,TGO,2009,90.0,Togo
+Africa,COG,2015,348.0,Congo
+Africa,GAB,2019,427.0,Gabon
+Africa,BEN,2002,78.0,Benin
+Western Pacific,SLB,2012,165.0,Solomon Islands
+Americas,BLZ,2000,113.0,Belize
+Europe,LUX,2022,8.7,Luxembourg
+Africa,SLE,2007,525.0,Sierra Leone
+Africa,BEN,2013,69.0,Benin
+Europe,ISL,2016,1.8,Iceland
+Western Pacific,NIU,2010,0.0,Niue
+South-East Asia,BGD,2016,221.0,Bangladesh
+Americas,VEN,2000,62.0,Venezuela (Bolivarian Republic of)
+Africa,GMB,2020,153.0,Gambia
+Western Pacific,MHL,2003,311.0,Marshall Islands
+Africa,SWZ,2002,1110.0,Eswatini
+Europe,DEU,2003,9.4,Germany
+Africa,KEN,2016,348.0,Kenya
+Europe,ARM,2018,37.0,Armenia
+Africa,COD,2018,426.0,Democratic Republic of the Congo
+Africa,RWA,2005,138.0,Rwanda
+Africa,CPV,2022,39.0,Cabo Verde
+Western Pacific,PNG,2002,887.0,Papua New Guinea
+Europe,LUX,2004,9.2,Luxembourg
+Eastern Mediterranean,YEM,2016,40.0,Yemen
+Americas,PER,2021,137.0,Peru
+Eastern Mediterranean,QAT,2006,72.0,Qatar
+Africa,CMR,2024,132.0,Cameroon
+Europe,ARM,2012,70.0,Armenia
+Western Pacific,CHN,2023,52.0,China
+Europe,IRL,2011,11.0,Ireland
+South-East Asia,MMR,2019,322.0,Myanmar
+Europe,BIH,2011,59.0,Bosnia and Herzegovina
+Americas,MEX,2018,26.0,Mexico
+Western Pacific,MNG,2013,428.0,Mongolia
+Europe,KAZ,2008,142.0,Kazakhstan
+Eastern Mediterranean,SDN,2006,146.0,Sudan
+Americas,DOM,2010,61.0,Dominican Republic
+Africa,STP,2001,241.0,Sao Tome and Principe
+Europe,MDA,2020,86.0,Republic of Moldova
+Africa,UGA,2023,198.0,Uganda
+Western Pacific,JPN,2010,22.0,Japan
+Africa,SEN,2007,185.0,Senegal
+Western Pacific,TUV,2004,173.0,Tuvalu
+Western Pacific,VUT,2024,44.0,Vanuatu
+Western Pacific,KHM,2020,285.0,Cambodia
+Africa,COD,2024,377.0,Democratic Republic of the Congo
+Americas,TTO,2008,31.0,Trinidad and Tobago
+Africa,CAF,2012,534.0,Central African Republic
+Africa,LSO,2014,853.0,Lesotho
+Europe,EST,2022,12.0,Estonia
+Western Pacific,PHL,2007,520.0,Philippines
+Africa,SEN,2015,165.0,Senegal
+Eastern Mediterranean,LBN,2020,16.0,Lebanon
+Americas,URY,2001,34.0,Uruguay
+Western Pacific,KOR,2007,93.0,Republic of Korea
+Europe,NOR,2021,3.0,Norway
+Americas,USA,2001,7.4,United States of America
+Africa,MRT,2024,65.0,Mauritania
+Africa,GAB,2010,461.0,Gabon
+Africa,RWA,2000,238.0,Rwanda
+Americas,DMA,2005,9.7,Dominica
+Europe,MLT,2004,4.4,Malta
+Europe,NOR,2022,3.2,Norway
+Eastern Mediterranean,PAK,2021,270.0,Pakistan
+Americas,BRA,2013,42.0,Brazil
+South-East Asia,BTN,2022,171.0,Bhutan
+Europe,GBR,2024,9.7,United Kingdom of Great Britain and Northern Ireland
+Africa,GMB,2021,149.0,Gambia
+Europe,TKM,2002,155.0,Turkmenistan
+Western Pacific,SGP,2022,53.0,Singapore
+Europe,CHE,2014,6.2,Switzerland
+Europe,BIH,2022,21.0,Bosnia and Herzegovina
+Africa,COG,2002,532.0,Congo
+Africa,SLE,2001,592.0,Sierra Leone
+Africa,NGA,2017,219.0,Nigeria
+Western Pacific,FSM,2006,271.0,Micronesia (Federated States of)
+Africa,MDG,2000,207.0,Madagascar
+Europe,SMR,2006,0.0,San Marino
+Africa,GHA,2004,206.0,Ghana
+Western Pacific,COK,2000,6.3,Cook Islands
+Americas,KNA,2011,2.1,Saint Kitts and Nevis
+Europe,CYP,2011,6.4,Cyprus
+Europe,NLD,2004,9.2,Netherlands (Kingdom of the)
+Africa,SLE,2015,446.0,Sierra Leone
+Eastern Mediterranean,LBN,2018,15.0,Lebanon
+Americas,BHS,2020,10.0,Bahamas
+Africa,NER,2005,123.0,Niger
+Africa,ETH,2015,200.0,Ethiopia
+Africa,STP,2009,107.0,Sao Tome and Principe
+Europe,HUN,2008,20.0,Hungary
+Americas,PRY,2007,72.0,Paraguay
+Eastern Mediterranean,LBN,2024,13.0,Lebanon
+Europe,AND,2023,4.9,Andorra
+Eastern Mediterranean,TUN,2012,51.0,Tunisia
+Europe,SVN,2014,8.7,Slovenia
+Eastern Mediterranean,MAR,2002,115.0,Morocco
+Americas,MEX,2019,26.0,Mexico
+Eastern Mediterranean,BHR,2021,17.0,Bahrain
+Americas,MEX,2014,25.0,Mexico
+Africa,GHA,2019,144.0,Ghana
+Western Pacific,PLW,2006,61.0,Palau
+Americas,CRI,2021,9.8,Costa Rica
+Europe,ARM,2015,63.0,Armenia
+Europe,RUS,2020,49.0,Russian Federation
+Africa,BFA,2010,76.0,Burkina Faso
+Europe,SWE,2004,6.5,Sweden
+Americas,BOL,2009,214.0,Bolivia (Plurinational State of)
+Africa,MRT,2023,70.0,Mauritania
+South-East Asia,MMR,2017,355.0,Myanmar
+Americas,DOM,2006,92.0,Dominican Republic
+Africa,MRT,2009,155.0,Mauritania
+Europe,GEO,2024,45.0,Georgia
+South-East Asia,MMR,2010,500.0,Myanmar
+Europe,AUT,2005,15.0,Austria
+Africa,GNQ,2006,286.0,Equatorial Guinea
+Eastern Mediterranean,AFG,2017,209.0,Afghanistan
+Africa,SWZ,2009,1590.0,Eswatini
+Western Pacific,NZL,2013,7.4,New Zealand
+Europe,DEU,2019,6.1,Germany
+Americas,TTO,2014,24.0,Trinidad and Tobago
+Europe,DNK,2016,6.3,Denmark
+Western Pacific,VNM,2012,218.0,Viet Nam
+Americas,KNA,2013,0.0,Saint Kitts and Nevis
+Europe,DEU,2002,9.3,Germany
+Africa,STP,2004,252.0,Sao Tome and Principe
+Western Pacific,SGP,2006,45.0,Singapore
+Europe,RUS,2011,81.0,Russian Federation
+Europe,ARM,2014,73.0,Armenia
+Americas,CAN,2007,5.8,Canada
+Western Pacific,PNG,2016,626.0,Papua New Guinea
+Eastern Mediterranean,KWT,2007,34.0,Kuwait
+Africa,GHA,2000,216.0,Ghana
+Africa,LSO,2009,1230.0,Lesotho
+Western Pacific,NIU,2007,0.0,Niue
+Africa,NAM,2002,1190.0,Namibia
+Africa,TCD,2024,118.0,Chad
+Eastern Mediterranean,SDN,2003,138.0,Sudan
+Africa,ERI,2013,229.0,Eritrea
+Americas,SLV,2020,42.0,El Salvador
+Europe,MDA,2022,75.0,Republic of Moldova
+Eastern Mediterranean,LBN,2019,18.0,Lebanon
+Western Pacific,MYS,2009,97.0,Malaysia
+Americas,HND,2020,38.0,Honduras
+Eastern Mediterranean,EGY,2010,15.0,Egypt
+Americas,SLV,2013,48.0,El Salvador
+Europe,SWE,2021,3.8,Sweden
+Europe,NOR,2009,8.1,Norway
+Africa,ZMB,2005,602.0,Zambia
+Western Pacific,MHL,2004,594.0,Marshall Islands
+Eastern Mediterranean,KWT,2008,44.0,Kuwait
+Europe,POL,2023,13.0,Poland
+South-East Asia,MMR,2003,552.0,Myanmar
+Eastern Mediterranean,OMN,2003,19.0,Oman
+Americas,SUR,2007,43.0,Suriname
+Eastern Mediterranean,PAK,2000,275.0,Pakistan
+Europe,ROU,2021,67.0,Romania
+Eastern Mediterranean,PAK,2002,275.0,Pakistan
+Africa,TGO,2014,66.0,Togo
+Africa,BEN,2001,75.0,Benin
+Europe,ESP,2022,6.3,Spain
+Western Pacific,PNG,2021,622.0,Papua New Guinea
+Eastern Mediterranean,BHR,2015,18.0,Bahrain
+Eastern Mediterranean,AFG,2014,197.0,Afghanistan
+Europe,LTU,2003,164.0,Lithuania
+Europe,GEO,2023,51.0,Georgia
+Americas,ATG,2011,7.0,Antigua and Barbuda
+Eastern Mediterranean,PAK,2024,266.0,Pakistan
+Americas,SLV,2024,116.0,El Salvador
+Europe,FIN,2017,5.0,Finland
+Americas,URY,2000,33.0,Uruguay
+Europe,TJK,2020,77.0,Tajikistan
+Americas,CRI,2013,12.0,Costa Rica
+Americas,COL,2008,43.0,Colombia
+Europe,SVN,2013,8.6,Slovenia
+Americas,DOM,2017,50.0,Dominican Republic
+Western Pacific,BRN,2016,75.0,Brunei Darussalam
+Eastern Mediterranean,SOM,2019,175.0,Somalia
+Eastern Mediterranean,AFG,2012,194.0,Afghanistan
+Western Pacific,AUS,2017,6.6,Australia
+Americas,DMA,2022,0.0,Dominica
+Europe,ALB,2014,16.0,Albania
+Africa,DZA,2011,87.0,Algeria
+Africa,CIV,2021,112.0,Cote d'Ivoire
+Africa,CMR,2013,238.0,Cameroon
+Americas,LCA,2019,3.4,Saint Lucia
+Europe,CZE,2006,12.0,Czechia
+Western Pacific,PNG,2010,528.0,Papua New Guinea
+Europe,LUX,2008,7.6,Luxembourg
+Americas,ECU,2015,42.0,Ecuador
+Europe,DNK,2020,4.3,Denmark
+Africa,ZMB,2019,333.0,Zambia
+Europe,BEL,2011,10.0,Belgium
+Europe,NLD,2014,5.5,Netherlands (Kingdom of the)
+Africa,MUS,2002,26.0,Mauritius
+Europe,LVA,2011,69.0,Latvia
+Western Pacific,KOR,2008,90.0,Republic of Korea
+Africa,ZAF,2019,615.0,South Africa
+South-East Asia,MDV,2015,57.0,Maldives
+Africa,ERI,2011,262.0,Eritrea
+South-East Asia,BTN,2007,436.0,Bhutan
+Europe,NLD,2005,7.9,Netherlands (Kingdom of the)
+Western Pacific,WSM,2020,6.1,Samoa
+Eastern Mediterranean,OMN,2022,11.0,Oman
+Africa,ZWE,2003,617.0,Zimbabwe
+Eastern Mediterranean,TUN,2016,49.0,Tunisia
+Americas,BRB,2019,0.0,Barbados
+Western Pacific,KHM,2008,509.0,Cambodia
+Europe,IRL,2016,7.6,Ireland
+South-East Asia,THA,2023,149.0,Thailand
+Africa,RWA,2012,72.0,Rwanda
+Europe,AUT,2001,18.0,Austria
+Europe,SVK,2020,3.4,Slovakia
+Europe,NLD,2001,10.0,Netherlands (Kingdom of the)
+Africa,ZAF,2003,1070.0,South Africa
+Americas,CHL,2017,18.0,Chile
+Western Pacific,TON,2012,10.0,Tonga
+Europe,AUT,2008,12.0,Austria
+Western Pacific,VNM,2021,171.0,Viet Nam
+Western Pacific,COK,2014,11.0,Cook Islands
+Americas,BRA,2004,52.0,Brazil
+Americas,PRI,2013,1.9,Puerto Rico
+Africa,COM,2001,49.0,Comoros
+Americas,GUY,2024,67.0,Guyana
+Africa,GAB,2005,373.0,Gabon
+Western Pacific,COK,2005,6.6,Cook Islands
+Western Pacific,VNM,2003,278.0,Viet Nam
+Eastern Mediterranean,QAT,2000,99.0,Qatar
+Eastern Mediterranean,TUN,2004,39.0,Tunisia
+Africa,DZA,2022,55.0,Algeria
+Africa,GMB,2004,191.0,Gambia
+Europe,TKM,2017,42.0,Turkmenistan
+Europe,LTU,2012,91.0,Lithuania
+Eastern Mediterranean,KWT,2022,13.0,Kuwait
+Europe,MNE,2012,24.0,Montenegro
+Africa,ERI,2022,134.0,Eritrea
+Europe,ISL,2007,3.9,Iceland
+Eastern Mediterranean,AFG,2022,206.0,Afghanistan
+Africa,TZA,2011,401.0,United Republic of Tanzania
+Americas,GTM,2009,23.0,Guatemala
+Western Pacific,VUT,2015,82.0,Vanuatu
+Western Pacific,IDN,2001,369.0,Indonesia
+Western Pacific,PHL,2003,559.0,Philippines
+Africa,ZWE,2010,416.0,Zimbabwe
+Eastern Mediterranean,IRN,2004,35.0,Iran (Islamic Republic of)
+Western Pacific,BRN,2004,94.0,Brunei Darussalam
+Europe,POL,2001,42.0,Poland
+Europe,CHE,2002,11.0,Switzerland
+Europe,GBR,2010,14.0,United Kingdom of Great Britain and Northern Ireland
+Africa,GIN,2005,171.0,Guinea
+Europe,LVA,2021,19.0,Latvia
+Americas,GUY,2011,145.0,Guyana
+Americas,JAM,2010,7.6,Jamaica
+South-East Asia,NPL,2008,329.0,Nepal
+Europe,ITA,2016,7.5,Italy
+Eastern Mediterranean,TUN,2008,39.0,Tunisia
+Europe,ALB,2010,17.0,Albania
+Eastern Mediterranean,PAK,2011,276.0,Pakistan
+Western Pacific,KOR,2001,85.0,Republic of Korea
+Americas,SUR,2022,32.0,Suriname
+Africa,GMB,2022,145.0,Gambia
+Western Pacific,KOR,2014,85.0,Republic of Korea
+South-East Asia,BGD,2021,221.0,Bangladesh
+Western Pacific,SLB,2010,177.0,Solomon Islands
+Europe,BLR,2002,110.0,Belarus
+Europe,GBR,2011,15.0,United Kingdom of Great Britain and Northern Ireland
+Eastern Mediterranean,MAR,2014,99.0,Morocco
+Africa,UGA,2017,201.0,Uganda
+Americas,KNA,2018,0.0,Saint Kitts and Nevis
+Western Pacific,NZL,2005,10.0,New Zealand
+Europe,SMR,2020,0.0,San Marino
+Western Pacific,NIU,2013,0.0,Niue
+Western Pacific,MNG,2000,428.0,Mongolia
+Western Pacific,TUV,2020,288.0,Tuvalu
+Western Pacific,FJI,2023,72.0,Fiji
+Europe,EST,2006,54.0,Estonia
+Western Pacific,FSM,2005,271.0,Micronesia (Federated States of)
+Europe,IRL,2007,13.0,Ireland
+Europe,MLT,2005,5.3,Malta
+Europe,ITA,2022,4.5,Italy
+Western Pacific,PHL,2005,539.0,Philippines
+Europe,HRV,2024,6.6,Croatia
+Africa,SYC,2002,34.0,Seychelles
+Europe,LUX,2013,8.7,Luxembourg
+Africa,NER,2011,122.0,Niger
+South-East Asia,BTN,2021,185.0,Bhutan
+Eastern Mediterranean,SYR,2013,23.0,Syrian Arab Republic
+Americas,SLV,2018,76.0,El Salvador
+Europe,POL,2022,13.0,Poland
+Western Pacific,SLB,2017,124.0,Solomon Islands
+Europe,DEU,2015,7.6,Germany
+Africa,ZAF,2000,762.0,South Africa
+South-East Asia,NPL,2011,302.0,Nepal
+Eastern Mediterranean,LBN,2010,16.0,Lebanon
+Americas,USA,2015,3.3,United States of America
+Europe,DEU,2017,7.1,Germany
+Americas,VEN,2023,47.0,Venezuela (Bolivarian Republic of)
+Americas,MEX,2023,28.0,Mexico
+Africa,AGO,2016,433.0,Angola
+Western Pacific,IDN,2015,325.0,Indonesia
+Europe,ROU,2019,73.0,Romania
+Americas,JAM,2007,6.8,Jamaica
+Africa,GAB,2008,426.0,Gabon
+Africa,RWA,2016,65.0,Rwanda
+Americas,BRB,2006,1.9,Barbados
+Europe,CYP,2008,6.7,Cyprus
+Europe,MKD,2017,15.0,North Macedonia
+Africa,MWI,2002,401.0,Malawi
+Africa,BFA,2019,63.0,Burkina Faso
+Africa,BWA,2011,568.0,Botswana
+Western Pacific,IDN,2002,367.0,Indonesia
+Western Pacific,CHN,2021,55.0,China
+Europe,KAZ,2016,68.0,Kazakhstan
+Europe,RUS,2013,73.0,Russian Federation
+South-East Asia,MDV,2016,57.0,Maldives
+Americas,GUY,2004,152.0,Guyana
+South-East Asia,TLS,2023,455.0,Timor-Leste
+Western Pacific,NIU,2012,0.0,Niue
+Western Pacific,PLW,2024,28.0,Palau
+Europe,GEO,2021,63.0,Georgia
+Europe,KAZ,2000,168.0,Kazakhstan
+Americas,HND,2004,108.0,Honduras
+Western Pacific,PNG,2014,611.0,Papua New Guinea
+Americas,BOL,2013,147.0,Bolivia (Plurinational State of)
+Western Pacific,MNG,2018,428.0,Mongolia
+Americas,PRI,2022,0.86,Puerto Rico
+Western Pacific,NRU,2023,152.0,Nauru
+Americas,COL,2016,34.0,Colombia
+Europe,KAZ,2024,45.0,Kazakhstan
+Africa,GMB,2010,179.0,Gambia
+Africa,SEN,2019,143.0,Senegal
+Americas,MEX,2020,26.0,Mexico
+Europe,TJK,2016,102.0,Tajikistan
+Western Pacific,TUV,2017,212.0,Tuvalu
+Africa,SSD,2013,399.0,South Sudan
+Africa,KEN,2024,207.0,Kenya
+Europe,FIN,2023,3.7,Finland
+Europe,ISL,2013,3.4,Iceland
+Eastern Mediterranean,ARE,2006,3.3,United Arab Emirates
+Africa,TZA,2003,510.0,United Republic of Tanzania
+Europe,LUX,2000,14.0,Luxembourg
+Africa,GIN,2021,179.0,Guinea
+Eastern Mediterranean,QAT,2003,84.0,Qatar
+Eastern Mediterranean,LBN,2014,16.0,Lebanon
+Eastern Mediterranean,TUN,2024,39.0,Tunisia
+Americas,GTM,2018,24.0,Guatemala
+Western Pacific,VUT,2020,52.0,Vanuatu
+Americas,HND,2018,45.0,Honduras
+Western Pacific,SLB,2018,124.0,Solomon Islands
+Americas,COL,2019,36.0,Colombia
+Europe,PRT,2001,59.0,Portugal
+Americas,SUR,2016,27.0,Suriname
+South-East Asia,IND,2003,318.0,India
+Americas,GTM,2000,28.0,Guatemala
+Europe,ALB,2017,20.0,Albania
+Americas,HTI,2023,185.0,Haiti
+Eastern Mediterranean,ARE,2014,1.1,United Arab Emirates
+Americas,URY,2008,29.0,Uruguay
+Americas,COL,2002,59.0,Colombia
+Western Pacific,PHL,2009,528.0,Philippines
+Americas,VCT,2007,11.0,Saint Vincent and the Grenadines
+Africa,ETH,2000,489.0,Ethiopia
+Eastern Mediterranean,PSE,2009,1.5,"occupied Palestinian territory, including east Jerusalem"
+Americas,BRA,2005,48.0,Brazil
+Europe,CZE,2010,7.6,Czechia
+Africa,CMR,2019,168.0,Cameroon
+Western Pacific,TUV,2003,320.0,Tuvalu
+Africa,BWA,2012,536.0,Botswana
+Europe,ALB,2012,16.0,Albania
+Eastern Mediterranean,AFG,2006,242.0,Afghanistan
+South-East Asia,LKA,2009,92.0,Sri Lanka
+Africa,CMR,2016,202.0,Cameroon
+Western Pacific,COK,2023,28.0,Cook Islands
+Africa,BFA,2006,82.0,Burkina Faso
+Eastern Mediterranean,MAR,2023,97.0,Morocco
+Europe,DNK,2001,13.0,Denmark
+Europe,GEO,2012,155.0,Georgia
+Europe,BGR,2009,59.0,Bulgaria
+Western Pacific,VNM,2017,188.0,Viet Nam
+Eastern Mediterranean,YEM,2000,94.0,Yemen
+Western Pacific,JPN,2003,35.0,Japan
+Eastern Mediterranean,JOR,2017,7.5,Jordan
+Europe,BIH,2002,87.0,Bosnia and Herzegovina
+South-East Asia,BGD,2013,221.0,Bangladesh
+Americas,TTO,2004,23.0,Trinidad and Tobago
+Eastern Mediterranean,AFG,2010,218.0,Afghanistan
+Americas,URY,2018,36.0,Uruguay
+Europe,MKD,2000,59.0,North Macedonia
+South-East Asia,LKA,2011,85.0,Sri Lanka
+Europe,LTU,2022,35.0,Lithuania
+Eastern Mediterranean,BHR,2008,44.0,Bahrain
+Eastern Mediterranean,PSE,2015,1.4,"occupied Palestinian territory, including east Jerusalem"
+Africa,COG,2001,550.0,Congo
+Europe,IRL,2008,13.0,Ireland
+Europe,CYP,2019,6.4,Cyprus
+Europe,GBR,2012,15.0,United Kingdom of Great Britain and Northern Ireland
+Africa,ZAF,2008,1270.0,South Africa
+Western Pacific,MNG,2005,428.0,Mongolia
+Europe,NOR,2004,7.8,Norway
+Western Pacific,NZL,2012,8.1,New Zealand
+Western Pacific,BRN,2009,84.0,Brunei Darussalam
+Americas,SUR,2012,35.0,Suriname
+Americas,PAN,2001,99.0,Panama
+Americas,MEX,2011,27.0,Mexico
+Eastern Mediterranean,LBY,2023,57.0,Libya
+Europe,BLR,2004,111.0,Belarus
+Western Pacific,MYS,2023,97.0,Malaysia
+Europe,LUX,2023,7.6,Luxembourg
+Europe,TJK,2010,170.0,Tajikistan
+Eastern Mediterranean,LBY,2018,37.0,Libya
+South-East Asia,BGD,2017,221.0,Bangladesh
+Europe,AUT,2021,5.1,Austria
+Western Pacific,NRU,2001,30.0,Nauru
+Americas,BRA,2016,41.0,Brazil
+Europe,LUX,2009,7.1,Luxembourg
+Europe,KGZ,2020,131.0,Kyrgyzstan
+Western Pacific,IDN,2018,316.0,Indonesia
+Africa,MOZ,2000,336.0,Mozambique
+Europe,SVN,2003,20.0,Slovenia
+Eastern Mediterranean,PSE,2003,2.1,"occupied Palestinian territory, including east Jerusalem"
+South-East Asia,MMR,2004,549.0,Myanmar
+Africa,CMR,2021,150.0,Cameroon
+Eastern Mediterranean,OMN,2005,18.0,Oman
+Western Pacific,MNG,2006,428.0,Mongolia
+Western Pacific,MNG,2021,421.0,Mongolia
+Europe,SWE,2018,5.5,Sweden
+Eastern Mediterranean,AFG,2024,203.0,Afghanistan
+Africa,LSO,2010,1180.0,Lesotho
+Eastern Mediterranean,BHR,2016,15.0,Bahrain
+Western Pacific,LAO,2003,293.0,Lao People's Democratic Republic
+Europe,SVN,2004,18.0,Slovenia
+Africa,GMB,2023,142.0,Gambia
+Americas,ATG,2010,8.2,Antigua and Barbuda
+South-East Asia,MMR,2000,555.0,Myanmar
+Americas,CUB,2011,9.3,Cuba
+Americas,COL,2021,41.0,Colombia
+South-East Asia,LKA,2013,78.0,Sri Lanka
+Europe,SVK,2014,7.5,Slovakia
+Africa,TZA,2016,287.0,United Republic of Tanzania
+Africa,KEN,2009,566.0,Kenya
+Eastern Mediterranean,LBN,2001,24.0,Lebanon
+Europe,LUX,2018,8.1,Luxembourg
+Europe,IRL,2000,14.0,Ireland
+Western Pacific,COK,2021,0.0,Cook Islands
+Europe,MDA,2019,91.0,Republic of Moldova
+Eastern Mediterranean,SDN,2001,139.0,Sudan
+Americas,ECU,2014,44.0,Ecuador
+Europe,HRV,2008,31.0,Croatia
+Americas,BHS,2021,14.0,Bahamas
+Western Pacific,FSM,2015,214.0,Micronesia (Federated States of)
+South-East Asia,LKA,2008,96.0,Sri Lanka
+Europe,ALB,2005,19.0,Albania
+Americas,KNA,2017,2.1,Saint Kitts and Nevis
+Europe,PRT,2006,39.0,Portugal
+Europe,DNK,2003,10.0,Denmark
+Europe,MKD,2018,15.0,North Macedonia
+Western Pacific,SGP,2008,45.0,Singapore
+Africa,CIV,2022,107.0,Cote d'Ivoire
+Africa,BEN,2004,82.0,Benin
+Europe,PRT,2024,15.0,Portugal
+Western Pacific,IDN,2007,353.0,Indonesia
+Africa,MWI,2009,356.0,Malawi
+Europe,POL,2004,34.0,Poland
+Eastern Mediterranean,QAT,2015,31.0,Qatar
+Eastern Mediterranean,BHR,2012,28.0,Bahrain
+Africa,TZA,2018,253.0,United Republic of Tanzania
+Europe,IRL,2012,9.5,Ireland
+Africa,GIN,2003,154.0,Guinea
+Europe,ISL,2015,2.1,Iceland
+Americas,PRY,2010,62.0,Paraguay
+Europe,NLD,2020,4.0,Netherlands (Kingdom of the)
+Americas,PAN,2009,64.0,Panama
+Europe,KAZ,2001,170.0,Kazakhstan
+Eastern Mediterranean,OMN,2007,21.0,Oman
+Americas,ECU,2008,56.0,Ecuador
+Eastern Mediterranean,MAR,2013,97.0,Morocco
+Americas,SLV,2001,53.0,El Salvador
+Africa,AGO,2018,403.0,Angola
+Africa,KEN,2003,610.0,Kenya
+Africa,BWA,2021,241.0,Botswana
+Africa,MUS,2017,14.0,Mauritius
+Africa,ERI,2012,261.0,Eritrea
+Africa,SYC,2005,16.0,Seychelles
+Americas,CUB,2008,10.0,Cuba
+Eastern Mediterranean,IRQ,2005,50.0,Iraq
+Europe,UKR,2011,132.0,Ukraine
+Europe,TUR,2008,40.0,Türkiye
+South-East Asia,MDV,2000,139.0,Maldives
+Eastern Mediterranean,EGY,2001,21.0,Egypt
+Americas,SUR,2001,38.0,Suriname
+Africa,CPV,2019,57.0,Cabo Verde
+Europe,ISR,2017,3.4,Israel
+Americas,TTO,2015,18.0,Trinidad and Tobago
+Africa,MWI,2012,291.0,Malawi
+Western Pacific,NZL,2001,13.0,New Zealand
+South-East Asia,IND,2008,291.0,India
+Eastern Mediterranean,IRN,2013,24.0,Iran (Islamic Republic of)
+Europe,KGZ,2010,192.0,Kyrgyzstan
+Africa,GHA,2011,178.0,Ghana
+Eastern Mediterranean,MAR,2016,101.0,Morocco
+Europe,CZE,2000,18.0,Czechia
+Americas,USA,2016,3.1,United States of America
+Eastern Mediterranean,PSE,2001,4.3,"occupied Palestinian territory, including east Jerusalem"
+Americas,VCT,2021,4.9,Saint Vincent and the Grenadines
+Europe,SVK,2013,9.5,Slovakia
+Africa,SEN,2011,179.0,Senegal
+Africa,AGO,2007,509.0,Angola
+Americas,CHL,2023,20.0,Chile
+Europe,ESP,2014,12.0,Spain
+Europe,ITA,2020,4.2,Italy
+Africa,SEN,2021,136.0,Senegal
+Europe,DEU,2009,5.7,Germany
+Africa,UGA,2010,210.0,Uganda
+Europe,SRB,2022,17.0,Serbia
+Americas,BOL,2004,321.0,Bolivia (Plurinational State of)
+Europe,EST,2009,40.0,Estonia
+Western Pacific,AUS,2023,6.2,Australia
+Europe,TUR,2021,16.0,Türkiye
+Africa,GAB,2015,488.0,Gabon
+Europe,PRT,2021,16.0,Portugal
+Americas,PRI,2008,3.9,Puerto Rico
+Africa,GAB,2004,361.0,Gabon
+Western Pacific,LAO,2011,213.0,Lao People's Democratic Republic
+Western Pacific,AUS,2014,6.5,Australia
+Western Pacific,SLB,2023,97.0,Solomon Islands
+South-East Asia,MMR,2005,545.0,Myanmar
+Eastern Mediterranean,IRN,2003,38.0,Iran (Islamic Republic of)
+Africa,GHA,2013,168.0,Ghana
+Eastern Mediterranean,YEM,2024,40.0,Yemen
+Europe,DEU,2016,7.6,Germany
+Americas,GTM,2024,28.0,Guatemala
+Americas,BHS,2004,25.0,Bahamas
+South-East Asia,MDV,2006,78.0,Maldives
+Europe,HRV,2007,30.0,Croatia
+Eastern Mediterranean,MAR,2024,98.0,Morocco
+South-East Asia,BGD,2003,221.0,Bangladesh
+Africa,BWA,2018,339.0,Botswana
+Africa,DZA,2013,77.0,Algeria
+Europe,CYP,2013,4.7,Cyprus
+Africa,NAM,2021,441.0,Namibia
+Europe,TKM,2013,76.0,Turkmenistan
+Americas,GRD,2011,1.8,Grenada
+Western Pacific,FJI,2000,49.0,Fiji
+Eastern Mediterranean,PAK,2019,263.0,Pakistan
+Americas,BRA,2015,41.0,Brazil
+Africa,GAB,2012,483.0,Gabon
+Europe,ITA,2010,9.5,Italy
+Western Pacific,BRN,2001,146.0,Brunei Darussalam
+Eastern Mediterranean,LBN,2015,15.0,Lebanon
+Eastern Mediterranean,SAU,2015,12.0,Saudi Arabia
+Americas,BLZ,2018,39.0,Belize
+Europe,KGZ,2015,178.0,Kyrgyzstan
+Africa,GHA,2009,187.0,Ghana
+Americas,BOL,2017,104.0,Bolivia (Plurinational State of)
+Africa,BDI,2022,89.0,Burundi
+South-East Asia,TLS,2004,1010.0,Timor-Leste
+Eastern Mediterranean,QAT,2020,41.0,Qatar
+Africa,ZAF,2024,389.0,South Africa
+Western Pacific,NRU,2009,40.0,Nauru
+Europe,ARM,2008,108.0,Armenia
+Americas,NIC,2008,76.0,Nicaragua
+Africa,ZWE,2011,384.0,Zimbabwe
+South-East Asia,TLS,2016,403.0,Timor-Leste
+South-East Asia,NPL,2019,238.0,Nepal
+Europe,MDA,2009,122.0,Republic of Moldova
+Africa,LBR,2018,257.0,Liberia
+Africa,SSD,2012,407.0,South Sudan
+Africa,ERI,2005,483.0,Eritrea
+Americas,GUY,2021,66.0,Guyana
+Africa,CAF,2010,556.0,Central African Republic
+Europe,CYP,2020,3.2,Cyprus
+Europe,GBR,2019,8.1,United Kingdom of Great Britain and Northern Ireland
+Americas,PAN,2017,61.0,Panama
+Europe,ISL,2024,3.0,Iceland
+Americas,PRI,2004,5.7,Puerto Rico
+Americas,DOM,2018,49.0,Dominican Republic
+Eastern Mediterranean,YEM,2023,38.0,Yemen
+Europe,SWE,2024,3.3,Sweden
+Africa,NER,2019,82.0,Niger
+Western Pacific,FJI,2010,42.0,Fiji
+Europe,SRB,2007,63.0,Serbia
+Europe,BEL,2020,7.8,Belgium
+Eastern Mediterranean,IRQ,2010,47.0,Iraq
+Europe,BEL,2015,9.5,Belgium
+Europe,TJK,2023,76.0,Tajikistan
+Americas,URY,2021,34.0,Uruguay
+Western Pacific,MHL,2013,532.0,Marshall Islands
+Africa,STP,2023,73.0,Sao Tome and Principe
+Europe,NOR,2013,8.3,Norway
+Europe,POL,2024,11.0,Poland
+Eastern Mediterranean,DJI,2015,691.0,Djibouti
+Americas,CAN,2020,5.1,Canada
+Africa,ZMB,2007,554.0,Zambia
+Europe,SVN,2023,4.7,Slovenia
+Africa,MOZ,2020,361.0,Mozambique
+Europe,ISR,2010,5.9,Israel
+Africa,MOZ,2021,361.0,Mozambique
+Western Pacific,NIU,2009,0.0,Niue
+Eastern Mediterranean,PAK,2004,276.0,Pakistan
+Africa,COG,2003,515.0,Congo
+Eastern Mediterranean,LBY,2007,60.0,Libya
+Africa,SLE,2010,494.0,Sierra Leone
+Americas,CUB,2003,13.0,Cuba
+Western Pacific,KIR,2001,908.0,Kiribati
+Africa,MLI,2004,79.0,Mali
+Americas,CHL,2002,24.0,Chile
+Western Pacific,WSM,2010,7.3,Samoa
+Europe,SWE,2019,5.4,Sweden
+Africa,MLI,2023,52.0,Mali
+Eastern Mediterranean,IRN,2001,42.0,Iran (Islamic Republic of)
+Europe,NOR,2014,6.9,Norway
+Eastern Mediterranean,BHR,2010,32.0,Bahrain
+Western Pacific,MYS,2010,100.0,Malaysia
+Americas,ARG,2007,35.0,Argentina
+South-East Asia,MMR,2009,525.0,Myanmar
+Western Pacific,COK,2009,12.0,Cook Islands
+Europe,SVK,2021,3.0,Slovakia
+Americas,CRI,2012,14.0,Costa Rica
+Africa,ERI,2004,617.0,Eritrea
+Europe,MLT,2013,12.0,Malta
+Western Pacific,KOR,2016,76.0,Republic of Korea
+Africa,ZAF,2010,1230.0,South Africa
+Europe,AND,2011,3.9,Andorra
+Europe,NOR,2018,4.1,Norway
+Africa,MUS,2013,17.0,Mauritius
+Africa,COM,2018,39.0,Comoros
+Europe,MDA,2023,70.0,Republic of Moldova
+Europe,ESP,2016,12.0,Spain
+Americas,PAN,2015,58.0,Panama
+South-East Asia,LKA,2001,140.0,Sri Lanka
+Americas,PRY,2014,54.0,Paraguay
+Western Pacific,AUS,2016,6.5,Australia
+Europe,BGR,2021,13.0,Bulgaria
+Western Pacific,JPN,2004,32.0,Japan
+Africa,COD,2006,542.0,Democratic Republic of the Congo
+Americas,JAM,2011,5.9,Jamaica
+Africa,UGA,2015,202.0,Uganda
+Americas,KNA,2016,0.0,Saint Kitts and Nevis
+Eastern Mediterranean,PAK,2009,276.0,Pakistan
+Europe,SMR,2005,0.0,San Marino
+Americas,HTI,2006,514.0,Haiti
+Africa,MDG,2006,236.0,Madagascar
+Africa,RWA,2015,66.0,Rwanda
+Western Pacific,FJI,2009,32.0,Fiji
+Americas,GRD,2007,2.7,Grenada
+Europe,NLD,2019,4.9,Netherlands (Kingdom of the)
+South-East Asia,BGD,2010,221.0,Bangladesh
+Eastern Mediterranean,LBN,2009,16.0,Lebanon
+Americas,MEX,2003,34.0,Mexico
+South-East Asia,IND,2005,311.0,India
+Western Pacific,LAO,2013,197.0,Lao People's Democratic Republic
+Eastern Mediterranean,JOR,2024,3.5,Jordan
+Europe,SVK,2024,3.3,Slovakia
+Africa,TGO,2013,72.0,Togo
+Europe,ESP,2017,11.0,Spain
+Africa,MDG,2003,226.0,Madagascar
+Western Pacific,WSM,2009,8.4,Samoa
+Americas,BLZ,2015,33.0,Belize
+Western Pacific,COK,2001,13.0,Cook Islands
+Americas,NIC,2014,65.0,Nicaragua
+Europe,EST,2023,9.1,Estonia
+Europe,PRT,2015,23.0,Portugal
+Americas,JAM,2015,5.2,Jamaica
+South-East Asia,TLS,2022,422.0,Timor-Leste
+Eastern Mediterranean,SDN,2018,71.0,Sudan
+Africa,NAM,2015,639.0,Namibia
+Europe,CZE,2007,10.0,Czechia
+Western Pacific,FJI,2018,73.0,Fiji
+Western Pacific,NRU,2004,65.0,Nauru
+Africa,GAB,2007,405.0,Gabon
+Africa,ETH,2001,462.0,Ethiopia
+Africa,RWA,2024,62.0,Rwanda
+Western Pacific,NZL,2004,12.0,New Zealand
+South-East Asia,LKA,2000,148.0,Sri Lanka
+Europe,AZE,2001,176.0,Azerbaijan
+Western Pacific,COK,2011,5.7,Cook Islands
+Africa,SEN,2022,134.0,Senegal
+Africa,SEN,2020,139.0,Senegal
+Western Pacific,IDN,2023,388.0,Indonesia
+Europe,AUT,2007,13.0,Austria
+Europe,POL,2010,25.0,Poland
+Africa,LBR,2024,207.0,Liberia
+Europe,ISL,2017,3.8,Iceland
+Western Pacific,FJI,2005,32.0,Fiji
+Western Pacific,PLW,2003,46.0,Palau
+Americas,URY,2024,47.0,Uruguay
+Africa,KEN,2002,534.0,Kenya
+Americas,PRI,2001,6.4,Puerto Rico
+Americas,GUY,2007,133.0,Guyana
+Africa,GNQ,2019,220.0,Equatorial Guinea
+Europe,IRL,2017,7.7,Ireland
+Europe,MLT,2016,11.0,Malta
+Eastern Mediterranean,SOM,2021,167.0,Somalia
+Western Pacific,FJI,2015,69.0,Fiji
+Africa,NGA,2022,219.0,Nigeria
+Europe,KGZ,2009,210.0,Kyrgyzstan
+Americas,SLV,2023,86.0,El Salvador
+Eastern Mediterranean,SOM,2007,287.0,Somalia
+Europe,KGZ,2016,170.0,Kyrgyzstan
+Europe,ITA,2006,9.3,Italy
+Europe,NOR,2003,9.5,Norway
+Africa,CIV,2013,184.0,Cote d'Ivoire
+Africa,TZA,2023,183.0,United Republic of Tanzania
+Africa,SLE,2006,535.0,Sierra Leone
+Africa,COG,2008,448.0,Congo
+Europe,CYP,2015,6.7,Cyprus
+Western Pacific,WSM,2023,6.0,Samoa
+Western Pacific,NRU,2021,179.0,Nauru
+Western Pacific,PHL,2012,539.0,Philippines
+Europe,AND,2005,13.0,Andorra
+Europe,ROU,2022,64.0,Romania
+Africa,LSO,2008,1240.0,Lesotho
+Eastern Mediterranean,OMN,2020,9.9,Oman
+Africa,UGA,2021,199.0,Uganda
+Europe,AND,2006,15.0,Andorra
+Africa,UGA,2013,203.0,Uganda
+Americas,SUR,2000,50.0,Suriname
+Europe,CZE,2005,13.0,Czechia
+Europe,POL,2011,28.0,Poland
+Africa,COD,2014,461.0,Democratic Republic of the Congo
+Eastern Mediterranean,PSE,2006,2.1,"occupied Palestinian territory, including east Jerusalem"
+Europe,SVN,2018,5.6,Slovenia
+Eastern Mediterranean,SAU,2019,11.0,Saudi Arabia
+Western Pacific,MHL,2006,643.0,Marshall Islands
+Eastern Mediterranean,AFG,2018,212.0,Afghanistan
+Eastern Mediterranean,DJI,2020,366.0,Djibouti
+Americas,PER,2010,159.0,Peru
+Africa,BFA,2001,91.0,Burkina Faso
+Africa,STP,2020,69.0,Sao Tome and Principe
+Europe,ISL,2009,2.8,Iceland
+Europe,GEO,2015,115.0,Georgia
+Americas,GRD,2019,2.6,Grenada
+Europe,RUS,2000,95.0,Russian Federation
+South-East Asia,NPL,2000,417.0,Nepal
+South-East Asia,LKA,2019,57.0,Sri Lanka
+Europe,CZE,2021,4.0,Czechia
+Eastern Mediterranean,IRN,2017,16.0,Iran (Islamic Republic of)
+Africa,CMR,2008,280.0,Cameroon
+Americas,HTI,2001,576.0,Haiti
+Americas,ATG,2023,1.1,Antigua and Barbuda
+Americas,PER,2011,155.0,Peru
+Africa,NGA,2012,219.0,Nigeria
+Europe,BLR,2003,124.0,Belarus
+Americas,BRA,2019,45.0,Brazil
+Europe,BLR,2001,121.0,Belarus
+Eastern Mediterranean,LBN,2016,14.0,Lebanon
+Africa,MOZ,2023,361.0,Mozambique
+Eastern Mediterranean,DJI,2011,1140.0,Djibouti
+Americas,VEN,2017,47.0,Venezuela (Bolivarian Republic of)
+Africa,BWA,2019,306.0,Botswana
+Western Pacific,MYS,2013,112.0,Malaysia
+Americas,NIC,2001,120.0,Nicaragua
+Americas,NIC,2002,98.0,Nicaragua
+Africa,AGO,2001,336.0,Angola
+South-East Asia,BTN,2000,667.0,Bhutan
+Europe,AUT,2013,8.9,Austria
+Americas,KNA,2010,4.3,Saint Kitts and Nevis
+Americas,SLV,2009,40.0,El Salvador
+Africa,COG,2023,298.0,Congo
+Americas,HND,2022,38.0,Honduras
+Africa,BEN,2011,76.0,Benin
+Western Pacific,PHL,2022,627.0,Philippines
+Eastern Mediterranean,ARE,2010,3.2,United Arab Emirates
+Europe,BEL,2016,10.0,Belgium
+South-East Asia,TLS,2017,384.0,Timor-Leste
+Africa,BFA,2003,87.0,Burkina Faso
+Europe,FIN,2021,3.6,Finland
+Africa,SYC,2011,22.0,Seychelles
+Europe,AND,2012,12.0,Andorra
+South-East Asia,LKA,2010,88.0,Sri Lanka
+Europe,LTU,2000,181.0,Lithuania
+Europe,MCO,2013,1.2,Monaco
+Europe,AZE,2023,66.0,Azerbaijan
+Africa,BEN,2015,62.0,Benin
+Europe,BEL,2023,2.5,Belgium
+Eastern Mediterranean,LBY,2017,34.0,Libya
+Western Pacific,LAO,2012,204.0,Lao People's Democratic Republic
+Eastern Mediterranean,SYR,2015,26.0,Syrian Arab Republic
+Eastern Mediterranean,PSE,2022,0.57,"occupied Palestinian territory, including east Jerusalem"
+Europe,MNE,2011,27.0,Montenegro
+Americas,LCA,2013,5.2,Saint Lucia
+Africa,LBR,2008,320.0,Liberia
+Eastern Mediterranean,PSE,2021,0.69,"occupied Palestinian territory, including east Jerusalem"
+Eastern Mediterranean,IRQ,2006,43.0,Iraq
+Eastern Mediterranean,MAR,2003,102.0,Morocco
+Americas,USA,2010,4.4,United States of America
+Americas,BRA,2024,49.0,Brazil
+Western Pacific,PHL,2018,554.0,Philippines
+Americas,GUY,2005,151.0,Guyana
+Europe,UKR,2016,99.0,Ukraine
+Africa,CIV,2023,103.0,Cote d'Ivoire
+Western Pacific,SLB,2013,153.0,Solomon Islands
+Africa,MDG,2017,215.0,Madagascar
+Americas,PAN,2022,49.0,Panama
+Americas,USA,2022,2.6,United States of America
+Europe,HUN,2023,6.5,Hungary
+Eastern Mediterranean,TUN,2020,41.0,Tunisia
+Africa,NAM,2014,674.0,Namibia
+Africa,ZWE,2023,209.0,Zimbabwe
+Europe,ESP,2024,7.9,Spain
+Europe,HRV,2012,17.0,Croatia
+Africa,GAB,2018,440.0,Gabon
+Europe,NOR,2017,5.2,Norway
+Europe,EST,2010,31.0,Estonia
+Africa,GNB,2015,209.0,Guinea-Bissau
+Western Pacific,PHL,2017,554.0,Philippines
+Europe,ITA,2001,11.0,Italy
+Americas,NIC,2015,59.0,Nicaragua
+South-East Asia,LKA,2016,66.0,Sri Lanka
+Americas,DMA,2019,15.0,Dominica
+Americas,PRI,2002,6.5,Puerto Rico
+Europe,DNK,2011,8.3,Denmark
+Europe,ALB,2016,16.0,Albania
+Western Pacific,JPN,2013,20.0,Japan
+Africa,KEN,2015,380.0,Kenya
+Africa,NAM,2024,422.0,Namibia
+Africa,ETH,2003,412.0,Ethiopia
+Western Pacific,KHM,2003,728.0,Cambodia
+Americas,NIC,2019,49.0,Nicaragua
+Africa,COM,2017,40.0,Comoros
+Western Pacific,VNM,2008,246.0,Viet Nam
+Americas,GTM,2002,27.0,Guatemala
+Americas,GUY,2000,148.0,Guyana
+Western Pacific,FSM,2009,335.0,Micronesia (Federated States of)
+Europe,BLR,2012,73.0,Belarus
+Europe,AUT,2020,5.1,Austria
+Africa,SSD,2017,368.0,South Sudan
+Europe,MNE,2021,17.0,Montenegro
+Europe,TJK,2022,77.0,Tajikistan
+Europe,LTU,2001,172.0,Lithuania
+Americas,SUR,2011,35.0,Suriname
+South-East Asia,MMR,2002,554.0,Myanmar
+Americas,GRD,2005,1.9,Grenada
+Africa,COD,2021,401.0,Democratic Republic of the Congo
+Eastern Mediterranean,PAK,2023,267.0,Pakistan
+Africa,BWA,2023,175.0,Botswana
+Western Pacific,TON,2017,10.0,Tonga
+Eastern Mediterranean,TUN,2018,43.0,Tunisia
+Americas,HTI,2012,372.0,Haiti
+Europe,SWE,2002,5.9,Sweden
+Americas,CAN,2022,5.6,Canada
+Americas,LCA,2002,11.0,Saint Lucia
+Americas,HTI,2000,576.0,Haiti
+Africa,RWA,2013,70.0,Rwanda
+Eastern Mediterranean,BHR,2005,51.0,Bahrain
+Americas,HTI,2020,223.0,Haiti
+Americas,ATG,2016,3.3,Antigua and Barbuda
+South-East Asia,IND,2019,202.0,India
+Africa,CPV,2003,156.0,Cabo Verde
+Eastern Mediterranean,LBY,2013,35.0,Libya
+Africa,TCD,2021,127.0,Chad
+Europe,CHE,2022,4.5,Switzerland
+Europe,GEO,2020,71.0,Georgia
+Africa,UGA,2020,199.0,Uganda
+Western Pacific,FSM,2021,137.0,Micronesia (Federated States of)
+Eastern Mediterranean,YEM,2006,49.0,Yemen
+Western Pacific,SLB,2011,195.0,Solomon Islands
+Africa,MDG,2020,214.0,Madagascar
+Europe,ITA,2011,7.1,Italy
+Americas,PAN,2020,34.0,Panama
+Western Pacific,VUT,2016,75.0,Vanuatu
+Eastern Mediterranean,IRN,2012,26.0,Iran (Islamic Republic of)
+Western Pacific,JPN,2008,25.0,Japan
+Africa,SLE,2018,420.0,Sierra Leone
+Western Pacific,KIR,2013,888.0,Kiribati
+Western Pacific,PNG,2003,810.0,Papua New Guinea
+Europe,POL,2014,22.0,Poland
+Europe,FIN,2002,11.0,Finland
+Africa,ZWE,2005,588.0,Zimbabwe
+South-East Asia,THA,2020,144.0,Thailand
+Europe,AND,2015,5.5,Andorra
+Americas,NIC,2004,94.0,Nicaragua
+Africa,KEN,2007,618.0,Kenya
+Americas,SUR,2021,23.0,Suriname
+Western Pacific,TON,2019,9.5,Tonga
+Americas,VCT,2022,4.9,Saint Vincent and the Grenadines
+Americas,BLZ,2006,55.0,Belize
+Europe,UZB,2000,156.0,Uzbekistan
+Western Pacific,TON,2005,17.0,Tonga
+Western Pacific,VNM,2020,171.0,Viet Nam
+Africa,GHA,2008,191.0,Ghana
+Eastern Mediterranean,SDN,2000,148.0,Sudan
+Europe,TJK,2013,135.0,Tajikistan
+Americas,JAM,2020,2.9,Jamaica
+Europe,AND,2018,2.7,Andorra
+Americas,CHL,2013,18.0,Chile
+Africa,MOZ,2002,339.0,Mozambique
+Western Pacific,MYS,2011,102.0,Malaysia
+Europe,KAZ,2012,105.0,Kazakhstan
+Western Pacific,WSM,2013,11.0,Samoa
+Africa,TZA,2005,510.0,United Republic of Tanzania
+Western Pacific,NZL,2020,7.3,New Zealand
+Americas,BOL,2023,105.0,Bolivia (Plurinational State of)
+Europe,CYP,2014,4.3,Cyprus
+Western Pacific,JPN,2006,27.0,Japan
+Western Pacific,NZL,2018,7.2,New Zealand
+Americas,HND,2012,59.0,Honduras
+Eastern Mediterranean,MAR,2011,98.0,Morocco
+Americas,DMA,2018,5.9,Dominica
+Europe,ROU,2005,177.0,Romania
+Americas,VEN,2010,34.0,Venezuela (Bolivarian Republic of)
+Western Pacific,WSM,2022,4.2,Samoa
+Europe,SMR,2009,0.0,San Marino
+Europe,ITA,2019,6.2,Italy
+Eastern Mediterranean,AFG,2003,215.0,Afghanistan
+Americas,BOL,2020,94.0,Bolivia (Plurinational State of)
+Europe,MLT,2010,6.9,Malta
+Europe,AZE,2014,107.0,Azerbaijan
+Europe,EST,2015,21.0,Estonia
+Africa,MUS,2007,17.0,Mauritius
+Africa,DZA,2019,65.0,Algeria
+Western Pacific,NRU,2005,109.0,Nauru
+Africa,SEN,2000,173.0,Senegal
+Africa,MOZ,2017,361.0,Mozambique
+Africa,ZAF,2014,1070.0,South Africa
+Europe,UKR,2003,213.0,Ukraine
+South-East Asia,BGD,2005,221.0,Bangladesh
+Africa,STP,2021,59.0,Sao Tome and Principe
+Africa,BEN,2000,71.0,Benin
+Africa,ERI,2003,756.0,Eritrea
+Western Pacific,BRN,2014,66.0,Brunei Darussalam
+Americas,GRD,2008,4.5,Grenada
+Europe,ARM,2005,161.0,Armenia
+Europe,AUT,2006,13.0,Austria
+Africa,SYC,2008,6.5,Seychelles
+Europe,BLR,2019,29.0,Belarus
+Americas,JAM,2017,5.9,Jamaica
+Eastern Mediterranean,EGY,2009,16.0,Egypt
+Eastern Mediterranean,PSE,2008,1.8,"occupied Palestinian territory, including east Jerusalem"
+Europe,RUS,2024,34.0,Russian Federation
+Western Pacific,VUT,2023,45.0,Vanuatu
+Eastern Mediterranean,LBN,2023,12.0,Lebanon
+Africa,NGA,2024,219.0,Nigeria
+Eastern Mediterranean,SDN,2010,119.0,Sudan
+Africa,ERI,2008,312.0,Eritrea
+Western Pacific,JPN,2021,11.0,Japan
+Europe,DEU,2022,5.1,Germany
+Europe,UZB,2022,57.0,Uzbekistan
+Africa,SWZ,2020,336.0,Eswatini
+Europe,KGZ,2006,243.0,Kyrgyzstan
+Americas,KNA,2020,4.3,Saint Kitts and Nevis
+Africa,COG,2009,438.0,Congo
+Africa,GAB,2011,475.0,Gabon
+Africa,COD,2022,392.0,Democratic Republic of the Congo
+South-East Asia,BGD,2020,221.0,Bangladesh
+South-East Asia,IND,2006,305.0,India
+Africa,ZWE,2018,210.0,Zimbabwe
+Africa,NER,2022,81.0,Niger
+Europe,TUR,2016,20.0,Türkiye
+Eastern Mediterranean,ARE,2005,4.1,United Arab Emirates
+Europe,TKM,2024,40.0,Turkmenistan
+Europe,CHE,2008,7.6,Switzerland
+Africa,GHA,2001,214.0,Ghana
+Western Pacific,CHN,2020,58.0,China
+Europe,HUN,2024,5.6,Hungary
+Europe,ITA,2018,7.4,Italy
+Africa,MUS,2019,14.0,Mauritius
+Western Pacific,FSM,2001,312.0,Micronesia (Federated States of)
+South-East Asia,MDV,2017,42.0,Maldives
+Europe,BGR,2006,72.0,Bulgaria
+Africa,SYC,2018,13.0,Seychelles
+Western Pacific,PNG,2017,616.0,Papua New Guinea
+South-East Asia,BTN,2016,298.0,Bhutan
+Africa,SEN,2009,182.0,Senegal
+Africa,MLI,2007,78.0,Mali
+Western Pacific,TUV,2007,177.0,Tuvalu
+Europe,DEU,2020,5.3,Germany
+Europe,FIN,2015,5.7,Finland
+Americas,VEN,2014,29.0,Venezuela (Bolivarian Republic of)
+Europe,CYP,2012,7.6,Cyprus
+Europe,POL,2000,46.0,Poland
+Africa,LBR,2003,216.0,Liberia
+Africa,TGO,2008,91.0,Togo
+Eastern Mediterranean,SOM,2020,171.0,Somalia
+Africa,ETH,2017,179.0,Ethiopia
+Africa,AGO,2003,434.0,Angola
+Americas,GRD,2013,2.1,Grenada
+Africa,TGO,2011,81.0,Togo
+Europe,CZE,2008,10.0,Czechia
+Eastern Mediterranean,OMN,2018,7.7,Oman
+Africa,SWZ,2023,326.0,Eswatini
+Eastern Mediterranean,ARE,2009,3.0,United Arab Emirates
+Africa,COM,2022,29.0,Comoros
+Americas,COL,2007,43.0,Colombia
+Europe,HUN,2001,43.0,Hungary
+Europe,HRV,2019,9.3,Croatia
+Europe,CYP,2010,8.0,Cyprus
+Western Pacific,WSM,2004,18.0,Samoa
+Western Pacific,SLB,2021,108.0,Solomon Islands
+Africa,CAF,2023,428.0,Central African Republic
+Europe,ISL,2006,4.3,Iceland
+Western Pacific,VNM,2009,239.0,Viet Nam
+Eastern Mediterranean,IRN,2018,15.0,Iran (Islamic Republic of)
+Africa,CPV,2005,126.0,Cabo Verde
+Africa,GNB,2024,176.0,Guinea-Bissau
+Africa,LSO,2023,584.0,Lesotho
+Africa,NER,2001,94.0,Niger
+South-East Asia,BGD,2002,221.0,Bangladesh
+Africa,LSO,2012,1040.0,Lesotho
+Europe,ALB,2008,16.0,Albania
+Europe,SRB,2005,69.0,Serbia
+Americas,BRB,2007,5.9,Barbados
+South-East Asia,MDV,2018,43.0,Maldives
+Western Pacific,VNM,2011,225.0,Viet Nam
+Europe,MNE,2014,27.0,Montenegro
+Europe,POL,2009,28.0,Poland
+Africa,BFA,2014,70.0,Burkina Faso
+Eastern Mediterranean,SAU,2004,19.0,Saudi Arabia
+Europe,ARM,2020,29.0,Armenia
+Western Pacific,FJI,2008,24.0,Fiji
+Europe,ROU,2017,81.0,Romania
+Africa,SSD,2016,376.0,South Sudan
+Europe,MCO,2005,0.73,Monaco
+Europe,ITA,2017,7.5,Italy
+Africa,CMR,2015,214.0,Cameroon
+Americas,PAN,2021,43.0,Panama
+Europe,DNK,2006,8.5,Denmark
+Europe,TKM,2023,41.0,Turkmenistan
+Americas,BOL,2022,99.0,Bolivia (Plurinational State of)
+Africa,COM,2019,37.0,Comoros
+Africa,MLI,2022,53.0,Mali
+Africa,GNB,2017,198.0,Guinea-Bissau
+South-East Asia,BTN,2019,226.0,Bhutan
+Americas,ARG,2002,45.0,Argentina
+Americas,BLZ,2012,40.0,Belize
+Africa,RWA,2021,63.0,Rwanda
+Europe,HUN,2012,16.0,Hungary
+Africa,GMB,2003,191.0,Gambia
+Europe,LTU,2024,31.0,Lithuania
+Western Pacific,NIU,2011,57.0,Niue
+Americas,GRD,2017,2.6,Grenada
+Africa,TZA,2015,306.0,United Republic of Tanzania
+Africa,SWZ,2021,334.0,Eswatini
+South-East Asia,MDV,2013,48.0,Maldives
+Americas,CHL,2010,19.0,Chile
+Africa,GHA,2010,183.0,Ghana
+Americas,VCT,2013,2.8,Saint Vincent and the Grenadines
+Africa,MRT,2018,94.0,Mauritania
+Europe,CYP,2017,5.2,Cyprus
+Europe,CZE,2012,6.8,Czechia
+South-East Asia,MMR,2020,316.0,Myanmar
+Africa,COD,2008,521.0,Democratic Republic of the Congo
+Europe,BGR,2002,80.0,Bulgaria
+Africa,LSO,2022,611.0,Lesotho
+Europe,TJK,2003,194.0,Tajikistan
+Americas,CAN,2003,6.9,Canada
+Europe,PRT,2017,19.0,Portugal
+Western Pacific,SGP,2013,48.0,Singapore
+South-East Asia,BGD,2015,221.0,Bangladesh
+Europe,NLD,2003,9.2,Netherlands (Kingdom of the)
+Western Pacific,SLB,2004,280.0,Solomon Islands
+Europe,DNK,2018,5.7,Denmark
+Africa,NGA,2004,219.0,Nigeria
+Western Pacific,FJI,2012,43.0,Fiji
+Africa,CMR,2014,226.0,Cameroon
+Western Pacific,KIR,2015,1010.0,Kiribati
+South-East Asia,BGD,2023,221.0,Bangladesh
+Africa,SLE,2004,557.0,Sierra Leone
+Africa,LSO,2006,1230.0,Lesotho
+Europe,UZB,2002,166.0,Uzbekistan
+Africa,GIN,2011,187.0,Guinea
+Western Pacific,TON,2004,11.0,Tonga
+Americas,PRI,2023,0.81,Puerto Rico
+Eastern Mediterranean,KWT,2010,45.0,Kuwait
+Western Pacific,VUT,2010,116.0,Vanuatu
+Africa,BFA,2011,74.0,Burkina Faso
+Americas,LCA,2007,11.0,Saint Lucia
+Western Pacific,NIU,2017,0.0,Niue
+Africa,GAB,2022,390.0,Gabon
+Africa,NAM,2012,754.0,Namibia
+Eastern Mediterranean,SOM,2018,179.0,Somalia
+Eastern Mediterranean,OMN,2008,21.0,Oman
+Europe,CZE,2013,5.7,Czechia
+Africa,MWI,2000,386.0,Malawi
+Eastern Mediterranean,EGY,2021,11.0,Egypt
+Africa,BFA,2007,80.0,Burkina Faso
+Africa,KEN,2022,238.0,Kenya
+Europe,AZE,2019,73.0,Azerbaijan
+Eastern Mediterranean,PAK,2013,275.0,Pakistan
+Western Pacific,SGP,2019,42.0,Singapore
+Africa,BWA,2024,143.0,Botswana
+South-East Asia,MDV,2022,34.0,Maldives
+Americas,CAN,2011,5.0,Canada
+Europe,ALB,2013,18.0,Albania
+Africa,ETH,2010,269.0,Ethiopia
+Europe,RUS,2018,54.0,Russian Federation
+Europe,AUT,2003,16.0,Austria
+Africa,GNQ,2005,292.0,Equatorial Guinea
+Americas,HTI,2018,256.0,Haiti
+Western Pacific,JPN,2016,17.0,Japan
+Europe,GEO,2007,191.0,Georgia
+Eastern Mediterranean,ARE,2019,1.2,United Arab Emirates
+Europe,SWE,2001,6.2,Sweden
+South-East Asia,MDV,2020,33.0,Maldives
+Western Pacific,NZL,2014,7.9,New Zealand
+Africa,GNQ,2018,225.0,Equatorial Guinea
+Africa,ZAF,2023,427.0,South Africa
+Western Pacific,AUS,2001,6.3,Australia
+Europe,SRB,2009,55.0,Serbia
+Europe,BIH,2017,32.0,Bosnia and Herzegovina
+Western Pacific,CHN,2002,100.0,China
+Americas,TTO,2023,25.0,Trinidad and Tobago
+Africa,COD,2013,471.0,Democratic Republic of the Congo
+Europe,MNE,2017,17.0,Montenegro
+Europe,SVN,2015,7.8,Slovenia
+Americas,URY,2003,31.0,Uruguay
+Africa,ERI,2017,147.0,Eritrea
+Western Pacific,IDN,2011,338.0,Indonesia
+Western Pacific,TUV,2016,183.0,Tuvalu
+Europe,MNE,2008,33.0,Montenegro
+Americas,DOM,2016,55.0,Dominican Republic
+Western Pacific,MHL,2022,427.0,Marshall Islands
+Europe,MKD,2022,10.0,North Macedonia
+South-East Asia,LKA,2014,74.0,Sri Lanka
+South-East Asia,THA,2006,215.0,Thailand
+Europe,LVA,2016,47.0,Latvia
+Africa,MDG,2021,216.0,Madagascar
+Europe,GBR,2003,13.0,United Kingdom of Great Britain and Northern Ireland
+Africa,RWA,2010,82.0,Rwanda
+Africa,LBR,2012,324.0,Liberia
+Western Pacific,BRN,2019,71.0,Brunei Darussalam
+Europe,MKD,2013,23.0,North Macedonia
+Western Pacific,VUT,2022,46.0,Vanuatu
+South-East Asia,BGD,2007,221.0,Bangladesh
+Europe,EST,2017,17.0,Estonia
+Europe,SVK,2005,19.0,Slovakia
+Europe,SRB,2016,29.0,Serbia
+Europe,UKR,2024,86.0,Ukraine
+Africa,STP,2022,87.0,Sao Tome and Principe
+Europe,CYP,2022,8.7,Cyprus
+South-East Asia,IND,2001,321.0,India
+South-East Asia,MMR,2018,338.0,Myanmar
+Europe,GBR,2000,12.0,United Kingdom of Great Britain and Northern Ireland
+Eastern Mediterranean,SOM,2014,188.0,Somalia
+Americas,GTM,2005,33.0,Guatemala
+Americas,ARG,2009,25.0,Argentina
+Europe,ESP,2005,23.0,Spain
+Europe,LTU,2019,50.0,Lithuania
+Eastern Mediterranean,KWT,2023,11.0,Kuwait
+Africa,CPV,2021,49.0,Cabo Verde
+Europe,GEO,2017,95.0,Georgia
+Africa,UGA,2024,197.0,Uganda
+Africa,UGA,2016,201.0,Uganda
+Eastern Mediterranean,SOM,2006,308.0,Somalia
+Western Pacific,TUV,2000,168.0,Tuvalu
+Americas,URY,2011,32.0,Uruguay
+Americas,COL,2015,33.0,Colombia
+Africa,COG,2000,569.0,Congo
+Europe,MKD,2024,11.0,North Macedonia
+Western Pacific,KIR,2023,908.0,Kiribati
+Europe,FRA,2020,8.1,France
+South-East Asia,BGD,2022,221.0,Bangladesh
+Americas,NIC,2010,70.0,Nicaragua
+Western Pacific,SGP,2016,51.0,Singapore
+Africa,BFA,2022,59.0,Burkina Faso
+South-East Asia,BTN,2002,598.0,Bhutan
+Africa,COM,2003,45.0,Comoros
+South-East Asia,MMR,2012,453.0,Myanmar
+Americas,CRI,2017,9.6,Costa Rica
+Eastern Mediterranean,SDN,2021,58.0,Sudan
+Europe,BLR,2013,67.0,Belarus
+Eastern Mediterranean,DJI,2017,454.0,Djibouti
+Europe,UZB,2023,54.0,Uzbekistan
+Europe,EST,2013,27.0,Estonia
+Europe,DEU,2004,8.3,Germany
+Europe,MCO,2020,0.0,Monaco
+Europe,UKR,2012,127.0,Ukraine
+Western Pacific,MHL,2007,683.0,Marshall Islands
+Americas,CRI,2002,21.0,Costa Rica
+Africa,BEN,2018,53.0,Benin
+Europe,GRC,2015,5.3,Greece
+Americas,CUB,2000,23.0,Cuba
+Africa,GNB,2005,281.0,Guinea-Bissau
+Africa,CPV,2016,70.0,Cabo Verde
+Africa,BDI,2017,112.0,Burundi
+Western Pacific,KIR,2018,582.0,Kiribati
+Europe,LVA,2000,196.0,Latvia
+Africa,MOZ,2022,361.0,Mozambique
+Eastern Mediterranean,IRQ,2002,69.0,Iraq
+Americas,ATG,2021,4.3,Antigua and Barbuda
+Americas,VCT,2008,11.0,Saint Vincent and the Grenadines
+Americas,SLV,2003,43.0,El Salvador
+Europe,BEL,2004,14.0,Belgium
+Eastern Mediterranean,IRQ,2014,34.0,Iraq
+Americas,PRY,2016,55.0,Paraguay
+Europe,ALB,2004,20.0,Albania
+Americas,BLZ,2024,34.0,Belize
+Western Pacific,NRU,2002,50.0,Nauru
+Europe,SMR,2001,0.0,San Marino
+Americas,BRB,2004,7.1,Barbados
+Eastern Mediterranean,AFG,2009,229.0,Afghanistan
+Africa,COD,2016,443.0,Democratic Republic of the Congo
+Western Pacific,SLB,2024,123.0,Solomon Islands
+Europe,CHE,2013,6.9,Switzerland
+Africa,SLE,2017,429.0,Sierra Leone
+Europe,PRT,2022,16.0,Portugal
+Africa,GIN,2022,179.0,Guinea
+Europe,HUN,2010,22.0,Hungary
+Europe,IRL,2006,14.0,Ireland
+Africa,GNQ,2000,323.0,Equatorial Guinea
+Western Pacific,MHL,2017,745.0,Marshall Islands
+Eastern Mediterranean,DJI,2009,1320.0,Djibouti
+Eastern Mediterranean,LBY,2009,53.0,Libya
+Europe,MLT,2015,7.2,Malta
+Africa,ZWE,2013,304.0,Zimbabwe
+Africa,TGO,2024,48.0,Togo
+Africa,CIV,2000,166.0,Cote d'Ivoire
+Americas,ARG,2011,31.0,Argentina
+Americas,BOL,2011,177.0,Bolivia (Plurinational State of)
+Africa,CIV,2010,209.0,Cote d'Ivoire
+Western Pacific,MYS,2022,98.0,Malaysia
+Americas,PER,2006,218.0,Peru
+Eastern Mediterranean,IRN,2011,28.0,Iran (Islamic Republic of)
+Africa,SYC,2015,7.5,Seychelles
+Eastern Mediterranean,IRQ,2024,21.0,Iraq
+Western Pacific,NZL,2003,14.0,New Zealand
+Americas,TTO,2007,25.0,Trinidad and Tobago
+Americas,GRD,2022,0.86,Grenada
+Europe,DEU,2024,5.4,Germany
+Americas,CHL,2003,21.0,Chile
+Americas,HTI,2011,389.0,Haiti
+Europe,SVN,2009,12.0,Slovenia
+Europe,MLT,2024,15.0,Malta
+Western Pacific,SGP,2001,65.0,Singapore
+Europe,SWE,2012,7.6,Sweden
+Africa,GIN,2009,190.0,Guinea
+Western Pacific,KHM,2005,640.0,Cambodia
+South-East Asia,MDV,2001,141.0,Maldives
+Americas,CHL,2014,17.0,Chile
+Europe,AZE,2000,183.0,Azerbaijan
+Western Pacific,SGP,2007,43.0,Singapore
+Europe,ALB,2001,20.0,Albania
+Africa,CMR,2006,271.0,Cameroon
+Africa,LSO,2019,654.0,Lesotho
+Africa,ZWE,2014,278.0,Zimbabwe
+South-East Asia,BTN,2006,429.0,Bhutan
+Europe,FRA,2017,9.0,France
+Africa,BDI,2005,188.0,Burundi
+Africa,BWA,2004,826.0,Botswana
+Western Pacific,VUT,2014,89.0,Vanuatu
+Africa,AGO,2023,383.0,Angola
+Western Pacific,VNM,2016,193.0,Viet Nam
+South-East Asia,MDV,2021,27.0,Maldives
+Europe,KGZ,2023,131.0,Kyrgyzstan
+Africa,SYC,2017,14.0,Seychelles
+Americas,BLZ,2008,50.0,Belize
+Eastern Mediterranean,LBY,2001,62.0,Libya
+South-East Asia,THA,2016,160.0,Thailand
+Eastern Mediterranean,SYR,2004,56.0,Syrian Arab Republic
+Europe,GRC,2004,9.5,Greece
+Europe,DEU,2014,5.9,Germany
+Americas,SLV,2010,39.0,El Salvador
+Europe,BLR,2011,73.0,Belarus
+Europe,SVK,2001,30.0,Slovakia
+Africa,DZA,2014,80.0,Algeria
+Eastern Mediterranean,PSE,2005,1.5,"occupied Palestinian territory, including east Jerusalem"
+Africa,CIV,2008,217.0,Cote d'Ivoire
+Africa,COG,2019,304.0,Congo
+Americas,CRI,2009,14.0,Costa Rica
+Americas,BRB,2008,1.1,Barbados
+Africa,KEN,2013,443.0,Kenya
+Africa,NAM,2019,486.0,Namibia
+Africa,ZMB,2006,577.0,Zambia
+Europe,BLR,2008,88.0,Belarus
+Africa,MWI,2005,398.0,Malawi
+Americas,CAN,2000,8.0,Canada
+Western Pacific,TON,2003,15.0,Tonga
+Americas,NIC,2018,46.0,Nicaragua
+Africa,BDI,2024,83.0,Burundi
+Africa,CPV,2013,92.0,Cabo Verde
+Americas,MEX,2007,28.0,Mexico
+Americas,DOM,2023,50.0,Dominican Republic
+Europe,FRA,2014,8.5,France
+Americas,ARG,2005,38.0,Argentina
+Western Pacific,WSM,2016,6.4,Samoa
+Africa,GAB,2014,491.0,Gabon
+Europe,UKR,2009,144.0,Ukraine
+Europe,EST,2007,56.0,Estonia
+Europe,SWE,2000,6.7,Sweden
+Americas,ATG,2003,1.3,Antigua and Barbuda
+Western Pacific,NRU,2008,50.0,Nauru
+Europe,PRT,2008,33.0,Portugal
+Western Pacific,FSM,2016,293.0,Micronesia (Federated States of)
+Africa,COD,2017,434.0,Democratic Republic of the Congo
+Europe,MCO,2019,0.0,Monaco
+Europe,SMR,2018,0.0,San Marino
+Europe,BGR,2023,17.0,Bulgaria
+Eastern Mediterranean,JOR,2019,6.3,Jordan
+Africa,NAM,2010,892.0,Namibia
+Africa,BWA,2001,938.0,Botswana
+Europe,AND,2001,15.0,Andorra
+Africa,ZAF,2006,1250.0,South Africa
+Western Pacific,PNG,2011,547.0,Papua New Guinea
+Africa,ZAF,2018,677.0,South Africa
+Americas,PRI,2024,0.55,Puerto Rico
+Africa,SLE,2020,403.0,Sierra Leone
+Eastern Mediterranean,IRQ,2019,24.0,Iraq
+Africa,UGA,2011,207.0,Uganda
+South-East Asia,BTN,2001,587.0,Bhutan
+Western Pacific,BRN,2003,116.0,Brunei Darussalam
+Africa,ZAF,2013,1110.0,South Africa
+Americas,MEX,2022,27.0,Mexico
+Europe,DEU,2018,6.9,Germany
+Europe,AZE,2013,115.0,Azerbaijan
+Africa,MRT,2010,145.0,Mauritania
+Africa,GMB,2000,187.0,Gambia
+Americas,BHS,2018,15.0,Bahamas
+Africa,NGA,2002,219.0,Nigeria
+Africa,STP,2024,87.0,Sao Tome and Principe
+Europe,SRB,2023,20.0,Serbia
+Africa,GAB,2003,350.0,Gabon
+Americas,CUB,2007,9.8,Cuba
+Western Pacific,NRU,2018,44.0,Nauru
+Africa,SYC,2024,17.0,Seychelles
+Eastern Mediterranean,AFG,2013,194.0,Afghanistan
+Africa,STP,2011,163.0,Sao Tome and Principe
+Africa,MOZ,2015,361.0,Mozambique
+Africa,UGA,2005,233.0,Uganda
+Americas,MEX,2001,36.0,Mexico
+Europe,CYP,2024,5.5,Cyprus
+Americas,PAN,2016,61.0,Panama
+Europe,RUS,2003,88.0,Russian Federation
+South-East Asia,IND,2011,268.0,India
+South-East Asia,LKA,2007,101.0,Sri Lanka
+Europe,AZE,2008,219.0,Azerbaijan
+Eastern Mediterranean,DJI,2001,2650.0,Djibouti
+Americas,LCA,2003,9.2,Saint Lucia
+Western Pacific,CHN,2017,62.0,China
+Europe,MLT,2021,10.0,Malta
+Western Pacific,WSM,2001,12.0,Samoa
+Americas,BHS,2001,39.0,Bahamas
+Eastern Mediterranean,SOM,2008,261.0,Somalia
+Africa,CPV,2015,78.0,Cabo Verde
+Europe,ITA,2023,5.4,Italy
+Africa,CAF,2024,419.0,Central African Republic
+Americas,GTM,2021,20.0,Guatemala
+Americas,GUY,2023,66.0,Guyana
+Western Pacific,PNG,2000,1060.0,Papua New Guinea
+Americas,VCT,2012,28.0,Saint Vincent and the Grenadines
+Europe,ISL,2010,6.9,Iceland
+Africa,TZA,2009,452.0,United Republic of Tanzania
+Americas,PAN,2023,61.0,Panama
+Western Pacific,VUT,2019,56.0,Vanuatu
+Americas,PAN,2005,79.0,Panama
+Americas,VCT,2001,8.8,Saint Vincent and the Grenadines
+Africa,BEN,2010,79.0,Benin
+Africa,ZMB,2011,475.0,Zambia
+Americas,LCA,2006,9.0,Saint Lucia
+Africa,MRT,2002,217.0,Mauritania
+Western Pacific,JPN,2015,17.0,Japan
+Europe,IRL,2018,7.4,Ireland
+Africa,MLI,2021,54.0,Mali
+Africa,CAF,2014,513.0,Central African Republic
+Eastern Mediterranean,TUN,2002,44.0,Tunisia
+Western Pacific,MNG,2011,428.0,Mongolia
+Europe,LTU,2023,34.0,Lithuania
+Africa,MWI,2007,383.0,Malawi
+Americas,ATG,2001,1.3,Antigua and Barbuda
+Americas,KNA,2000,0.0,Saint Kitts and Nevis
+Europe,HRV,2023,8.4,Croatia
+Africa,CMR,2018,177.0,Cameroon
+Americas,ATG,2015,3.8,Antigua and Barbuda
+Eastern Mediterranean,DJI,2010,1350.0,Djibouti
+Western Pacific,MHL,2024,411.0,Marshall Islands
+Western Pacific,NZL,2019,7.4,New Zealand
+Europe,MCO,2010,3.0,Monaco
+Africa,KEN,2005,630.0,Kenya
+Europe,FIN,2007,6.9,Finland
+Europe,GRC,2023,5.6,Greece
+Europe,SRB,2014,37.0,Serbia
+Europe,RUS,2001,92.0,Russian Federation
+Eastern Mediterranean,SDN,2017,77.0,Sudan
+Africa,SWZ,2001,1010.0,Eswatini
+Africa,CIV,2019,126.0,Cote d'Ivoire
+Europe,BEL,2008,11.0,Belgium
+Africa,SLE,2016,437.0,Sierra Leone
+Eastern Mediterranean,PAK,2014,270.0,Pakistan
+Western Pacific,KHM,2012,393.0,Cambodia
+Western Pacific,VNM,2004,272.0,Viet Nam
+Europe,SVN,2022,4.0,Slovenia
+Western Pacific,MNG,2009,428.0,Mongolia
+Africa,COM,2002,47.0,Comoros
+South-East Asia,IND,2022,196.0,India
+Western Pacific,FJI,2013,51.0,Fiji
+Africa,BWA,2014,470.0,Botswana
+Western Pacific,FSM,2003,304.0,Micronesia (Federated States of)
+Africa,SEN,2002,180.0,Senegal
+Eastern Mediterranean,BHR,2009,44.0,Bahrain
+Americas,HND,2017,46.0,Honduras
+Western Pacific,NIU,2021,0.0,Niue
+Americas,NIC,2012,74.0,Nicaragua
+Europe,AZE,2024,64.0,Azerbaijan
+Eastern Mediterranean,TUN,2013,46.0,Tunisia
+Americas,NIC,2023,44.0,Nicaragua
+South-East Asia,THA,2000,241.0,Thailand
+Europe,BLR,2010,81.0,Belarus
+Europe,ROU,2018,76.0,Romania
+Western Pacific,VUT,2018,61.0,Vanuatu
+Eastern Mediterranean,YEM,2004,61.0,Yemen
+Africa,GAB,2017,456.0,Gabon
+Eastern Mediterranean,SYR,2018,22.0,Syrian Arab Republic
+Eastern Mediterranean,SOM,2011,204.0,Somalia
+Africa,UGA,2022,198.0,Uganda
+Western Pacific,SGP,2020,47.0,Singapore
+Europe,LVA,2003,156.0,Latvia
+Western Pacific,VUT,2000,331.0,Vanuatu
+Africa,DZA,2003,112.0,Algeria
+Europe,MKD,2023,11.0,North Macedonia
+Europe,ALB,2007,16.0,Albania
+Europe,CZE,2015,6.0,Czechia
+Europe,GRC,2011,5.5,Greece
+Western Pacific,MYS,2019,100.0,Malaysia
+Americas,BHS,2005,21.0,Bahamas
+Africa,GAB,2023,380.0,Gabon
+Europe,AUT,2004,15.0,Austria
+South-East Asia,IND,2000,322.0,India
+Western Pacific,PLW,2015,79.0,Palau
+Eastern Mediterranean,TUN,2021,40.0,Tunisia
+Africa,UGA,2014,202.0,Uganda
+Americas,DOM,2004,103.0,Dominican Republic
+Africa,COM,2013,42.0,Comoros
+Americas,GUY,2009,164.0,Guyana
+Eastern Mediterranean,IRN,2020,13.0,Iran (Islamic Republic of)
+Americas,COL,2006,45.0,Colombia
+Africa,BEN,2019,51.0,Benin
+Europe,DNK,2012,7.8,Denmark
+Eastern Mediterranean,PAK,2017,267.0,Pakistan
+Eastern Mediterranean,ARE,2004,4.0,United Arab Emirates
+Europe,GBR,2004,13.0,United Kingdom of Great Britain and Northern Ireland
+Africa,RWA,2002,193.0,Rwanda
+Americas,ATG,2024,1.1,Antigua and Barbuda
+Americas,PAN,2012,58.0,Panama
+Americas,CAN,2002,7.3,Canada
+Americas,PRY,2023,76.0,Paraguay
+Western Pacific,WSM,2021,6.1,Samoa
+Europe,EST,2024,8.2,Estonia
+Americas,ARG,2022,35.0,Argentina
+Americas,PRI,2020,1.1,Puerto Rico
+Eastern Mediterranean,QAT,2007,63.0,Qatar
+Europe,SWE,2006,7.2,Sweden
+Western Pacific,MYS,2020,99.0,Malaysia
+Africa,GIN,2012,185.0,Guinea
+Africa,BWA,2015,437.0,Botswana
+Europe,CZE,2016,5.9,Czechia
+Western Pacific,BRN,2002,140.0,Brunei Darussalam
+Africa,ZWE,2022,209.0,Zimbabwe
+Europe,AUT,2024,4.9,Austria
+Africa,TCD,2000,123.0,Chad
+Africa,GHA,2003,209.0,Ghana
+Europe,KAZ,2006,167.0,Kazakhstan
+Africa,BFA,2018,64.0,Burkina Faso
+Western Pacific,MHL,2019,877.0,Marshall Islands
+Western Pacific,AUS,2000,6.8,Australia
+Europe,KAZ,2005,181.0,Kazakhstan
+Africa,TZA,2019,237.0,United Republic of Tanzania
+Africa,LSO,2017,681.0,Lesotho
+Americas,BRA,2018,45.0,Brazil
+Africa,KEN,2012,471.0,Kenya
+Americas,NIC,2013,70.0,Nicaragua
+Americas,GTM,2013,24.0,Guatemala
+Africa,ETH,2009,287.0,Ethiopia
+Europe,NOR,2012,8.0,Norway
+Americas,VEN,2020,47.0,Venezuela (Bolivarian Republic of)
+Western Pacific,TUV,2023,163.0,Tuvalu
+Americas,COL,2000,70.0,Colombia
+Western Pacific,CHN,2015,65.0,China
+Eastern Mediterranean,OMN,2014,13.0,Oman
+Europe,HRV,2002,48.0,Croatia
+Europe,KGZ,2001,303.0,Kyrgyzstan
+Europe,CHE,2011,8.1,Switzerland
+Europe,CYP,2021,4.5,Cyprus
+Africa,TZA,2012,378.0,United Republic of Tanzania
+Eastern Mediterranean,MAR,2015,100.0,Morocco
+Europe,SWE,2003,6.1,Sweden
+Europe,AUT,2012,9.0,Austria
+Americas,COL,2010,40.0,Colombia
+Africa,GHA,2018,148.0,Ghana
+Europe,BGR,2017,28.0,Bulgaria
+Europe,UZB,2013,82.0,Uzbekistan
+Europe,MCO,2017,0.0,Monaco
+Americas,DMA,2013,4.3,Dominica
+Western Pacific,MHL,2021,478.0,Marshall Islands
+Eastern Mediterranean,YEM,2019,39.0,Yemen
+Eastern Mediterranean,ARE,2013,1.6,United Arab Emirates
+Western Pacific,NRU,2020,112.0,Nauru
+South-East Asia,MDV,2023,36.0,Maldives
+Europe,MKD,2009,37.0,North Macedonia
+Europe,MCO,2023,0.86,Monaco
+Africa,ZWE,2002,617.0,Zimbabwe
+Eastern Mediterranean,OMN,2017,8.7,Oman
+Eastern Mediterranean,IRN,2002,40.0,Iran (Islamic Republic of)
+Americas,SLV,2017,77.0,El Salvador
+Africa,CMR,2022,143.0,Cameroon
+Africa,TZA,2010,426.0,United Republic of Tanzania
+Europe,POL,2021,11.0,Poland
+Western Pacific,TON,2013,9.3,Tonga
+Eastern Mediterranean,TUN,2019,42.0,Tunisia
+Americas,VCT,2006,12.0,Saint Vincent and the Grenadines
+Americas,ECU,2022,50.0,Ecuador
+Americas,USA,2008,5.2,United States of America
+Africa,MUS,2010,18.0,Mauritius
+Western Pacific,KHM,2009,473.0,Cambodia
+Europe,SVN,2008,14.0,Slovenia
+Africa,COM,2011,43.0,Comoros
+Africa,GNQ,2009,269.0,Equatorial Guinea
+Americas,HTI,2007,488.0,Haiti
+Europe,BLR,2005,105.0,Belarus
+Europe,KGZ,2024,128.0,Kyrgyzstan
+South-East Asia,THA,2017,156.0,Thailand
+Americas,URY,2022,41.0,Uruguay
+Eastern Mediterranean,QAT,2012,58.0,Qatar
+Africa,MDG,2004,231.0,Madagascar
+Africa,UGA,2000,276.0,Uganda
+South-East Asia,MMR,2024,482.0,Myanmar
+Western Pacific,NRU,2010,30.0,Nauru
+Europe,KAZ,2020,62.0,Kazakhstan
+South-East Asia,MDV,2002,122.0,Maldives
+Western Pacific,BRN,2010,90.0,Brunei Darussalam
+Western Pacific,BRN,2006,91.0,Brunei Darussalam
+Europe,ISR,2018,4.1,Israel
+Americas,ARG,2017,29.0,Argentina
+Europe,TUR,2009,38.0,Türkiye
+Africa,NAM,2007,1140.0,Namibia
+Africa,MDG,2011,230.0,Madagascar
+Western Pacific,VNM,2010,231.0,Viet Nam
+Africa,MUS,2021,11.0,Mauritius
+Europe,LVA,2002,170.0,Latvia
+Western Pacific,CHN,2012,73.0,China
+Americas,VEN,2009,36.0,Venezuela (Bolivarian Republic of)
+Americas,HTI,2003,562.0,Haiti
+Americas,PER,2012,143.0,Peru
+Western Pacific,BRN,2005,77.0,Brunei Darussalam
+Europe,BLR,2007,97.0,Belarus
+Europe,LVA,2020,23.0,Latvia
+Europe,UZB,2010,103.0,Uzbekistan
+Western Pacific,PLW,2008,79.0,Palau
+Americas,ECU,2010,49.0,Ecuador
+Americas,ECU,2012,51.0,Ecuador
+Africa,BFA,2012,73.0,Burkina Faso
+Europe,LTU,2017,65.0,Lithuania
+South-East Asia,MMR,2011,476.0,Myanmar
+Eastern Mediterranean,PAK,2007,276.0,Pakistan
+Europe,BIH,2006,73.0,Bosnia and Herzegovina
+Europe,CYP,2000,8.2,Cyprus
+Africa,ZWE,2015,242.0,Zimbabwe
+Americas,GRD,2014,0.0,Grenada
+Americas,HND,2001,200.0,Honduras
+Americas,SLV,2008,43.0,El Salvador
+Africa,SLE,2022,388.0,Sierra Leone
+Africa,LSO,2005,1200.0,Lesotho
+Africa,ERI,2000,1440.0,Eritrea
+Americas,PRY,2013,56.0,Paraguay
+Americas,KNA,2002,6.5,Saint Kitts and Nevis
+Western Pacific,PNG,2015,629.0,Papua New Guinea
+Eastern Mediterranean,IRN,2000,43.0,Iran (Islamic Republic of)
+Americas,ARG,2006,34.0,Argentina
+Europe,BIH,2008,73.0,Bosnia and Herzegovina
+Europe,EST,2002,83.0,Estonia
+Eastern Mediterranean,IRN,2014,21.0,Iran (Islamic Republic of)
+South-East Asia,THA,2024,146.0,Thailand
+Africa,GIN,2000,120.0,Guinea
+Americas,BLZ,2007,38.0,Belize
+Americas,ATG,2019,0.0,Antigua and Barbuda
+Africa,NER,2018,84.0,Niger
+Western Pacific,NIU,2001,0.0,Niue
+Africa,COG,2021,297.0,Congo
+Africa,GHA,2014,165.0,Ghana
+Eastern Mediterranean,MAR,2006,95.0,Morocco
+Africa,NGA,2010,219.0,Nigeria
+Europe,ESP,2001,25.0,Spain
+Europe,NLD,2022,4.0,Netherlands (Kingdom of the)
+Western Pacific,TON,2024,1.9,Tonga
+Western Pacific,VNM,2007,253.0,Viet Nam
+Europe,MLT,2011,7.1,Malta
+Africa,LBR,2022,224.0,Liberia
+Europe,MDA,2018,97.0,Republic of Moldova
+Eastern Mediterranean,LBY,2021,47.0,Libya
+Europe,RUS,2009,89.0,Russian Federation
+Africa,CPV,2007,105.0,Cabo Verde
+Africa,KEN,2020,248.0,Kenya
+Africa,BDI,2016,118.0,Burundi
+Africa,MWI,2019,146.0,Malawi
+Western Pacific,KIR,2021,547.0,Kiribati
+Europe,LVA,2010,73.0,Latvia
+Eastern Mediterranean,KWT,2015,26.0,Kuwait
+Africa,BEN,2024,40.0,Benin
+Africa,LBR,2006,288.0,Liberia
+Western Pacific,LAO,2010,221.0,Lao People's Democratic Republic
+Americas,BLZ,2014,31.0,Belize
+Western Pacific,SLB,2001,264.0,Solomon Islands
+Europe,MLT,2006,7.2,Malta
+Africa,ETH,2006,345.0,Ethiopia
+Eastern Mediterranean,QAT,2011,47.0,Qatar
+Eastern Mediterranean,SDN,2024,47.0,Sudan
+Eastern Mediterranean,SYR,2001,73.0,Syrian Arab Republic
+Eastern Mediterranean,EGY,2024,10.0,Egypt
+Africa,MWI,2023,119.0,Malawi
+South-East Asia,NPL,2007,339.0,Nepal
+Western Pacific,PHL,2013,543.0,Philippines
+Western Pacific,PNG,2005,679.0,Papua New Guinea
+Europe,NOR,2020,3.1,Norway
+Europe,MKD,2015,20.0,North Macedonia
+South-East Asia,TLS,2021,398.0,Timor-Leste
+Europe,TUR,2011,32.0,Türkiye
+Americas,LCA,2010,5.3,Saint Lucia
+Africa,MUS,2003,25.0,Mauritius
+Europe,ESP,2020,7.2,Spain
+Europe,AUT,2023,5.3,Austria
+Americas,TTO,2013,24.0,Trinidad and Tobago
+Eastern Mediterranean,SDN,2004,142.0,Sudan
+Africa,MUS,2012,17.0,Mauritius
+Eastern Mediterranean,SYR,2022,22.0,Syrian Arab Republic
+Europe,FIN,2000,14.0,Finland
+Africa,BFA,2005,84.0,Burkina Faso
+Africa,ZMB,2002,695.0,Zambia
+South-East Asia,NPL,2005,360.0,Nepal
+Western Pacific,VUT,2008,127.0,Vanuatu
+Americas,GTM,2006,31.0,Guatemala
+Africa,GMB,2009,180.0,Gambia
+Americas,USA,2021,2.6,United States of America
+Europe,BLR,2020,26.0,Belarus
+Europe,ARM,2003,120.0,Armenia
+Americas,PRI,2018,1.0,Puerto Rico
+Americas,ECU,2000,124.0,Ecuador
+Eastern Mediterranean,PSE,2000,5.6,"occupied Palestinian territory, including east Jerusalem"
+Americas,CHL,2005,22.0,Chile
+Europe,TJK,2009,180.0,Tajikistan
+Western Pacific,MHL,2016,649.0,Marshall Islands
+Western Pacific,KIR,2014,870.0,Kiribati
+Africa,BFA,2002,89.0,Burkina Faso
+Africa,CMR,2002,172.0,Cameroon
+South-East Asia,MMR,2008,530.0,Myanmar
+Eastern Mediterranean,PSE,2017,0.91,"occupied Palestinian territory, including east Jerusalem"
+Africa,NAM,2003,1240.0,Namibia
+Europe,BIH,2009,74.0,Bosnia and Herzegovina
+Africa,UGA,2003,248.0,Uganda
+Americas,SUR,2014,37.0,Suriname
+Africa,COD,2023,385.0,Democratic Republic of the Congo
+Western Pacific,NRU,2019,147.0,Nauru
+Eastern Mediterranean,SOM,2009,238.0,Somalia
+Europe,MNE,2013,29.0,Montenegro
+Americas,DMA,2015,9.9,Dominica
+Africa,GMB,2011,178.0,Gambia
+Americas,VEN,2021,48.0,Venezuela (Bolivarian Republic of)
+Europe,ALB,2020,15.0,Albania
+South-East Asia,BTN,2024,191.0,Bhutan
+Europe,AZE,2004,208.0,Azerbaijan
+Western Pacific,PLW,2007,57.0,Palau
+Africa,MOZ,2024,361.0,Mozambique
+Americas,DMA,2003,7.6,Dominica
+Americas,VEN,2012,32.0,Venezuela (Bolivarian Republic of)
+Africa,MLI,2015,63.0,Mali
+Africa,LBR,2015,289.0,Liberia
+Americas,BOL,2019,95.0,Bolivia (Plurinational State of)
+Europe,CZE,2009,7.9,Czechia
+South-East Asia,IND,2016,225.0,India
+Western Pacific,KIR,2006,1320.0,Kiribati
+Europe,KGZ,2018,144.0,Kyrgyzstan
+Europe,POL,2003,40.0,Poland
+Americas,DMA,2011,2.9,Dominica
+Americas,USA,2005,6.0,United States of America
+Africa,SSD,2011,415.0,South Sudan
+Americas,SLV,2002,52.0,El Salvador
+Africa,STP,2012,131.0,Sao Tome and Principe
+Africa,MLI,2016,61.0,Mali
+Western Pacific,FSM,2000,281.0,Micronesia (Federated States of)
+Europe,BLR,2017,38.0,Belarus
+Europe,AUT,2000,22.0,Austria
+Europe,ITA,2013,6.1,Italy
+Africa,TCD,2009,157.0,Chad
+Americas,DMA,2002,2.9,Dominica
+Europe,DNK,2022,4.2,Denmark
+Eastern Mediterranean,SYR,2011,29.0,Syrian Arab Republic
+Africa,MOZ,2012,361.0,Mozambique
+Americas,BRB,2001,2.3,Barbados
+Americas,HTI,2022,196.0,Haiti
+Europe,LUX,2024,7.5,Luxembourg
+Americas,GTM,2004,29.0,Guatemala
+Western Pacific,PLW,2023,85.0,Palau
+South-East Asia,BTN,2008,393.0,Bhutan
+Europe,GRC,2010,5.4,Greece
+Americas,URY,2014,33.0,Uruguay
+Africa,MUS,2015,16.0,Mauritius
+Western Pacific,BRN,2008,92.0,Brunei Darussalam
+Eastern Mediterranean,MAR,2012,97.0,Morocco
+Americas,KNA,2019,4.3,Saint Kitts and Nevis
+Africa,AGO,2021,371.0,Angola
+Europe,LUX,2011,6.2,Luxembourg
+Africa,BFA,2020,62.0,Burkina Faso
+Eastern Mediterranean,AFG,2016,204.0,Afghanistan
+Western Pacific,NIU,2006,0.0,Niue
+Europe,GEO,2019,78.0,Georgia
+Europe,DNK,2004,9.1,Denmark
+Americas,BRA,2001,46.0,Brazil
+Eastern Mediterranean,IRQ,2011,42.0,Iraq
+Eastern Mediterranean,JOR,2006,8.9,Jordan
+Western Pacific,WSM,2002,17.0,Samoa
+Western Pacific,NRU,2016,90.0,Nauru
+Europe,HRV,2021,4.9,Croatia
+Eastern Mediterranean,BHR,2013,24.0,Bahrain
+Africa,SLE,2012,474.0,Sierra Leone
+Western Pacific,COK,2022,0.0,Cook Islands
+Africa,ZAF,2020,562.0,South Africa
+Eastern Mediterranean,SAU,2008,19.0,Saudi Arabia
+Americas,PAN,2007,72.0,Panama
+South-East Asia,TLS,2011,621.0,Timor-Leste
+Western Pacific,KIR,2016,1010.0,Kiribati
+Americas,BRA,2002,50.0,Brazil
+Europe,ESP,2003,33.0,Spain
+Western Pacific,NIU,2002,207.0,Niue
+Americas,DOM,2009,70.0,Dominican Republic
+Africa,MDG,2015,219.0,Madagascar
+Europe,CHE,2010,8.0,Switzerland
+Africa,MOZ,2018,361.0,Mozambique
+Europe,LVA,2001,193.0,Latvia
+Europe,ISL,2005,3.4,Iceland
+Africa,ETH,2012,238.0,Ethiopia
+Europe,ISR,2003,9.9,Israel
+Europe,ISR,2016,3.7,Israel
+Europe,GBR,2022,7.8,United Kingdom of Great Britain and Northern Ireland
+Europe,RUS,2008,90.0,Russian Federation
+South-East Asia,BGD,2014,221.0,Bangladesh
+Europe,NOR,2015,6.4,Norway
+Western Pacific,JPN,2012,20.0,Japan
+Africa,SLE,2008,514.0,Sierra Leone
+Africa,AGO,2012,458.0,Angola
+Europe,BIH,2020,25.0,Bosnia and Herzegovina
+Eastern Mediterranean,PSE,2018,0.91,"occupied Palestinian territory, including east Jerusalem"
+Americas,BRB,2000,1.1,Barbados
+Africa,GAB,2006,387.0,Gabon
+Europe,TJK,2000,140.0,Tajikistan
+Europe,FRA,2015,8.4,France
+Africa,COG,2006,470.0,Congo
+Eastern Mediterranean,LBY,2016,32.0,Libya
+Americas,CRI,2022,9.8,Costa Rica
+Europe,GRC,2001,6.8,Greece
+Africa,GIN,2014,179.0,Guinea
+Americas,USA,2007,5.5,United States of America
+Africa,CPV,2023,53.0,Cabo Verde
+Europe,IRL,2020,5.6,Ireland
+Europe,HRV,2020,5.6,Croatia
+Europe,BLR,2015,54.0,Belarus
+Americas,TTO,2001,33.0,Trinidad and Tobago
+Europe,PRT,2020,15.0,Portugal
+Africa,MLI,2011,70.0,Mali
+Americas,CUB,2010,9.8,Cuba
+Africa,MRT,2013,118.0,Mauritania
+Eastern Mediterranean,TUN,2001,49.0,Tunisia
+Africa,ETH,2007,324.0,Ethiopia
+Americas,CRI,2006,17.0,Costa Rica
+Europe,MCO,2007,0.9,Monaco
+Americas,JAM,2022,3.9,Jamaica
+Americas,GRD,2024,1.7,Grenada
+Americas,VEN,2003,52.0,Venezuela (Bolivarian Republic of)
+Americas,GTM,2020,18.0,Guatemala
+Africa,ETH,2008,305.0,Ethiopia
+Africa,CAF,2008,579.0,Central African Republic
+Americas,NIC,2003,102.0,Nicaragua
+Africa,RWA,2017,65.0,Rwanda
+Americas,CAN,2021,5.4,Canada
+Europe,ISR,2011,7.0,Israel
+Africa,RWA,2022,62.0,Rwanda
+Europe,LUX,2019,9.0,Luxembourg
+Americas,HTI,2002,571.0,Haiti
+Africa,CMR,2010,271.0,Cameroon
+Western Pacific,VUT,2021,48.0,Vanuatu
+Western Pacific,JPN,2018,15.0,Japan
+Americas,URY,2006,25.0,Uruguay
+Europe,LVA,2005,125.0,Latvia
+Americas,VEN,2019,48.0,Venezuela (Bolivarian Republic of)
+Africa,NGA,2000,219.0,Nigeria
+South-East Asia,IND,2024,187.0,India
+Europe,ISL,2008,1.9,Iceland
+Africa,NER,2002,103.0,Niger
+Americas,TTO,2000,34.0,Trinidad and Tobago
+Europe,FRA,2005,9.8,France
+Africa,SWZ,2012,1110.0,Eswatini
+Americas,SUR,2023,31.0,Suriname
+Europe,ROU,2000,189.0,Romania
+Europe,NOR,2000,7.0,Norway
+Eastern Mediterranean,SOM,2015,187.0,Somalia
+Africa,CAF,2018,473.0,Central African Republic
+Eastern Mediterranean,EGY,2002,20.0,Egypt
+Eastern Mediterranean,SOM,2001,354.0,Somalia
+Africa,NER,2006,127.0,Niger
+Africa,CIV,2007,218.0,Cote d'Ivoire
+Africa,GAB,2009,445.0,Gabon
+Africa,TCD,2010,162.0,Chad
+Europe,SMR,2016,0.0,San Marino
+Eastern Mediterranean,IRQ,2004,58.0,Iraq
+South-East Asia,MDV,2019,48.0,Maldives
+Europe,MLT,2000,4.0,Malta
+Western Pacific,MHL,2011,498.0,Marshall Islands
+Europe,SVN,2001,26.0,Slovenia
+Africa,GAB,2001,336.0,Gabon
+Europe,MKD,2016,18.0,North Macedonia
+Africa,GIN,2017,178.0,Guinea
+Europe,LVA,2008,86.0,Latvia
+Americas,BRA,2008,44.0,Brazil
+Western Pacific,MHL,2009,541.0,Marshall Islands
+Americas,ECU,2017,44.0,Ecuador
+Africa,NGA,2019,219.0,Nigeria
+Africa,TGO,2001,61.0,Togo
+Western Pacific,AUS,2022,5.6,Australia
+Eastern Mediterranean,SAU,2016,10.0,Saudi Arabia
+Western Pacific,VNM,2001,290.0,Viet Nam
+Americas,BLZ,2004,61.0,Belize
+Europe,AUT,2014,7.9,Austria
+Americas,DOM,2024,51.0,Dominican Republic
+Africa,GNB,2009,276.0,Guinea-Bissau
+Eastern Mediterranean,TUN,2005,38.0,Tunisia
+Americas,ARG,2023,39.0,Argentina
+Europe,ISL,2019,3.6,Iceland
+Western Pacific,KOR,2022,40.0,Republic of Korea
+Africa,GHA,2006,199.0,Ghana
+Western Pacific,FSM,2007,347.0,Micronesia (Federated States of)
+Africa,ZMB,2024,272.0,Zambia
+Western Pacific,LAO,2015,182.0,Lao People's Democratic Republic
+Africa,NGA,2005,219.0,Nigeria
+South-East Asia,IND,2021,196.0,India
+Africa,ZWE,2007,527.0,Zimbabwe
+Africa,CIV,2020,118.0,Cote d'Ivoire
+Africa,LSO,2001,923.0,Lesotho
+Western Pacific,NRU,2011,50.0,Nauru
+Europe,ROU,2014,99.0,Romania
+Eastern Mediterranean,YEM,2010,45.0,Yemen
+Eastern Mediterranean,PSE,2010,1.3,"occupied Palestinian territory, including east Jerusalem"
+South-East Asia,LKA,2015,70.0,Sri Lanka
+Europe,RUS,2004,87.0,Russian Federation
+Africa,MRT,2014,112.0,Mauritania
+Americas,GUY,2002,173.0,Guyana
+Africa,ZAF,2005,1210.0,South Africa
+Europe,KAZ,2010,140.0,Kazakhstan
+Americas,VCT,2002,8.8,Saint Vincent and the Grenadines
+Americas,GRD,2023,4.3,Grenada
+Africa,CMR,2017,189.0,Cameroon
+Western Pacific,WSM,2000,24.0,Samoa
+Americas,LCA,2012,6.4,Saint Lucia
+Africa,ZAF,2007,1270.0,South Africa
+Western Pacific,KHM,2016,326.0,Cambodia
+Europe,HRV,2001,47.0,Croatia
+Europe,GEO,2003,211.0,Georgia
+Eastern Mediterranean,SYR,2000,79.0,Syrian Arab Republic
+Americas,CRI,2015,12.0,Costa Rica
+Europe,GRC,2013,6.0,Greece
+Americas,DOM,2021,47.0,Dominican Republic
+Americas,PER,2023,149.0,Peru
+Americas,LCA,2009,5.9,Saint Lucia
+Africa,COG,2024,302.0,Congo
+Africa,COM,2010,44.0,Comoros
+Western Pacific,TUV,2013,164.0,Tuvalu
+Africa,MOZ,2019,361.0,Mozambique
+Eastern Mediterranean,EGY,2014,13.0,Egypt
+Africa,CPV,2001,168.0,Cabo Verde
+Europe,CZE,2001,17.0,Czechia
+Africa,MRT,2019,89.0,Mauritania
+Europe,UZB,2008,127.0,Uzbekistan
+Eastern Mediterranean,OMN,2002,22.0,Oman
+South-East Asia,TLS,2013,530.0,Timor-Leste
+Western Pacific,PNG,2006,628.0,Papua New Guinea
+Europe,TKM,2010,91.0,Turkmenistan
+Eastern Mediterranean,JOR,2007,7.4,Jordan
+Americas,TTO,2005,20.0,Trinidad and Tobago
+Africa,ZWE,2006,561.0,Zimbabwe
+Western Pacific,MHL,2014,509.0,Marshall Islands
+Africa,KEN,2000,451.0,Kenya
+Americas,BRA,2012,42.0,Brazil
+Americas,BRB,2022,1.8,Barbados
+Europe,GBR,2001,11.0,United Kingdom of Great Britain and Northern Ireland
+Africa,CMR,2003,206.0,Cameroon
+Africa,TGO,2016,58.0,Togo
+Eastern Mediterranean,LBN,2002,19.0,Lebanon
+Europe,BGR,2013,41.0,Bulgaria
+Africa,GNB,2014,218.0,Guinea-Bissau
+Western Pacific,COK,2024,7.3,Cook Islands
+Africa,MRT,2021,79.0,Mauritania
+South-East Asia,TLS,2003,1070.0,Timor-Leste
+Europe,TUR,2004,44.0,Türkiye
+Africa,MRT,2006,186.0,Mauritania
+Europe,GRC,2007,7.7,Greece
+Western Pacific,SGP,2023,41.0,Singapore
+Africa,RWA,2018,64.0,Rwanda
+Africa,CAF,2007,591.0,Central African Republic
+Africa,KEN,2006,646.0,Kenya
+Western Pacific,AUS,2006,6.9,Australia
+Americas,HTI,2014,336.0,Haiti
+Europe,POL,2018,17.0,Poland
+Western Pacific,CHN,2003,97.0,China
+Africa,BFA,2017,66.0,Burkina Faso
+Europe,ARM,2000,115.0,Armenia
+South-East Asia,THA,2013,170.0,Thailand
+Americas,PRI,2011,2.0,Puerto Rico
+Africa,ZMB,2018,346.0,Zambia
+Western Pacific,JPN,2017,16.0,Japan
+Europe,BIH,2018,28.0,Bosnia and Herzegovina
+Africa,COG,2011,415.0,Congo
+Eastern Mediterranean,BHR,2022,16.0,Bahrain
+South-East Asia,BTN,2005,508.0,Bhutan
+Africa,MLI,2017,60.0,Mali
+Africa,SYC,2012,20.0,Seychelles
+Americas,CAN,2008,5.9,Canada
+Western Pacific,VNM,2000,296.0,Viet Nam
+Americas,HND,2000,280.0,Honduras
+Eastern Mediterranean,EGY,2015,13.0,Egypt
+Western Pacific,AUS,2009,7.2,Australia
+Europe,SMR,2024,0.0,San Marino
+Western Pacific,LAO,2001,317.0,Lao People's Democratic Republic
+Americas,LCA,2022,1.1,Saint Lucia
+Europe,LTU,2016,70.0,Lithuania
+Eastern Mediterranean,QAT,2024,37.0,Qatar
+Africa,CMR,2011,259.0,Cameroon
+Eastern Mediterranean,SAU,2022,8.8,Saudi Arabia
+Americas,COL,2018,34.0,Colombia
+Western Pacific,VNM,2018,182.0,Viet Nam
+Americas,GRD,2015,4.4,Grenada
+Americas,PRI,2015,2.0,Puerto Rico
+Africa,NGA,2009,219.0,Nigeria
+Africa,TZA,2001,506.0,United Republic of Tanzania
+Africa,CPV,2014,81.0,Cabo Verde
+Africa,GIN,2006,177.0,Guinea
+Americas,BOL,2007,257.0,Bolivia (Plurinational State of)
+Africa,MOZ,2006,345.0,Mozambique
+Europe,SVK,2016,6.3,Slovakia
+Africa,GAB,2013,488.0,Gabon
+Africa,MLI,2000,76.0,Mali
+Americas,DMA,2007,4.4,Dominica
+Africa,MLI,2012,68.0,Mali
+Americas,VEN,2006,43.0,Venezuela (Bolivarian Republic of)
+Europe,TUR,2002,49.0,Türkiye
+Americas,MEX,2012,26.0,Mexico
+Eastern Mediterranean,MAR,2005,97.0,Morocco
+Europe,MLT,2012,9.8,Malta
+Eastern Mediterranean,BHR,2011,29.0,Bahrain
+Africa,ERI,2023,149.0,Eritrea
+Americas,GRD,2003,1.8,Grenada
+Europe,BLR,2022,22.0,Belarus
+Europe,POL,2002,41.0,Poland
+Europe,UZB,2021,60.0,Uzbekistan
+Africa,CPV,2006,106.0,Cabo Verde
+Africa,COG,2012,402.0,Congo
+Africa,BDI,2012,142.0,Burundi
+Eastern Mediterranean,TUN,2022,39.0,Tunisia
+Americas,GRD,2004,1.8,Grenada
+Africa,MUS,2018,16.0,Mauritius
+Americas,CHL,2016,17.0,Chile
+Americas,CAN,2005,6.3,Canada
+South-East Asia,IND,2014,243.0,India
+Europe,SRB,2012,39.0,Serbia
+Africa,CIV,2003,201.0,Cote d'Ivoire
+Americas,BRB,2023,0.71,Barbados
+Americas,MEX,2004,26.0,Mexico
+South-East Asia,NPL,2021,230.0,Nepal
+Americas,USA,2004,6.3,United States of America
+Africa,MUS,2000,32.0,Mauritius
+Americas,GRD,2020,0.86,Grenada
+Americas,DOM,2019,45.0,Dominican Republic
+Western Pacific,FJI,2016,59.0,Fiji
+Africa,TCD,2007,143.0,Chad
+Eastern Mediterranean,YEM,2014,43.0,Yemen
+Africa,MWI,2021,132.0,Malawi
+Americas,JAM,2013,5.1,Jamaica
+Africa,MLI,2024,51.0,Mali
+Europe,BLR,2000,153.0,Belarus
+Europe,ITA,2000,9.1,Italy
+Americas,LCA,2020,4.5,Saint Lucia
+Western Pacific,COK,2016,12.0,Cook Islands
+South-East Asia,MDV,2014,50.0,Maldives
+Africa,SEN,2013,174.0,Senegal
+Americas,USA,2006,5.8,United States of America
+Europe,SMR,2013,0.0,San Marino
+Americas,GRD,2009,4.5,Grenada
+Europe,CYP,2001,8.9,Cyprus
+Eastern Mediterranean,ARE,2012,1.7,United Arab Emirates
+Eastern Mediterranean,MAR,2008,96.0,Morocco
+Americas,CAN,2010,4.9,Canada
+Europe,NLD,2021,4.4,Netherlands (Kingdom of the)
+Europe,MDA,2021,80.0,Republic of Moldova
+Europe,SRB,2008,59.0,Serbia
+Western Pacific,AUS,2011,6.6,Australia
+Eastern Mediterranean,MAR,2019,96.0,Morocco
+Western Pacific,TUV,2018,251.0,Tuvalu
+Americas,BRB,2011,0.0,Barbados
+Europe,AZE,2010,183.0,Azerbaijan
+Eastern Mediterranean,SOM,2017,182.0,Somalia
+Europe,CYP,2007,5.9,Cyprus
+Africa,GMB,2017,166.0,Gambia
+Europe,SVK,2010,10.0,Slovakia
+Europe,SWE,2022,4.0,Sweden
+Africa,NGA,2008,219.0,Nigeria
+Europe,CHE,2023,5.4,Switzerland
+Europe,SMR,2008,0.0,San Marino
+Europe,POL,2013,24.0,Poland
+Europe,SMR,2000,3.7,San Marino
+Eastern Mediterranean,ARE,2000,8.1,United Arab Emirates
+Eastern Mediterranean,AFG,2023,204.0,Afghanistan
+Eastern Mediterranean,BHR,2004,48.0,Bahrain
+Europe,FRA,2002,11.0,France
+Americas,DMA,2021,0.0,Dominica
+Western Pacific,CHN,2008,82.0,China
+Europe,AZE,2020,69.0,Azerbaijan
+Europe,NLD,2024,4.7,Netherlands (Kingdom of the)
+Europe,LUX,2016,5.9,Luxembourg
+Europe,TKM,2015,50.0,Turkmenistan
+Europe,MDA,2016,111.0,Republic of Moldova
+Europe,NLD,2010,7.0,Netherlands (Kingdom of the)
+Europe,LVA,2015,53.0,Latvia
+Africa,COD,2003,576.0,Democratic Republic of the Congo
+Western Pacific,NRU,2024,161.0,Nauru
+Europe,ALB,2009,17.0,Albania
+Eastern Mediterranean,SOM,2022,162.0,Somalia
+Western Pacific,FJI,2003,51.0,Fiji
+Africa,MWI,2022,125.0,Malawi
+Europe,BGR,2000,83.0,Bulgaria
+Europe,SRB,2019,21.0,Serbia
+Western Pacific,NZL,2016,7.4,New Zealand
+Americas,BOL,2006,279.0,Bolivia (Plurinational State of)
+Africa,NGA,2020,219.0,Nigeria
+Eastern Mediterranean,LBY,2020,43.0,Libya
+Europe,AND,2021,2.6,Andorra
+Africa,TCD,2023,120.0,Chad
+Africa,BDI,2019,102.0,Burundi
+Western Pacific,FSM,2022,91.0,Micronesia (Federated States of)
+Europe,UKR,2002,210.0,Ukraine
+Africa,DZA,2009,96.0,Algeria
+Eastern Mediterranean,OMN,2024,11.0,Oman
+Western Pacific,KHM,2006,593.0,Cambodia
+Americas,HND,2002,161.0,Honduras
+Africa,STP,2010,153.0,Sao Tome and Principe
+Americas,BOL,2015,123.0,Bolivia (Plurinational State of)
+Europe,BEL,2002,15.0,Belgium
+Africa,ERI,2006,375.0,Eritrea
+Africa,LSO,2004,1150.0,Lesotho
+Eastern Mediterranean,KWT,2013,27.0,Kuwait
+Americas,DOM,2020,46.0,Dominican Republic
+Western Pacific,KIR,2007,1060.0,Kiribati
+Europe,MNE,2020,18.0,Montenegro
+Europe,AUT,2002,18.0,Austria
+Europe,GRC,2018,4.8,Greece
+Africa,SEN,2016,159.0,Senegal
+Americas,CAN,2018,5.3,Canada
+Africa,MRT,2004,203.0,Mauritania
+Africa,GHA,2024,126.0,Ghana
+Americas,CHL,2022,18.0,Chile
+Americas,JAM,2005,6.4,Jamaica
+Western Pacific,NIU,2003,0.0,Niue
+Eastern Mediterranean,LBY,2002,63.0,Libya
+Western Pacific,PLW,2000,56.0,Palau
+Eastern Mediterranean,JOR,2001,10.0,Jordan
+Americas,BRB,2016,1.1,Barbados
+Europe,AZE,2009,249.0,Azerbaijan
+Eastern Mediterranean,ARE,2022,0.77,United Arab Emirates
+Americas,CRI,2014,13.0,Costa Rica
+Europe,HUN,2018,8.0,Hungary
+Europe,TKM,2004,126.0,Turkmenistan
+Europe,SMR,2011,0.0,San Marino
+Africa,ERI,2016,163.0,Eritrea
+Europe,SRB,2015,33.0,Serbia
+Europe,MLT,2020,27.0,Malta
+Africa,SWZ,2010,1590.0,Eswatini
+Africa,COD,2000,612.0,Democratic Republic of the Congo
+Africa,CAF,2013,524.0,Central African Republic
+Americas,BRB,2002,1.9,Barbados
+Europe,ROU,2023,62.0,Romania
+South-East Asia,NPL,2018,245.0,Nepal
+Africa,NAM,2006,1210.0,Namibia
+Americas,DMA,2006,28.0,Dominica
+Americas,PAN,2010,62.0,Panama
+Americas,BOL,2016,113.0,Bolivia (Plurinational State of)
+Americas,BHS,2016,30.0,Bahamas
+Africa,ERI,2001,538.0,Eritrea
+Africa,GMB,2013,176.0,Gambia
+Eastern Mediterranean,IRN,2019,14.0,Iran (Islamic Republic of)
+Europe,GRC,2021,2.3,Greece
+Europe,FRA,2011,9.0,France
+Western Pacific,PLW,2013,45.0,Palau
+Eastern Mediterranean,QAT,2016,27.0,Qatar
+Western Pacific,FJI,2019,89.0,Fiji
+Africa,ETH,2013,224.0,Ethiopia
+Eastern Mediterranean,MAR,2020,89.0,Morocco
+Western Pacific,KHM,2011,416.0,Cambodia
+Eastern Mediterranean,SOM,2024,151.0,Somalia
+Africa,TZA,2021,208.0,United Republic of Tanzania
+Europe,GBR,2021,7.9,United Kingdom of Great Britain and Northern Ireland
+Western Pacific,TUV,2011,111.0,Tuvalu
+Americas,BOL,2024,114.0,Bolivia (Plurinational State of)
+Americas,URY,2009,29.0,Uruguay
+Europe,TJK,2002,181.0,Tajikistan
+Americas,HTI,2004,549.0,Haiti
+Africa,STP,2003,237.0,Sao Tome and Principe
+Americas,PRY,2015,55.0,Paraguay
+Europe,ITA,2004,9.3,Italy
+Africa,CMR,2001,131.0,Cameroon
+Western Pacific,KHM,2001,815.0,Cambodia
+Europe,NOR,2008,7.5,Norway
+Eastern Mediterranean,SYR,2005,49.0,Syrian Arab Republic
+Americas,CUB,2004,11.0,Cuba
+South-East Asia,IND,2017,217.0,India
+Africa,COG,2017,321.0,Congo
+Europe,BLR,2016,45.0,Belarus
+Europe,SMR,2004,0.0,San Marino
+South-East Asia,BTN,2020,201.0,Bhutan
+Eastern Mediterranean,YEM,2013,48.0,Yemen
+Americas,PRI,2012,2.8,Puerto Rico
+Africa,CIV,2014,173.0,Cote d'Ivoire
+Americas,BHS,2008,20.0,Bahamas
+Europe,GEO,2016,104.0,Georgia
+Africa,GNQ,2016,234.0,Equatorial Guinea
+Europe,TUR,2007,44.0,Türkiye
+Europe,DNK,2019,5.4,Denmark
+Western Pacific,NIU,2023,0.0,Niue
+South-East Asia,MMR,2015,391.0,Myanmar
+Europe,SMR,2021,0.0,San Marino
+Western Pacific,FJI,2001,58.0,Fiji
+Western Pacific,LAO,2018,162.0,Lao People's Democratic Republic
+Europe,MCO,2018,2.6,Monaco
+Americas,BRA,2017,43.0,Brazil
+Europe,TUR,2005,48.0,Türkiye
+Western Pacific,WSM,2017,15.0,Samoa
+Africa,LBR,2021,232.0,Liberia
+Americas,CAN,2017,5.4,Canada
+South-East Asia,IND,2023,192.0,India
+Europe,SVK,2007,16.0,Slovakia
+Africa,SYC,2021,8.9,Seychelles
+Eastern Mediterranean,EGY,2016,13.0,Egypt
+Europe,IRL,2023,4.8,Ireland
+Africa,SEN,2005,185.0,Senegal
+Europe,MLT,2019,19.0,Malta
+Western Pacific,WSM,2019,8.6,Samoa
+Eastern Mediterranean,DJI,2007,1320.0,Djibouti
+Europe,CHE,2006,8.0,Switzerland
+Americas,TTO,2022,22.0,Trinidad and Tobago
+Africa,SSD,2023,326.0,South Sudan
+Western Pacific,VUT,2003,214.0,Vanuatu
+Europe,KGZ,2005,258.0,Kyrgyzstan
+Western Pacific,TON,2006,17.0,Tonga
+Eastern Mediterranean,IRQ,2020,18.0,Iraq
+Europe,ALB,2024,15.0,Albania
+Africa,ERI,2020,111.0,Eritrea
+Africa,ZAF,2022,468.0,South Africa
+Europe,UZB,2004,165.0,Uzbekistan
+Eastern Mediterranean,IRQ,2016,29.0,Iraq
+Europe,NOR,2023,2.8,Norway
+Eastern Mediterranean,BHR,2014,21.0,Bahrain
+Europe,NLD,2008,6.7,Netherlands (Kingdom of the)
+Europe,ITA,2008,8.9,Italy
+Europe,PRT,2005,41.0,Portugal
+Europe,BGR,2011,47.0,Bulgaria
+Europe,BLR,2023,19.0,Belarus
+Africa,BDI,2010,154.0,Burundi
+Africa,LSO,2016,721.0,Lesotho
+Americas,PER,2022,149.0,Peru
+Eastern Mediterranean,KWT,2012,30.0,Kuwait
+Western Pacific,LAO,2021,143.0,Lao People's Democratic Republic
+Eastern Mediterranean,QAT,2002,89.0,Qatar
+Americas,MEX,2002,33.0,Mexico
+Europe,SRB,2011,47.0,Serbia
+Europe,BGR,2004,71.0,Bulgaria
+Europe,UKR,2017,90.0,Ukraine
+Africa,DZA,2005,113.0,Algeria
+Africa,MDG,2009,235.0,Madagascar
+Americas,BOL,2014,134.0,Bolivia (Plurinational State of)
+Americas,ARG,2004,42.0,Argentina
+Eastern Mediterranean,SAU,2023,8.4,Saudi Arabia
+Europe,MCO,2024,0.82,Monaco
+Africa,COD,2004,564.0,Democratic Republic of the Congo
+Africa,NER,2023,83.0,Niger
+Americas,VEN,2004,49.0,Venezuela (Bolivarian Republic of)
+Americas,VCT,2004,7.1,Saint Vincent and the Grenadines
+Eastern Mediterranean,SAU,2006,19.0,Saudi Arabia
+Europe,SVK,2002,29.0,Slovakia
+Europe,EST,2008,47.0,Estonia
+Europe,KAZ,2023,49.0,Kazakhstan
+Western Pacific,TUV,2002,135.0,Tuvalu
+Europe,IRL,2010,11.0,Ireland
+Africa,MDG,2007,236.0,Madagascar
+Western Pacific,NZL,2009,8.6,New Zealand
+Africa,BWA,2006,751.0,Botswana
+Africa,CMR,2004,234.0,Cameroon
+Europe,LUX,2015,6.3,Luxembourg
+Eastern Mediterranean,EGY,2005,18.0,Egypt
+Western Pacific,NZL,2000,12.0,New Zealand
+Eastern Mediterranean,SDN,2002,139.0,Sudan
+Eastern Mediterranean,QAT,2004,79.0,Qatar
+Africa,UGA,2009,213.0,Uganda
+Africa,CPV,2012,131.0,Cabo Verde
+Eastern Mediterranean,SYR,2021,24.0,Syrian Arab Republic
+Europe,ESP,2012,15.0,Spain
+Africa,AGO,2011,469.0,Angola
+Eastern Mediterranean,YEM,2002,76.0,Yemen
+Europe,PRT,2010,30.0,Portugal
+Western Pacific,KIR,2008,974.0,Kiribati
+Africa,NER,2024,86.0,Niger
+Africa,ZWE,2008,487.0,Zimbabwe
+Eastern Mediterranean,SYR,2014,31.0,Syrian Arab Republic
+Africa,UGA,2006,227.0,Uganda
+Europe,ITA,2005,8.8,Italy
+South-East Asia,LKA,2005,112.0,Sri Lanka
+Americas,HTI,2024,175.0,Haiti
+Africa,MUS,2024,13.0,Mauritius
+Americas,KNA,2005,0.0,Saint Kitts and Nevis
+Africa,ETH,2022,146.0,Ethiopia
+Western Pacific,FSM,2019,180.0,Micronesia (Federated States of)
+Western Pacific,NIU,2016,20.0,Niue
+Africa,ZMB,2021,307.0,Zambia
+Africa,AGO,2010,480.0,Angola
+Europe,BGR,2019,25.0,Bulgaria
+Americas,SUR,2006,45.0,Suriname
+Western Pacific,IDN,2006,357.0,Indonesia
+Eastern Mediterranean,SOM,2004,336.0,Somalia
+Americas,ARG,2003,41.0,Argentina
+Europe,NOR,2011,7.6,Norway
+Western Pacific,KHM,2019,293.0,Cambodia
+Europe,KGZ,2021,132.0,Kyrgyzstan
+Europe,CHE,2019,5.4,Switzerland
+Europe,BEL,2007,11.0,Belgium
+Africa,TCD,2020,131.0,Chad
+Europe,AUT,2019,6.2,Austria
+Europe,UZB,2001,163.0,Uzbekistan
+Europe,IRL,2022,4.7,Ireland
+South-East Asia,BGD,2024,221.0,Bangladesh
+Europe,LVA,2023,22.0,Latvia
+Americas,CRI,2023,9.5,Costa Rica
+Africa,SYC,2020,7.5,Seychelles
+Western Pacific,AUS,2013,6.3,Australia
+Africa,BEN,2003,80.0,Benin
+Europe,DEU,2007,6.3,Germany
+Europe,SRB,2013,43.0,Serbia
+Europe,AZE,2006,200.0,Azerbaijan
+Africa,GHA,2020,140.0,Ghana
+Americas,PRY,2005,77.0,Paraguay
+Africa,ZMB,2004,631.0,Zambia
+Western Pacific,BRN,2007,90.0,Brunei Darussalam
+Africa,COG,2004,499.0,Congo
+Americas,DMA,2008,19.0,Dominica
+Western Pacific,SLB,2006,271.0,Solomon Islands
+South-East Asia,NPL,2013,284.0,Nepal
+Europe,SMR,2012,0.0,San Marino
+Europe,MNE,2023,17.0,Montenegro
+Americas,CRI,2010,15.0,Costa Rica
+Americas,MEX,2024,28.0,Mexico
+Americas,BLZ,2011,36.0,Belize
+Europe,TKM,2019,42.0,Turkmenistan
+Europe,SRB,2020,21.0,Serbia
+Western Pacific,MNG,2002,428.0,Mongolia
+Africa,NAM,2023,432.0,Namibia
+Europe,SVN,2020,4.2,Slovenia
+Africa,TZA,2020,222.0,United Republic of Tanzania
+Europe,EST,2001,94.0,Estonia
+Africa,SWZ,2024,319.0,Eswatini
+Africa,GHA,2012,173.0,Ghana
+Africa,NAM,2022,441.0,Namibia
+Europe,LUX,2012,11.0,Luxembourg
+Western Pacific,FSM,2018,187.0,Micronesia (Federated States of)
+Europe,DEU,2000,12.0,Germany
+Western Pacific,PHL,2020,544.0,Philippines
+Africa,SWZ,2000,981.0,Eswatini
+Western Pacific,KIR,2020,655.0,Kiribati
+Americas,KNA,2003,2.2,Saint Kitts and Nevis
+Western Pacific,WSM,2018,5.3,Samoa
+Europe,HRV,2016,14.0,Croatia
+Americas,PRY,2012,62.0,Paraguay
+Americas,HTI,2013,353.0,Haiti
+Eastern Mediterranean,ARE,2020,0.85,United Arab Emirates
+Eastern Mediterranean,IRN,2024,10.0,Iran (Islamic Republic of)
+Western Pacific,FSM,2008,388.0,Micronesia (Federated States of)
+Africa,UGA,2004,240.0,Uganda
+Americas,COL,2014,34.0,Colombia
+South-East Asia,THA,2011,176.0,Thailand
+Europe,FRA,2004,10.0,France
+Western Pacific,PLW,2014,79.0,Palau
+Americas,PER,2013,139.0,Peru
+Eastern Mediterranean,KWT,2001,33.0,Kuwait
+Europe,MDA,2007,127.0,Republic of Moldova
+Africa,MWI,2014,228.0,Malawi
+Eastern Mediterranean,JOR,2012,6.4,Jordan
+Europe,MLT,2002,5.9,Malta
+Western Pacific,CHN,2013,70.0,China
+Western Pacific,PNG,2013,582.0,Papua New Guinea
+South-East Asia,TLS,2015,437.0,Timor-Leste
+Africa,ZMB,2001,728.0,Zambia
+Europe,HRV,2009,26.0,Croatia
+Eastern Mediterranean,EGY,2013,14.0,Egypt
+Americas,PRY,2000,98.0,Paraguay
+Eastern Mediterranean,MAR,2022,92.0,Morocco
+Africa,COD,2010,500.0,Democratic Republic of the Congo
+Africa,TCD,2002,124.0,Chad
+Americas,SLV,2005,50.0,El Salvador
+Americas,BLZ,2019,35.0,Belize
+Africa,BDI,2008,168.0,Burundi
+Americas,DOM,2022,49.0,Dominican Republic
+Europe,TUR,2006,47.0,Türkiye
+Eastern Mediterranean,OMN,2011,17.0,Oman
+Europe,ITA,2012,6.3,Italy
+Europe,SWE,2015,9.4,Sweden
+Europe,KGZ,2007,232.0,Kyrgyzstan
+Europe,BGR,2024,12.0,Bulgaria
+Western Pacific,NZL,2024,7.9,New Zealand
+South-East Asia,MMR,2007,535.0,Myanmar
+Europe,ALB,2023,15.0,Albania
+Americas,PER,2019,131.0,Peru
+Africa,MDG,2022,218.0,Madagascar
+Europe,ALB,2011,16.0,Albania
+Americas,ARG,2016,30.0,Argentina
+Africa,COG,2007,458.0,Congo
+Americas,COL,2004,51.0,Colombia
+Africa,CIV,2017,142.0,Cote d'Ivoire
+Europe,NLD,2023,4.5,Netherlands (Kingdom of the)
+Western Pacific,PLW,2002,56.0,Palau
+Africa,UGA,2007,222.0,Uganda
+Europe,TKM,2008,115.0,Turkmenistan
+South-East Asia,BGD,2011,221.0,Bangladesh
+Europe,CYP,2006,5.3,Cyprus
+Americas,PRI,2006,4.9,Puerto Rico
+Africa,STP,2017,122.0,Sao Tome and Principe
+Europe,CZE,2014,5.7,Czechia
+Africa,LSO,2020,599.0,Lesotho
+Western Pacific,LAO,2017,168.0,Lao People's Democratic Republic
+Western Pacific,LAO,2000,330.0,Lao People's Democratic Republic
+Americas,BLZ,2002,119.0,Belize
+Africa,STP,2014,163.0,Sao Tome and Principe
+Eastern Mediterranean,EGY,2020,11.0,Egypt
+Europe,TUR,2019,17.0,Türkiye
+South-East Asia,THA,2019,150.0,Thailand
+Africa,ETH,2021,151.0,Ethiopia
+Africa,MDG,2010,233.0,Madagascar
+Western Pacific,PNG,2023,647.0,Papua New Guinea
+Africa,TGO,2020,48.0,Togo
+Eastern Mediterranean,EGY,2018,12.0,Egypt
+Africa,RWA,2009,90.0,Rwanda
+Western Pacific,VUT,2004,185.0,Vanuatu
+Africa,SEN,2008,184.0,Senegal
+Europe,TUR,2015,21.0,Türkiye
+Western Pacific,LAO,2016,175.0,Lao People's Democratic Republic
+Europe,SVN,2024,2.6,Slovenia
+Americas,MEX,2013,26.0,Mexico
+Europe,MKD,2007,45.0,North Macedonia
+Western Pacific,KIR,2011,809.0,Kiribati
+Europe,BIH,2021,23.0,Bosnia and Herzegovina
+South-East Asia,NPL,2024,227.0,Nepal
+Eastern Mediterranean,QAT,2001,95.0,Qatar
+Western Pacific,TUV,2012,174.0,Tuvalu
+Africa,NER,2000,83.0,Niger
+South-East Asia,THA,2004,232.0,Thailand
+Eastern Mediterranean,KWT,2018,25.0,Kuwait
+Europe,NOR,2002,7.2,Norway
+Africa,ETH,2020,156.0,Ethiopia
+Africa,TZA,2007,492.0,United Republic of Tanzania
+Western Pacific,SGP,2024,43.0,Singapore
+Europe,SRB,2017,29.0,Serbia
+Europe,BGR,2015,33.0,Bulgaria
+Europe,GBR,2002,13.0,United Kingdom of Great Britain and Northern Ireland
+Africa,COD,2019,417.0,Democratic Republic of the Congo
+Africa,GHA,2015,160.0,Ghana
+Western Pacific,VUT,2005,162.0,Vanuatu
+Western Pacific,COK,2002,6.7,Cook Islands
+Americas,VCT,2017,1.9,Saint Vincent and the Grenadines
+Europe,KGZ,2008,249.0,Kyrgyzstan
+Americas,CRI,2000,25.0,Costa Rica
+Europe,DNK,2007,8.7,Denmark
+Eastern Mediterranean,IRQ,2008,48.0,Iraq
+Africa,DZA,2020,52.0,Algeria
+Europe,UKR,2006,197.0,Ukraine
+Europe,ARM,2016,54.0,Armenia
+Africa,GHA,2002,212.0,Ghana
+Africa,CAF,2016,493.0,Central African Republic
+Africa,AGO,2000,270.0,Angola
+Europe,KAZ,2021,57.0,Kazakhstan
+Africa,CIV,2005,213.0,Cote d'Ivoire
+Western Pacific,CHN,2018,61.0,China
+Europe,RUS,2017,59.0,Russian Federation
+Europe,PRT,2019,19.0,Portugal
+Africa,MUS,2022,15.0,Mauritius
+Americas,DMA,2000,4.4,Dominica
+Africa,NAM,2016,604.0,Namibia
+Western Pacific,WSM,2003,15.0,Samoa
+Europe,GRC,2000,9.7,Greece
+Africa,SEN,2003,182.0,Senegal
+Europe,LTU,2013,85.0,Lithuania
+South-East Asia,BGD,2009,221.0,Bangladesh
+Europe,LVA,2014,57.0,Latvia
+Eastern Mediterranean,SYR,2023,23.0,Syrian Arab Republic
+Europe,EST,2003,78.0,Estonia
+Americas,TTO,2011,23.0,Trinidad and Tobago
+Americas,HTI,2017,276.0,Haiti
+Africa,COM,2024,22.0,Comoros
+Africa,COM,2006,43.0,Comoros
+Africa,NAM,2011,815.0,Namibia
+Western Pacific,MHL,2023,928.0,Marshall Islands
+Eastern Mediterranean,OMN,2000,25.0,Oman
+Eastern Mediterranean,SDN,2019,67.0,Sudan
+Africa,GMB,2024,138.0,Gambia
+Africa,GNQ,2011,259.0,Equatorial Guinea
+Europe,BGR,2001,94.0,Bulgaria
+Western Pacific,NZL,2008,8.6,New Zealand
+Africa,BWA,2022,208.0,Botswana
+Americas,PRI,2017,1.5,Puerto Rico
+Africa,GNB,2003,261.0,Guinea-Bissau
+Europe,CHE,2004,9.7,Switzerland
+Europe,SMR,2010,0.0,San Marino
+Africa,BDI,2007,175.0,Burundi
+Africa,BDI,2002,205.0,Burundi
+Western Pacific,PHL,2023,632.0,Philippines
+Europe,HUN,2014,11.0,Hungary
+Americas,CHL,2020,15.0,Chile
+Americas,MEX,2006,29.0,Mexico
+Eastern Mediterranean,LBN,2007,16.0,Lebanon
+Americas,DOM,2000,145.0,Dominican Republic
+Europe,MCO,2003,0.53,Monaco
+Africa,MOZ,2009,354.0,Mozambique
+Europe,KAZ,2017,67.0,Kazakhstan
+Eastern Mediterranean,SDN,2015,88.0,Sudan
+Europe,AZE,2017,84.0,Azerbaijan
+Americas,GTM,2001,23.0,Guatemala
+Africa,SWZ,2004,1320.0,Eswatini
+Europe,AND,2009,9.5,Andorra
+Africa,MLI,2008,76.0,Mali
+Americas,VCT,2019,3.8,Saint Vincent and the Grenadines
+Europe,IRL,2021,5.0,Ireland
+Africa,MOZ,2003,339.0,Mozambique
+Western Pacific,PHL,2001,579.0,Philippines
+Africa,GNB,2007,286.0,Guinea-Bissau
+Europe,ISR,2022,2.7,Israel
+Americas,PER,2016,129.0,Peru
+South-East Asia,MDV,2024,40.0,Maldives
+Western Pacific,PHL,2019,554.0,Philippines
+Western Pacific,IDN,2010,342.0,Indonesia
+Africa,MDG,2018,214.0,Madagascar
+Western Pacific,KOR,2015,79.0,Republic of Korea
+Americas,VCT,2000,14.0,Saint Vincent and the Grenadines
+Africa,COD,2007,531.0,Democratic Republic of the Congo
+Americas,SUR,2020,25.0,Suriname
+Europe,CHE,2007,7.0,Switzerland
+Africa,MRT,2001,224.0,Mauritania
+Western Pacific,VNM,2023,185.0,Viet Nam
+Western Pacific,JPN,2022,9.9,Japan
+Western Pacific,COK,2020,6.4,Cook Islands
+Americas,HTI,2015,318.0,Haiti
+Africa,STP,2005,268.0,Sao Tome and Principe
+Africa,CIV,2018,133.0,Cote d'Ivoire
+Americas,LCA,2008,12.0,Saint Lucia
+Western Pacific,BRN,2017,71.0,Brunei Darussalam
+Eastern Mediterranean,SOM,2010,220.0,Somalia
+Europe,POL,2020,10.0,Poland
+Europe,KGZ,2014,171.0,Kyrgyzstan
+Africa,COM,2016,41.0,Comoros
+Europe,ITA,2009,8.7,Italy
+Americas,ATG,2005,7.5,Antigua and Barbuda
+Western Pacific,IDN,2014,329.0,Indonesia
+Africa,LSO,2018,659.0,Lesotho
+Western Pacific,VUT,2007,132.0,Vanuatu
+Africa,ZMB,2016,376.0,Zambia
+Western Pacific,MYS,2003,121.0,Malaysia
+Europe,LUX,2007,11.0,Luxembourg
+Eastern Mediterranean,BHR,2007,46.0,Bahrain
+South-East Asia,MDV,2009,57.0,Maldives
+Western Pacific,TON,2001,12.0,Tonga
+Western Pacific,MYS,2006,101.0,Malaysia
+Africa,CPV,2004,135.0,Cabo Verde
+Africa,MDG,2001,215.0,Madagascar
+Europe,MDA,2008,119.0,Republic of Moldova
+Europe,TJK,2021,76.0,Tajikistan
+Europe,HUN,2011,18.0,Hungary
+Americas,URY,2023,45.0,Uruguay
+Europe,AUT,2016,8.4,Austria
+Western Pacific,NRU,2000,39.0,Nauru
+Americas,ECU,2005,62.0,Ecuador
+Europe,HUN,2007,22.0,Hungary
+Africa,MLI,2005,79.0,Mali
+Europe,FIN,2010,6.8,Finland
+Europe,BEL,2005,13.0,Belgium
+Americas,GUY,2008,143.0,Guyana
+Western Pacific,MNG,2004,428.0,Mongolia
+Africa,UGA,2001,266.0,Uganda
+Western Pacific,COK,2008,13.0,Cook Islands
+Europe,MDA,2006,129.0,Republic of Moldova
+Americas,GUY,2013,130.0,Guyana
+Africa,GMB,2007,186.0,Gambia
+Americas,BHS,2019,17.0,Bahamas
+Americas,PRY,2020,50.0,Paraguay
+Europe,PRT,2013,26.0,Portugal
+Europe,UZB,2014,81.0,Uzbekistan
+Americas,CUB,2016,7.3,Cuba
+Europe,SRB,2024,8.7,Serbia
+Eastern Mediterranean,IRQ,2001,63.0,Iraq
+Europe,BEL,2017,9.2,Belgium
+Africa,GIN,2007,183.0,Guinea
+Africa,GHA,2023,129.0,Ghana
+Africa,LSO,2002,1010.0,Lesotho
+Africa,MRT,2020,84.0,Mauritania
+Americas,COL,2012,39.0,Colombia
+Europe,DNK,2023,3.5,Denmark
+Europe,ISL,2003,1.7,Iceland
+Americas,BHS,2000,57.0,Bahamas
+Americas,CRI,2018,10.0,Costa Rica
+Western Pacific,TUV,2021,216.0,Tuvalu
+Americas,BRA,2022,49.0,Brazil
+Africa,RWA,2008,99.0,Rwanda
+Americas,HTI,2009,428.0,Haiti
+Europe,FIN,2012,5.7,Finland
+Europe,TUR,2023,14.0,Türkiye
+Americas,GTM,2015,23.0,Guatemala
+Americas,PRY,2008,67.0,Paraguay
+Europe,FRA,2010,9.2,France
+Africa,TCD,2001,123.0,Chad
+Western Pacific,SLB,2008,239.0,Solomon Islands
+Europe,ITA,2015,6.9,Italy
+Americas,URY,2015,33.0,Uruguay
+Europe,LVA,2006,111.0,Latvia
+Europe,BIH,2003,84.0,Bosnia and Herzegovina
+Africa,TZA,2024,172.0,United Republic of Tanzania
+Europe,EST,2019,14.0,Estonia
+Europe,TJK,2001,163.0,Tajikistan
+Americas,MEX,2009,27.0,Mexico
+Europe,ALB,2006,17.0,Albania
+Western Pacific,CHN,2004,94.0,China
+Europe,RUS,2015,67.0,Russian Federation
+Europe,NLD,2012,6.3,Netherlands (Kingdom of the)
+Americas,BRB,2024,1.0,Barbados
+Western Pacific,MYS,2007,98.0,Malaysia
+Europe,AZE,2016,86.0,Azerbaijan
+Europe,FRA,2019,9.0,France
+Europe,SVN,2021,4.4,Slovenia
+Americas,PRI,2005,5.0,Puerto Rico
+Western Pacific,JPN,2009,24.0,Japan
+Western Pacific,KOR,2002,79.0,Republic of Korea
+Africa,GNQ,2010,264.0,Equatorial Guinea
+Americas,CUB,2013,8.4,Cuba
+Africa,BWA,2005,788.0,Botswana
+Western Pacific,TON,2007,22.0,Tonga
+Europe,GBR,2005,15.0,United Kingdom of Great Britain and Northern Ireland
+Americas,PAN,2013,54.0,Panama
+Africa,NER,2012,117.0,Niger
+South-East Asia,BTN,2003,547.0,Bhutan
+Americas,CRI,2005,19.0,Costa Rica
+Western Pacific,VUT,2013,97.0,Vanuatu
+Americas,BRA,2009,43.0,Brazil
+Africa,RWA,2019,63.0,Rwanda
+Europe,BGR,2005,75.0,Bulgaria
+South-East Asia,THA,2010,181.0,Thailand
+Africa,UGA,2002,256.0,Uganda
+Europe,CHE,2009,8.1,Switzerland
+Americas,BLZ,2020,34.0,Belize
+Africa,BEN,2005,83.0,Benin
+Western Pacific,NIU,2000,0.0,Niue
+Europe,SVN,2002,24.0,Slovenia
+Africa,BFA,2009,77.0,Burkina Faso
+Western Pacific,FSM,2024,264.0,Micronesia (Federated States of)
+Americas,VCT,2003,12.0,Saint Vincent and the Grenadines
+South-East Asia,TLS,2010,671.0,Timor-Leste
+Americas,CUB,2014,8.0,Cuba
+Europe,GRC,2005,8.9,Greece
+Africa,NAM,2001,1100.0,Namibia
+Africa,DZA,2002,112.0,Algeria
+Africa,BEN,2012,73.0,Benin
+Western Pacific,PHL,2008,524.0,Philippines
+Eastern Mediterranean,DJI,2014,651.0,Djibouti
+Europe,MKD,2014,20.0,North Macedonia
+Europe,SVN,2012,8.4,Slovenia
+Americas,COL,2009,41.0,Colombia
+South-East Asia,LKA,2002,132.0,Sri Lanka
+Africa,CAF,2002,654.0,Central African Republic
+Western Pacific,VNM,2019,176.0,Viet Nam
+South-East Asia,NPL,2004,371.0,Nepal
+South-East Asia,NPL,2001,405.0,Nepal
+Western Pacific,SGP,2004,55.0,Singapore
+South-East Asia,THA,2018,153.0,Thailand
+Americas,PAN,2014,52.0,Panama
+Americas,CAN,2015,5.1,Canada
+Africa,MLI,2018,59.0,Mali
+Europe,FIN,2024,3.7,Finland
+Americas,KNA,2009,8.5,Saint Kitts and Nevis
+Europe,GBR,2016,9.9,United Kingdom of Great Britain and Northern Ireland
+Western Pacific,TON,2000,23.0,Tonga
+Europe,UZB,2006,153.0,Uzbekistan
+Africa,NGA,2001,219.0,Nigeria
+South-East Asia,LKA,2022,56.0,Sri Lanka
+Western Pacific,BRN,2013,73.0,Brunei Darussalam
+Europe,BEL,2013,9.5,Belgium
+Europe,GBR,2014,11.0,United Kingdom of Great Britain and Northern Ireland
+Europe,MDA,2014,123.0,Republic of Moldova
+Africa,GMB,2018,162.0,Gambia
+Europe,ROU,2013,104.0,Romania
+Western Pacific,VNM,2013,212.0,Viet Nam
+Eastern Mediterranean,IRN,2023,11.0,Iran (Islamic Republic of)
+South-East Asia,LKA,2012,82.0,Sri Lanka
+Europe,IRL,2015,7.7,Ireland
+Americas,ARG,2000,49.0,Argentina
+South-East Asia,IND,2012,258.0,India
+Western Pacific,AUS,2024,6.9,Australia
+Africa,MLI,2010,73.0,Mali
+Western Pacific,COK,2015,0.0,Cook Islands
+Europe,TJK,2017,94.0,Tajikistan
+Europe,LVA,2022,22.0,Latvia
+Europe,EST,2011,31.0,Estonia
+Africa,KEN,2021,247.0,Kenya
+Americas,JAM,2002,8.9,Jamaica
+Western Pacific,AUS,2005,6.3,Australia
+Western Pacific,LAO,2024,127.0,Lao People's Democratic Republic
+Africa,SEN,2006,185.0,Senegal
+Americas,KNA,2015,4.2,Saint Kitts and Nevis
+Americas,GUY,2016,101.0,Guyana
+Europe,SMR,2003,3.6,San Marino
+Western Pacific,CHN,2024,49.0,China
+Europe,PRT,2000,59.0,Portugal
+Americas,ARG,2012,27.0,Argentina
+Africa,BFA,2016,67.0,Burkina Faso
+Eastern Mediterranean,OMN,2023,14.0,Oman
+Africa,SEN,2014,170.0,Senegal
+Europe,FIN,2006,6.5,Finland
+Americas,BRB,2009,0.73,Barbados
+Eastern Mediterranean,DJI,2024,495.0,Djibouti
+Americas,LCA,2005,8.5,Saint Lucia
+Europe,TUR,2018,18.0,Türkiye
+Africa,STP,2007,151.0,Sao Tome and Principe
+Eastern Mediterranean,AFG,2000,148.0,Afghanistan
+Western Pacific,LAO,2006,260.0,Lao People's Democratic Republic
+Europe,NOR,2024,3.3,Norway
+Western Pacific,WSM,2006,13.0,Samoa
+Americas,CUB,2002,15.0,Cuba
+Europe,UZB,2007,142.0,Uzbekistan
+Africa,SWZ,2018,441.0,Eswatini
+Americas,GUY,2015,102.0,Guyana
+Western Pacific,SGP,2011,39.0,Singapore
+Africa,MUS,2020,12.0,Mauritius
+Eastern Mediterranean,SYR,2009,35.0,Syrian Arab Republic
+Western Pacific,SLB,2000,282.0,Solomon Islands
+Americas,VCT,2016,5.6,Saint Vincent and the Grenadines
+Americas,LCA,2001,9.4,Saint Lucia
+Americas,GRD,2001,0.69,Grenada
+Western Pacific,MYS,2008,100.0,Malaysia
+Europe,MDA,2005,130.0,Republic of Moldova
+Eastern Mediterranean,OMN,2019,11.0,Oman
+Western Pacific,MYS,2000,152.0,Malaysia
+Americas,ATG,2012,3.4,Antigua and Barbuda
+Americas,MEX,2000,37.0,Mexico
+Western Pacific,IDN,2016,322.0,Indonesia
+Africa,LSO,2011,1120.0,Lesotho
+Europe,DNK,2009,7.0,Denmark
+Europe,ISL,2002,2.8,Iceland
+Americas,DOM,2014,60.0,Dominican Republic
+Americas,BRA,2006,44.0,Brazil
+Western Pacific,AUS,2003,5.9,Australia
+Africa,COM,2015,42.0,Comoros
+Europe,GBR,2009,15.0,United Kingdom of Great Britain and Northern Ireland
+Europe,MKD,2008,37.0,North Macedonia
+Americas,VCT,2023,3.9,Saint Vincent and the Grenadines
+Africa,ETH,2018,170.0,Ethiopia
+Africa,COG,2018,311.0,Congo
+Europe,AND,2022,5.0,Andorra
+Europe,SWE,2013,7.7,Sweden
+Western Pacific,NZL,2021,7.0,New Zealand
+Europe,FRA,2021,7.4,France
+Europe,RUS,2006,88.0,Russian Federation
+Africa,CPV,2002,104.0,Cabo Verde
+Americas,SUR,2024,34.0,Suriname
+Western Pacific,PLW,2005,50.0,Palau
+Americas,ARG,2010,24.0,Argentina
+Americas,TTO,2017,18.0,Trinidad and Tobago
+Western Pacific,NIU,2018,112.0,Niue
+Americas,USA,2003,6.6,United States of America
+Western Pacific,VUT,2009,122.0,Vanuatu
+Americas,TTO,2002,20.0,Trinidad and Tobago
+Africa,GIN,2020,179.0,Guinea
+Africa,CIV,2002,191.0,Cote d'Ivoire
+Americas,PER,2008,182.0,Peru
+Africa,ZWE,2004,607.0,Zimbabwe
+Europe,MKD,2002,62.0,North Macedonia
+South-East Asia,NPL,2017,253.0,Nepal
+Western Pacific,NZL,2010,8.6,New Zealand
+Europe,NOR,2006,7.3,Norway
+Americas,PAN,2004,86.0,Panama
+Americas,BRB,2005,3.5,Barbados
+Americas,TTO,2003,20.0,Trinidad and Tobago
+Europe,SVN,2011,12.0,Slovenia
+Eastern Mediterranean,AFG,2019,213.0,Afghanistan
+Americas,ARG,2024,44.0,Argentina
+Americas,CHL,2006,21.0,Chile
+Europe,NLD,2009,7.8,Netherlands (Kingdom of the)
+Americas,DMA,2001,5.4,Dominica
+Western Pacific,LAO,2008,240.0,Lao People's Democratic Republic
+Americas,KNA,2001,4.4,Saint Kitts and Nevis
+Europe,AND,2002,7.5,Andorra
+Europe,AND,2019,6.5,Andorra
+Africa,TCD,2005,133.0,Chad
+Americas,CUB,2017,7.6,Cuba
+Americas,PAN,2003,85.0,Panama
+Africa,TZA,2008,474.0,United Republic of Tanzania
+Eastern Mediterranean,SOM,2012,192.0,Somalia
+Europe,ISL,2001,4.2,Iceland
+Western Pacific,KHM,2004,683.0,Cambodia
+Africa,SEN,2010,181.0,Senegal
+Europe,GBR,2008,15.0,United Kingdom of Great Britain and Northern Ireland
+Africa,SWZ,2016,537.0,Eswatini
+Europe,ESP,2002,26.0,Spain
+Africa,SYC,2009,16.0,Seychelles
+Africa,SWZ,2005,1420.0,Eswatini
+Americas,GUY,2018,85.0,Guyana
+Eastern Mediterranean,EGY,2003,19.0,Egypt
+Eastern Mediterranean,SDN,2012,103.0,Sudan
+Western Pacific,KHM,2002,773.0,Cambodia
+Western Pacific,SLB,2009,209.0,Solomon Islands
+Americas,HTI,2021,209.0,Haiti
+Africa,TZA,2022,195.0,United Republic of Tanzania
+Europe,AND,2004,9.4,Andorra
+Europe,ISR,2007,7.4,Israel
+Western Pacific,NRU,2007,30.0,Nauru
+Eastern Mediterranean,SAU,2003,19.0,Saudi Arabia
+Africa,NAM,2008,1060.0,Namibia
+Western Pacific,WSM,2015,9.4,Samoa
+Europe,ISR,2021,2.8,Israel
+Americas,VCT,2011,16.0,Saint Vincent and the Grenadines
+Western Pacific,CHN,2022,52.0,China
+Western Pacific,TUV,2006,90.0,Tuvalu
+Africa,GAB,2020,413.0,Gabon
+Western Pacific,MNG,2019,428.0,Mongolia
+Western Pacific,WSM,2011,10.0,Samoa
+Americas,NIC,2024,43.0,Nicaragua
+Europe,MDA,2004,120.0,Republic of Moldova
+Eastern Mediterranean,OMN,2012,16.0,Oman
+Africa,MUS,2016,15.0,Mauritius
+Western Pacific,KHM,2017,313.0,Cambodia
+Western Pacific,PLW,2004,25.0,Palau
+Europe,LVA,2019,28.0,Latvia
+Europe,UZB,2024,51.0,Uzbekistan
+Europe,LTU,2006,142.0,Lithuania
+Africa,CIV,2009,215.0,Cote d'Ivoire
+Africa,ZWE,2001,617.0,Zimbabwe
+Africa,ZWE,2019,199.0,Zimbabwe
+Europe,HUN,2019,7.0,Hungary
+Americas,BLZ,2021,35.0,Belize
+Africa,TCD,2022,123.0,Chad
+Americas,SLV,2007,43.0,El Salvador
+Europe,POL,2008,27.0,Poland
+Western Pacific,KOR,2003,83.0,Republic of Korea
+Eastern Mediterranean,ARE,2002,4.9,United Arab Emirates
+Western Pacific,MYS,2014,110.0,Malaysia
+South-East Asia,BGD,2018,221.0,Bangladesh
+Americas,PRY,2001,96.0,Paraguay
+Africa,BFA,2023,58.0,Burkina Faso
+Europe,MLT,2008,11.0,Malta
+Europe,AND,2017,1.4,Andorra
+Africa,NAM,2004,1260.0,Namibia
+Western Pacific,KHM,2015,339.0,Cambodia
+Europe,ROU,2024,60.0,Romania
+Africa,DZA,2021,57.0,Algeria
+Eastern Mediterranean,BHR,2002,45.0,Bahrain
+Africa,SEN,2024,132.0,Senegal
+Western Pacific,FSM,2012,305.0,Micronesia (Federated States of)
+Americas,PRY,2011,62.0,Paraguay
+Eastern Mediterranean,EGY,2011,15.0,Egypt
+Europe,GBR,2007,15.0,United Kingdom of Great Britain and Northern Ireland
+Western Pacific,MHL,2012,517.0,Marshall Islands
+Europe,ESP,2023,9.7,Spain
+Africa,CMR,2000,84.0,Cameroon
+Eastern Mediterranean,IRN,2005,31.0,Iran (Islamic Republic of)
+Eastern Mediterranean,PAK,2015,270.0,Pakistan
+Europe,UZB,2019,67.0,Uzbekistan
+Europe,ISL,2012,3.1,Iceland
+Africa,GIN,2013,183.0,Guinea
+Western Pacific,PLW,2011,66.0,Palau
+Europe,LTU,2021,31.0,Lithuania
+Europe,MDA,2013,133.0,Republic of Moldova
+Europe,KAZ,2007,166.0,Kazakhstan
+Europe,MCO,2000,0.0,Monaco
+Europe,LUX,2020,6.0,Luxembourg
+Americas,GUY,2022,61.0,Guyana
+Africa,SWZ,2014,855.0,Eswatini
+Africa,SWZ,2015,648.0,Eswatini
+Americas,DMA,2010,12.0,Dominica
+Africa,CIV,2015,162.0,Cote d'Ivoire
+Eastern Mediterranean,SAU,2014,12.0,Saudi Arabia
+Americas,CUB,2022,7.7,Cuba
+Western Pacific,SGP,2002,62.0,Singapore
+Americas,VEN,2011,32.0,Venezuela (Bolivarian Republic of)
+Europe,MDA,2000,70.0,Republic of Moldova
+Europe,ROU,2012,109.0,Romania
+Europe,GEO,2009,181.0,Georgia
+Africa,TZA,2002,509.0,United Republic of Tanzania
+Europe,LVA,2013,68.0,Latvia
+South-East Asia,MDV,2007,89.0,Maldives
+Eastern Mediterranean,SOM,2000,352.0,Somalia
+Europe,ISR,2014,5.6,Israel
+Europe,MKD,2021,10.0,North Macedonia
+Western Pacific,FSM,2017,262.0,Micronesia (Federated States of)
+Americas,DOM,2003,113.0,Dominican Republic
+Europe,MNE,2006,43.0,Montenegro
+Africa,MWI,2011,316.0,Malawi
+Africa,BDI,2023,86.0,Burundi
+Eastern Mediterranean,QAT,2014,30.0,Qatar
+Africa,NER,2009,129.0,Niger
+Europe,MKD,2006,49.0,North Macedonia
+Western Pacific,KOR,2000,50.0,Republic of Korea
+Europe,LTU,2010,100.0,Lithuania
+Europe,FIN,2022,4.0,Finland
+Europe,CHE,2018,6.4,Switzerland
+Europe,KAZ,2011,148.0,Kazakhstan
+Eastern Mediterranean,LBY,2004,65.0,Libya
+Western Pacific,FJI,2014,74.0,Fiji
+Americas,DMA,2009,5.8,Dominica
+Western Pacific,NRU,2015,91.0,Nauru
+Europe,AZE,2003,145.0,Azerbaijan
+Europe,HUN,2006,24.0,Hungary
+Americas,VEN,2001,56.0,Venezuela (Bolivarian Republic of)
+Europe,BIH,2013,54.0,Bosnia and Herzegovina
+Europe,CZE,2023,4.9,Czechia
+Eastern Mediterranean,KWT,2011,29.0,Kuwait
+Eastern Mediterranean,ARE,2007,3.1,United Arab Emirates
+Eastern Mediterranean,ARE,2016,1.0,United Arab Emirates
+Africa,NER,2003,112.0,Niger
+Europe,KGZ,2013,200.0,Kyrgyzstan
+Europe,ESP,2021,8.2,Spain
+Eastern Mediterranean,SYR,2016,27.0,Syrian Arab Republic
+South-East Asia,MDV,2008,75.0,Maldives
+Eastern Mediterranean,JOR,2021,4.8,Jordan
+Western Pacific,WSM,2014,11.0,Samoa
+Americas,DMA,2020,5.2,Dominica
+Americas,TTO,2019,19.0,Trinidad and Tobago
+Eastern Mediterranean,DJI,2004,1530.0,Djibouti
+Europe,PRT,2003,52.0,Portugal
+Africa,ZWE,2009,450.0,Zimbabwe
+Africa,GHA,2005,203.0,Ghana
+Europe,DEU,2021,5.0,Germany
+South-East Asia,THA,2022,148.0,Thailand
+Europe,RUS,2023,38.0,Russian Federation
+Western Pacific,AUS,2010,6.8,Australia
+Western Pacific,VNM,2015,199.0,Viet Nam
+Africa,COD,2002,588.0,Democratic Republic of the Congo
+Eastern Mediterranean,JOR,2020,5.3,Jordan
+Africa,ZMB,2023,283.0,Zambia
+Europe,SVK,2023,4.6,Slovakia
+Western Pacific,BRN,2020,90.0,Brunei Darussalam
+Western Pacific,MNG,2015,428.0,Mongolia
+Americas,PER,2005,228.0,Peru
+Eastern Mediterranean,BHR,2006,47.0,Bahrain
+Africa,TCD,2013,167.0,Chad
+Americas,SLV,2012,46.0,El Salvador
+Americas,USA,2017,3.0,United States of America
+Americas,PAN,2006,76.0,Panama
+Africa,GNQ,2024,199.0,Equatorial Guinea
+Africa,GNQ,2014,243.0,Equatorial Guinea
+Eastern Mediterranean,SYR,2010,30.0,Syrian Arab Republic
+Africa,BDI,2000,213.0,Burundi
+Eastern Mediterranean,TUN,2007,40.0,Tunisia
+Western Pacific,LAO,2005,270.0,Lao People's Democratic Republic
+Europe,CZE,2017,5.7,Czechia
+Europe,TKM,2014,61.0,Turkmenistan
+Europe,ROU,2009,141.0,Romania
+South-East Asia,THA,2007,205.0,Thailand
+Africa,LBR,2005,268.0,Liberia
+Western Pacific,TON,2008,12.0,Tonga
+Americas,BOL,2012,161.0,Bolivia (Plurinational State of)
+Eastern Mediterranean,ARE,2011,2.4,United Arab Emirates
+Western Pacific,TON,2021,6.6,Tonga
+Africa,MOZ,2001,338.0,Mozambique
+Europe,HUN,2022,5.7,Hungary
+Europe,AUT,2018,6.3,Austria
+Africa,GNB,2004,273.0,Guinea-Bissau
+Eastern Mediterranean,DJI,2000,2700.0,Djibouti
+Western Pacific,MNG,2010,428.0,Mongolia
+Americas,GUY,2017,90.0,Guyana
+Europe,UKR,2004,211.0,Ukraine
+Americas,PRY,2006,82.0,Paraguay
+Western Pacific,SGP,2010,39.0,Singapore
+Western Pacific,NRU,2017,80.0,Nauru
+Europe,ALB,2000,21.0,Albania
+Europe,LUX,2002,9.5,Luxembourg
+Europe,UKR,2014,115.0,Ukraine
+Western Pacific,KOR,2004,78.0,Republic of Korea
+Americas,CAN,2004,6.4,Canada
+Americas,GTM,2014,23.0,Guatemala
+Americas,CRI,2004,26.0,Costa Rica
+Africa,SSD,2020,346.0,South Sudan
+Africa,MWI,2001,395.0,Malawi
+Americas,BHS,2009,18.0,Bahamas
+South-East Asia,THA,2003,240.0,Thailand
+Europe,NOR,2019,3.3,Norway
+Western Pacific,AUS,2008,6.9,Australia
+Africa,SEN,2023,133.0,Senegal
+Eastern Mediterranean,SYR,2017,24.0,Syrian Arab Republic
+Americas,KNA,2012,4.3,Saint Kitts and Nevis
+Eastern Mediterranean,SYR,2007,41.0,Syrian Arab Republic
+South-East Asia,NPL,2016,260.0,Nepal
+Europe,MKD,2019,14.0,North Macedonia
+Europe,KAZ,2022,53.0,Kazakhstan
+Europe,NLD,2000,8.9,Netherlands (Kingdom of the)
+Eastern Mediterranean,ARE,2018,1.2,United Arab Emirates
+Europe,ISR,2006,6.6,Israel
+Western Pacific,KOR,2012,94.0,Republic of Korea
+Western Pacific,KHM,2014,355.0,Cambodia
+Americas,DMA,2017,1.5,Dominica
+Europe,HRV,2000,56.0,Croatia
+Eastern Mediterranean,IRQ,2021,20.0,Iraq
+Eastern Mediterranean,QAT,2023,40.0,Qatar
+Europe,BIH,2014,51.0,Bosnia and Herzegovina
+Europe,KAZ,2019,66.0,Kazakhstan
+Europe,ALB,2002,21.0,Albania
+Eastern Mediterranean,PAK,2001,275.0,Pakistan
+Africa,ETH,2016,189.0,Ethiopia
+Europe,TJK,2004,203.0,Tajikistan
+Africa,MDG,2012,227.0,Madagascar
+Americas,ATG,2006,5.0,Antigua and Barbuda
+South-East Asia,TLS,2009,723.0,Timor-Leste
+Africa,SYC,2001,22.0,Seychelles
+Europe,SMR,2002,3.6,San Marino
+Americas,CHL,2004,24.0,Chile
+Africa,GNB,2022,180.0,Guinea-Bissau
+Africa,ETH,2024,141.0,Ethiopia
+Eastern Mediterranean,IRN,2006,30.0,Iran (Islamic Republic of)
+Europe,EST,2020,11.0,Estonia
+Eastern Mediterranean,IRN,2007,28.0,Iran (Islamic Republic of)
+Africa,GNQ,2021,211.0,Equatorial Guinea
+Europe,IRL,2002,13.0,Ireland
+Europe,SRB,2018,26.0,Serbia
+Western Pacific,LAO,2007,249.0,Lao People's Democratic Republic
+Western Pacific,FJI,2007,22.0,Fiji
+Eastern Mediterranean,YEM,2012,47.0,Yemen
+Eastern Mediterranean,JOR,2004,8.6,Jordan
+South-East Asia,TLS,2006,894.0,Timor-Leste
+Africa,MWI,2013,261.0,Malawi
+Western Pacific,KOR,2010,97.0,Republic of Korea
+Eastern Mediterranean,SAU,2013,13.0,Saudi Arabia
+Eastern Mediterranean,DJI,2023,477.0,Djibouti
+Africa,GMB,2008,183.0,Gambia
+Americas,ATG,2004,4.6,Antigua and Barbuda
+Western Pacific,AUS,2019,6.8,Australia
+Eastern Mediterranean,PSE,2016,1.2,"occupied Palestinian territory, including east Jerusalem"
+Americas,USA,2009,4.6,United States of America
+Americas,TTO,2012,27.0,Trinidad and Tobago
+Americas,CHL,2001,31.0,Chile
+Americas,TTO,2021,15.0,Trinidad and Tobago
+Americas,URY,2012,31.0,Uruguay
+Eastern Mediterranean,TUN,2023,38.0,Tunisia
+Europe,BIH,2007,99.0,Bosnia and Herzegovina
+Eastern Mediterranean,ARE,2021,0.82,United Arab Emirates
+Europe,BEL,2022,7.8,Belgium
+Africa,CAF,2017,483.0,Central African Republic
+Europe,ISL,2000,4.6,Iceland
+Africa,MRT,2003,210.0,Mauritania
+Americas,ATG,2018,5.5,Antigua and Barbuda
+Americas,PER,2002,295.0,Peru
+South-East Asia,BGD,2006,221.0,Bangladesh
+Europe,FIN,2014,5.4,Finland
+Africa,DZA,2008,95.0,Algeria
+Europe,MCO,2014,0.0,Monaco
+Africa,ZWE,2017,221.0,Zimbabwe
+Africa,DZA,2016,76.0,Algeria
+Eastern Mediterranean,KWT,2005,30.0,Kuwait
+Eastern Mediterranean,LBY,2000,59.0,Libya
+Africa,TZA,2014,327.0,United Republic of Tanzania
+Americas,CRI,2008,16.0,Costa Rica
+Africa,NAM,2013,710.0,Namibia
+Africa,BWA,2007,714.0,Botswana
+Europe,CYP,2016,5.9,Cyprus
+Africa,TGO,2023,47.0,Togo
+Africa,SWZ,2019,363.0,Eswatini
+Africa,GHA,2007,196.0,Ghana
+Africa,CIV,2016,153.0,Cote d'Ivoire
+Europe,HRV,2017,11.0,Croatia
+Europe,ARM,2002,116.0,Armenia
+Eastern Mediterranean,LBY,2012,38.0,Libya
+Europe,HUN,2002,40.0,Hungary
+Americas,CHL,2009,19.0,Chile
+Eastern Mediterranean,PSE,2023,0.4,"occupied Palestinian territory, including east Jerusalem"
+Europe,GRC,2008,7.3,Greece
+Western Pacific,MNG,2007,428.0,Mongolia
+Western Pacific,TUV,2014,137.0,Tuvalu
+Africa,SYC,2022,13.0,Seychelles
+South-East Asia,TLS,2008,779.0,Timor-Leste
+Africa,GNB,2002,245.0,Guinea-Bissau
+Western Pacific,JPN,2019,14.0,Japan
+Eastern Mediterranean,YEM,2015,33.0,Yemen
+Africa,CAF,2006,603.0,Central African Republic
+Western Pacific,TON,2023,7.6,Tonga
+Europe,GEO,2022,57.0,Georgia
+Europe,ISR,2019,2.9,Israel
+Americas,GTM,2023,29.0,Guatemala
+Africa,LSO,2024,548.0,Lesotho
+Americas,ECU,2011,50.0,Ecuador
+Americas,CAN,2024,6.2,Canada
+Europe,MKD,2020,10.0,North Macedonia
+Western Pacific,PLW,2016,129.0,Palau
+Eastern Mediterranean,LBN,2013,18.0,Lebanon
+Africa,NGA,2011,219.0,Nigeria
+Africa,BEN,2020,48.0,Benin
+Western Pacific,KIR,2009,742.0,Kiribati
+Americas,LCA,2004,9.1,Saint Lucia
+Africa,SSD,2021,339.0,South Sudan
+Africa,BEN,2014,66.0,Benin
+Africa,GAB,2016,475.0,Gabon
+South-East Asia,LKA,2004,118.0,Sri Lanka
+Europe,AUT,2017,7.6,Austria
+South-East Asia,MMR,2022,434.0,Myanmar
+Eastern Mediterranean,IRQ,2007,42.0,Iraq
+Eastern Mediterranean,OMN,2021,7.4,Oman
+Europe,TJK,2007,203.0,Tajikistan
+Europe,AND,2000,18.0,Andorra
+Africa,GNB,2006,286.0,Guinea-Bissau
+Europe,MDA,2024,64.0,Republic of Moldova
+Americas,DOM,2005,108.0,Dominican Republic
+Western Pacific,AUS,2015,6.0,Australia
+Europe,MDA,2010,115.0,Republic of Moldova
+Europe,AZE,2011,206.0,Azerbaijan
+Africa,SYC,2010,18.0,Seychelles
+Americas,VCT,2024,4.6,Saint Vincent and the Grenadines
+Americas,USA,2019,2.9,United States of America
+Eastern Mediterranean,KWT,2016,27.0,Kuwait
+Europe,MKD,2003,63.0,North Macedonia
+Western Pacific,PNG,2012,563.0,Papua New Guinea
+Eastern Mediterranean,BHR,2024,12.0,Bahrain
+Americas,ECU,2023,59.0,Ecuador
+Africa,NER,2007,129.0,Niger
+Americas,PRI,2007,4.2,Puerto Rico
+Africa,SYC,2014,12.0,Seychelles
+Africa,SEN,2001,177.0,Senegal
+Eastern Mediterranean,SAU,2010,20.0,Saudi Arabia
+Americas,SLV,2000,58.0,El Salvador
+Europe,MCO,2006,0.82,Monaco
+Americas,CUB,2020,6.2,Cuba
+Eastern Mediterranean,IRN,2021,12.0,Iran (Islamic Republic of)
+Europe,SMR,2022,0.0,San Marino
+Eastern Mediterranean,MAR,2018,97.0,Morocco
+Africa,TCD,2003,126.0,Chad
+Eastern Mediterranean,SAU,2018,11.0,Saudi Arabia
+Europe,FRA,2013,8.8,France
+South-East Asia,TLS,2014,483.0,Timor-Leste
+Western Pacific,PNG,2007,584.0,Papua New Guinea
+Eastern Mediterranean,OMN,2001,22.0,Oman
+Europe,ESP,2008,22.0,Spain
+Europe,ARM,2022,24.0,Armenia
+Americas,VEN,2022,48.0,Venezuela (Bolivarian Republic of)
+South-East Asia,BTN,2010,474.0,Bhutan
+Africa,GNQ,2015,239.0,Equatorial Guinea
+Europe,LTU,2015,73.0,Lithuania
+Europe,KGZ,2004,273.0,Kyrgyzstan
+Europe,CHE,2024,5.4,Switzerland
+Americas,ATG,2008,1.2,Antigua and Barbuda
+Africa,CPV,2011,121.0,Cabo Verde
+Eastern Mediterranean,LBY,2014,33.0,Libya
+Americas,SLV,2011,43.0,El Salvador
+Eastern Mediterranean,DJI,2021,392.0,Djibouti
+Africa,NAM,2017,565.0,Namibia
+Eastern Mediterranean,LBY,2019,40.0,Libya
+Eastern Mediterranean,OMN,2010,17.0,Oman
+Eastern Mediterranean,PAK,2020,260.0,Pakistan
+Western Pacific,BRN,2023,72.0,Brunei Darussalam
+Europe,BIH,2023,20.0,Bosnia and Herzegovina
+Americas,DOM,2012,61.0,Dominican Republic
+Americas,DMA,2004,8.7,Dominica
+Americas,GTM,2017,23.0,Guatemala
+Americas,LCA,2015,8.0,Saint Lucia
+Western Pacific,MNG,2014,428.0,Mongolia
+Africa,MDG,2024,224.0,Madagascar
+Europe,KAZ,2002,178.0,Kazakhstan
+Europe,EST,2021,10.0,Estonia
+Americas,LCA,2021,2.2,Saint Lucia
+Africa,MUS,2004,24.0,Mauritius
+Europe,HUN,2005,26.0,Hungary
+Eastern Mediterranean,SYR,2008,34.0,Syrian Arab Republic
+Western Pacific,NIU,2004,0.0,Niue
+Africa,CIV,2006,217.0,Cote d'Ivoire
+South-East Asia,BTN,2012,363.0,Bhutan
+Western Pacific,TON,2009,7.5,Tonga
+Africa,ZMB,2012,456.0,Zambia
+Africa,GNQ,2001,316.0,Equatorial Guinea
+Europe,CYP,2018,5.0,Cyprus
+Eastern Mediterranean,LBY,2024,63.0,Libya
+Africa,NER,2008,130.0,Niger
+Americas,PER,2000,367.0,Peru
+Europe,BGR,2007,64.0,Bulgaria
+Africa,MOZ,2014,361.0,Mozambique
+Africa,ETH,2019,163.0,Ethiopia
+Africa,TZA,2017,269.0,United Republic of Tanzania
+Western Pacific,SLB,2007,266.0,Solomon Islands
+Americas,ECU,2003,105.0,Ecuador
+Europe,DNK,2002,10.0,Denmark
+Western Pacific,IDN,2013,332.0,Indonesia
+Africa,MWI,2024,113.0,Malawi
+Western Pacific,MHL,2008,508.0,Marshall Islands
+Europe,IRL,2003,14.0,Ireland
+Western Pacific,COK,2013,11.0,Cook Islands
+Americas,BHS,2007,19.0,Bahamas
+Americas,BOL,2002,362.0,Bolivia (Plurinational State of)
+Europe,GRC,2019,5.1,Greece
+Eastern Mediterranean,SDN,2013,100.0,Sudan
+Americas,PER,2015,131.0,Peru
+Europe,NLD,2016,5.9,Netherlands (Kingdom of the)
+Africa,CPV,2020,57.0,Cabo Verde
+Eastern Mediterranean,LBN,2022,12.0,Lebanon
+Americas,URY,2010,28.0,Uruguay
+Americas,VEN,2018,50.0,Venezuela (Bolivarian Republic of)
+Eastern Mediterranean,PSE,2020,0.74,"occupied Palestinian territory, including east Jerusalem"
+Western Pacific,MHL,2015,498.0,Marshall Islands
+Western Pacific,FSM,2004,332.0,Micronesia (Federated States of)
+Eastern Mediterranean,DJI,2006,1350.0,Djibouti
+Europe,ROU,2004,194.0,Romania
+Europe,HUN,2015,11.0,Hungary
+Eastern Mediterranean,MAR,2007,92.0,Morocco
+Western Pacific,COK,2018,0.0,Cook Islands
+Americas,SUR,2002,44.0,Suriname
+Eastern Mediterranean,IRN,2022,12.0,Iran (Islamic Republic of)
+Western Pacific,MNG,2016,428.0,Mongolia
+Americas,VCT,2018,5.7,Saint Vincent and the Grenadines
+Africa,SWZ,2017,502.0,Eswatini
+Americas,NIC,2011,74.0,Nicaragua
+Western Pacific,FSM,2023,397.0,Micronesia (Federated States of)
+Africa,SLE,2013,465.0,Sierra Leone
+Americas,HND,2011,66.0,Honduras
+Africa,TZA,2013,336.0,United Republic of Tanzania
+Americas,CAN,2023,6.2,Canada
+Eastern Mediterranean,ARE,2023,0.76,United Arab Emirates
+Africa,COD,2015,452.0,Democratic Republic of the Congo
+Africa,LBR,2023,215.0,Liberia
+Africa,MRT,2012,125.0,Mauritania
+Europe,UKR,2005,205.0,Ukraine
+Americas,USA,2012,3.8,United States of America
+Africa,NER,2020,81.0,Niger
+Western Pacific,COK,2017,0.0,Cook Islands
+Europe,BGR,2008,66.0,Bulgaria
+Europe,LVA,2004,143.0,Latvia
+Europe,BGR,2018,25.0,Bulgaria
+Africa,CIV,2024,99.0,Cote d'Ivoire
+Americas,HND,2016,48.0,Honduras
+Africa,NAM,2020,450.0,Namibia
+Western Pacific,AUS,2021,6.5,Australia
+Europe,ROU,2001,196.0,Romania
+Europe,TJK,2008,192.0,Tajikistan
+Africa,BWA,2009,639.0,Botswana
+Western Pacific,MNG,2008,428.0,Mongolia
+Europe,FIN,2001,12.0,Finland
+Americas,DMA,2014,1.4,Dominica
+Europe,TUR,2003,47.0,Türkiye
+Africa,ERI,2021,111.0,Eritrea
+South-East Asia,NPL,2003,382.0,Nepal
+Africa,KEN,2011,506.0,Kenya
+Americas,VCT,2005,6.2,Saint Vincent and the Grenadines
+Western Pacific,KIR,2010,704.0,Kiribati
+South-East Asia,IND,2007,298.0,India
+Eastern Mediterranean,LBN,2005,14.0,Lebanon
+Eastern Mediterranean,SYR,2002,65.0,Syrian Arab Republic
+Americas,PRY,2009,67.0,Paraguay
+Africa,MRT,2015,107.0,Mauritania
+Americas,URY,2019,38.0,Uruguay
+Americas,USA,2014,3.3,United States of America
+Africa,CAF,2005,615.0,Central African Republic
+Europe,NLD,2017,5.2,Netherlands (Kingdom of the)
+Europe,KGZ,2017,156.0,Kyrgyzstan
+Africa,TGO,2010,86.0,Togo
+Europe,ROU,2011,116.0,Romania
+Eastern Mediterranean,KWT,2004,34.0,Kuwait
+Eastern Mediterranean,JOR,2009,7.6,Jordan
+Africa,DZA,2010,95.0,Algeria
+Africa,SYC,2006,19.0,Seychelles
+Africa,SLE,2000,604.0,Sierra Leone
+Africa,BWA,2017,372.0,Botswana
+Western Pacific,LAO,2004,282.0,Lao People's Democratic Republic
+Africa,TZA,2004,510.0,United Republic of Tanzania
+Europe,TKM,2022,46.0,Turkmenistan
+Eastern Mediterranean,IRQ,2012,39.0,Iraq
+Western Pacific,LAO,2014,189.0,Lao People's Democratic Republic
+Africa,GMB,2014,175.0,Gambia
+Africa,MRT,2011,134.0,Mauritania
+Eastern Mediterranean,SDN,2009,121.0,Sudan
+Americas,PRY,2003,92.0,Paraguay
+Europe,TJK,2014,122.0,Tajikistan
+Europe,POL,2015,21.0,Poland
+Eastern Mediterranean,DJI,2003,1780.0,Djibouti
+Europe,TKM,2009,93.0,Turkmenistan
+Americas,GUY,2003,171.0,Guyana
+Western Pacific,PLW,2001,55.0,Palau
+Africa,GNQ,2004,298.0,Equatorial Guinea
+Eastern Mediterranean,MAR,2001,110.0,Morocco
+Western Pacific,WSM,2005,13.0,Samoa
+Eastern Mediterranean,IRQ,2023,23.0,Iraq
+Americas,CRI,2003,21.0,Costa Rica
+Africa,GNB,2000,202.0,Guinea-Bissau
+Africa,LSO,2021,606.0,Lesotho
+Europe,MDA,2002,92.0,Republic of Moldova
+Africa,BDI,2020,97.0,Burundi
+Europe,AND,2024,4.9,Andorra
+Africa,ZAF,2016,805.0,South Africa
+Europe,LUX,2003,16.0,Luxembourg
+Western Pacific,NZL,2017,7.3,New Zealand
+Eastern Mediterranean,PSE,2011,1.3,"occupied Palestinian territory, including east Jerusalem"
+Americas,CRI,2019,9.9,Costa Rica
+Europe,MKD,2010,30.0,North Macedonia
+Americas,KNA,2006,2.1,Saint Kitts and Nevis
+Americas,ATG,2009,3.6,Antigua and Barbuda
+Europe,UZB,2017,73.0,Uzbekistan
+Africa,ZWE,2021,198.0,Zimbabwe
+Western Pacific,TUV,2024,223.0,Tuvalu
+Africa,TCD,2011,166.0,Chad
+Eastern Mediterranean,QAT,2008,71.0,Qatar
+Africa,SSD,2019,353.0,South Sudan
+Western Pacific,SGP,2015,46.0,Singapore
+South-East Asia,BTN,2023,179.0,Bhutan
+Europe,RUS,2012,77.0,Russian Federation
+Europe,CZE,2003,15.0,Czechia
+Africa,GNQ,2008,275.0,Equatorial Guinea
+Eastern Mediterranean,DJI,2005,1530.0,Djibouti
+Eastern Mediterranean,MAR,2000,114.0,Morocco
+Europe,FRA,2000,12.0,France
+Americas,NIC,2022,45.0,Nicaragua
+Africa,CMR,2020,158.0,Cameroon
+Americas,BRB,2015,0.0,Barbados
+Africa,SYC,2019,12.0,Seychelles
+Africa,CIV,2011,201.0,Cote d'Ivoire
+Eastern Mediterranean,YEM,2007,47.0,Yemen
+Europe,UZB,2020,63.0,Uzbekistan
+Eastern Mediterranean,BHR,2000,57.0,Bahrain
+Africa,GNQ,2023,203.0,Equatorial Guinea
+Europe,SWE,2017,5.7,Sweden
+Europe,UZB,2016,76.0,Uzbekistan
+Africa,GMB,2016,170.0,Gambia
+Eastern Mediterranean,SAU,2001,21.0,Saudi Arabia
+Western Pacific,PLW,2012,23.0,Palau
+Africa,ZMB,2000,759.0,Zambia
+Eastern Mediterranean,SAU,2024,8.4,Saudi Arabia
+Africa,NGA,2014,219.0,Nigeria
+Europe,TUR,2013,25.0,Türkiye
+South-East Asia,LKA,2021,55.0,Sri Lanka
+Europe,RUS,2014,70.0,Russian Federation
+Africa,CMR,2009,278.0,Cameroon
+Eastern Mediterranean,SYR,2020,20.0,Syrian Arab Republic
+Americas,DMA,2023,6.0,Dominica
+Europe,CZE,2018,5.0,Czechia
+Eastern Mediterranean,PAK,2006,276.0,Pakistan
+Europe,KAZ,2004,181.0,Kazakhstan
+Eastern Mediterranean,TUN,2003,42.0,Tunisia
+Europe,ISR,2002,10.0,Israel
+Americas,NIC,2009,69.0,Nicaragua
+Africa,MWI,2016,176.0,Malawi
+Africa,ETH,2002,437.0,Ethiopia
+Western Pacific,AUS,2018,6.5,Australia
+Western Pacific,NZL,2023,6.7,New Zealand
+Western Pacific,FJI,2017,68.0,Fiji
+Americas,SUR,2013,37.0,Suriname
+Americas,SUR,2018,41.0,Suriname
+Western Pacific,KHM,2018,303.0,Cambodia
+Eastern Mediterranean,YEM,2022,36.0,Yemen
+Americas,SLV,2021,39.0,El Salvador
+Africa,MWI,2003,403.0,Malawi
+Eastern Mediterranean,QAT,2021,46.0,Qatar
+Americas,CUB,2001,16.0,Cuba
+Western Pacific,KOR,2005,96.0,Republic of Korea
+Europe,MLT,2014,10.0,Malta
+Americas,VCT,2015,6.5,Saint Vincent and the Grenadines
+Europe,UKR,2019,76.0,Ukraine
+Africa,BWA,2003,863.0,Botswana
+Africa,MLI,2006,78.0,Mali
+Americas,PRY,2022,67.0,Paraguay
+Europe,CHE,2020,4.7,Switzerland
+Africa,LBR,2009,329.0,Liberia
+Americas,ECU,2009,51.0,Ecuador
+Americas,URY,2007,26.0,Uruguay
+Europe,BIH,2005,87.0,Bosnia and Herzegovina
+Africa,LBR,2000,115.0,Liberia
+Europe,ISL,2021,1.9,Iceland
+Europe,RUS,2016,63.0,Russian Federation
+Western Pacific,SGP,2000,77.0,Singapore
+Africa,ZMB,2008,534.0,Zambia
+Europe,UKR,2007,183.0,Ukraine
+Europe,CZE,2011,6.9,Czechia
+Western Pacific,MYS,2018,100.0,Malaysia
+Europe,LTU,2002,156.0,Lithuania
+Europe,HRV,2005,34.0,Croatia
+Eastern Mediterranean,OMN,2013,13.0,Oman
+Europe,ISR,2020,2.1,Israel
+Africa,BEN,2017,56.0,Benin
+Europe,CYP,2023,7.2,Cyprus
+Americas,CHL,2011,19.0,Chile
+Eastern Mediterranean,PSE,2024,0.29,"occupied Palestinian territory, including east Jerusalem"
+Europe,GEO,2000,229.0,Georgia
+Africa,GNB,2010,266.0,Guinea-Bissau
+Africa,AGO,2020,373.0,Angola
+Europe,IRL,2004,14.0,Ireland
+Eastern Mediterranean,SOM,2023,157.0,Somalia
+Europe,LTU,2007,132.0,Lithuania
+Western Pacific,TUV,2005,121.0,Tuvalu
+Western Pacific,TON,2022,1.9,Tonga
+Africa,TGO,2021,47.0,Togo
+Eastern Mediterranean,PSE,2007,1.6,"occupied Palestinian territory, including east Jerusalem"
+Africa,SWZ,2022,335.0,Eswatini
+Europe,SWE,2023,3.8,Sweden
+Europe,DEU,2001,9.3,Germany
+Eastern Mediterranean,MAR,2009,96.0,Morocco
+Europe,HRV,2004,38.0,Croatia
+Western Pacific,PHL,2000,590.0,Philippines
+South-East Asia,THA,2002,244.0,Thailand
+Africa,ERI,2024,115.0,Eritrea
+Western Pacific,KHM,2010,442.0,Cambodia
+Africa,SEN,2004,184.0,Senegal
+Africa,STP,2013,159.0,Sao Tome and Principe
+Africa,STP,2002,220.0,Sao Tome and Principe
+Europe,MLT,2007,9.1,Malta
+Africa,COM,2014,42.0,Comoros
+South-East Asia,BGD,2004,221.0,Bangladesh
+South-East Asia,THA,2014,167.0,Thailand
+Africa,AGO,2019,390.0,Angola
+Western Pacific,PLW,2017,112.0,Palau
+Europe,NLD,2006,7.0,Netherlands (Kingdom of the)
+Western Pacific,TON,2014,12.0,Tonga
+Americas,PAN,2019,39.0,Panama
+Europe,FRA,2006,9.7,France
+Europe,AND,2010,8.7,Andorra
+Western Pacific,LAO,2022,138.0,Lao People's Democratic Republic
+Europe,FIN,2011,6.9,Finland
+Americas,BOL,2000,402.0,Bolivia (Plurinational State of)
+Africa,MLI,2019,57.0,Mali
+Africa,BWA,2013,503.0,Botswana
+Europe,ISR,2015,4.3,Israel
+Europe,SVN,2016,7.0,Slovenia
+Americas,HND,2008,67.0,Honduras
+Europe,DEU,2006,6.9,Germany
+Africa,ERI,2014,186.0,Eritrea
+Europe,FRA,2001,12.0,France
+Africa,NGA,2006,219.0,Nigeria
+Europe,CHE,2000,11.0,Switzerland
+Americas,ATG,2000,5.3,Antigua and Barbuda
+Europe,TUR,2010,35.0,Türkiye
+Europe,UKR,2021,81.0,Ukraine
+Africa,SLE,2023,380.0,Sierra Leone
+Americas,JAM,2018,3.9,Jamaica
+Eastern Mediterranean,AFG,2008,235.0,Afghanistan
+Western Pacific,MNG,2022,440.0,Mongolia
+Europe,BEL,2003,13.0,Belgium
+Europe,AND,2013,6.6,Andorra
+Eastern Mediterranean,BHR,2001,49.0,Bahrain
+Europe,FRA,2023,8.3,France
+Americas,CHL,2007,20.0,Chile
+Western Pacific,PNG,2019,614.0,Papua New Guinea
+Europe,SMR,2023,0.0,San Marino
+Africa,CPV,2024,47.0,Cabo Verde
+Americas,VEN,2024,46.0,Venezuela (Bolivarian Republic of)
+Eastern Mediterranean,DJI,2022,462.0,Djibouti
+Europe,BGR,2016,31.0,Bulgaria
+Americas,BRB,2003,3.3,Barbados
+Eastern Mediterranean,IRN,2008,28.0,Iran (Islamic Republic of)
+Americas,BRA,2014,41.0,Brazil
+Africa,TGO,2017,54.0,Togo
+Americas,PER,2018,132.0,Peru
+Europe,SWE,2014,7.8,Sweden
+Americas,CHL,2000,33.0,Chile
+Americas,BRA,2010,42.0,Brazil
+Americas,ARG,2018,30.0,Argentina
+Western Pacific,VUT,2011,110.0,Vanuatu
+Americas,CRI,2016,9.6,Costa Rica
+Americas,SUR,2008,34.0,Suriname
+Eastern Mediterranean,SYR,2024,23.0,Syrian Arab Republic
+Europe,BIH,2019,25.0,Bosnia and Herzegovina
+Africa,GIN,2015,177.0,Guinea
+Europe,ARM,2007,114.0,Armenia
+Europe,DNK,2017,5.4,Denmark
+Europe,UZB,2009,113.0,Uzbekistan
+Western Pacific,SGP,2005,51.0,Singapore
+Africa,TGO,2005,86.0,Togo
+Eastern Mediterranean,EGY,2022,11.0,Egypt
+Americas,CUB,2023,8.1,Cuba
+Eastern Mediterranean,ARE,2001,4.6,United Arab Emirates
+Africa,TGO,2015,62.0,Togo
+Europe,DEU,2013,5.7,Germany
+Africa,ZWE,2020,189.0,Zimbabwe
+Europe,GBR,2017,8.9,United Kingdom of Great Britain and Northern Ireland
+Eastern Mediterranean,MAR,2021,89.0,Morocco
+Western Pacific,BRN,2015,69.0,Brunei Darussalam
+Americas,GTM,2019,24.0,Guatemala
+South-East Asia,NPL,2020,228.0,Nepal
+Eastern Mediterranean,QAT,2010,54.0,Qatar
+Africa,DZA,2024,54.0,Algeria
+Americas,PRI,2019,1.4,Puerto Rico
+Africa,ERI,2010,258.0,Eritrea
+Eastern Mediterranean,JOR,2018,5.6,Jordan
+Africa,STP,2019,108.0,Sao Tome and Principe
+Americas,VCT,2014,4.6,Saint Vincent and the Grenadines
+Europe,CHE,2001,10.0,Switzerland
+Eastern Mediterranean,DJI,2019,389.0,Djibouti
+Europe,ITA,2014,6.7,Italy
+Europe,PRT,2014,24.0,Portugal
+Eastern Mediterranean,TUN,2009,36.0,Tunisia
+Africa,BDI,2001,209.0,Burundi
+Eastern Mediterranean,ARE,2003,5.7,United Arab Emirates
+Americas,LCA,2016,1.7,Saint Lucia
+Europe,PRT,2018,20.0,Portugal
+Africa,AGO,2017,418.0,Angola
+Americas,ARG,2013,27.0,Argentina
+Africa,GIN,2024,178.0,Guinea
+Americas,HND,2013,55.0,Honduras
+Africa,BFA,2013,71.0,Burkina Faso
+Europe,EST,2004,71.0,Estonia
+Europe,IRL,2024,6.2,Ireland
+Africa,SLE,2002,580.0,Sierra Leone
+South-East Asia,MMR,2014,411.0,Myanmar
+Eastern Mediterranean,SDN,2020,62.0,Sudan
+Americas,BLZ,2023,34.0,Belize
+Western Pacific,TON,2018,8.5,Tonga
+Africa,NER,2010,126.0,Niger
+Europe,PRT,2023,16.0,Portugal
+Western Pacific,JPN,2024,9.8,Japan
+Americas,COL,2020,39.0,Colombia
+Eastern Mediterranean,OMN,2016,12.0,Oman
+Eastern Mediterranean,LBY,2005,64.0,Libya
+Europe,KGZ,2002,322.0,Kyrgyzstan
+Americas,VEN,2008,37.0,Venezuela (Bolivarian Republic of)
+Eastern Mediterranean,AFG,2021,206.0,Afghanistan
+Americas,CRI,2011,15.0,Costa Rica
+Americas,GUY,2001,134.0,Guyana
+Europe,SWE,2020,3.6,Sweden
+Eastern Mediterranean,KWT,2020,20.0,Kuwait
+Americas,CAN,2012,5.6,Canada
+Americas,TTO,2020,20.0,Trinidad and Tobago
+Europe,ARM,2013,79.0,Armenia
+Americas,BRA,2011,42.0,Brazil
+Eastern Mediterranean,JOR,2005,9.4,Jordan
+Africa,ZMB,2009,514.0,Zambia
+Europe,ARM,2019,31.0,Armenia
+Western Pacific,JPN,2001,41.0,Japan
+Western Pacific,SLB,2022,97.0,Solomon Islands
+Americas,BHS,2012,12.0,Bahamas
+Africa,MOZ,2004,341.0,Mozambique
+Eastern Mediterranean,YEM,2009,45.0,Yemen
+Europe,FRA,2009,9.4,France
+Americas,PER,2009,171.0,Peru
+Americas,ATG,2007,2.4,Antigua and Barbuda
+Americas,PAN,2024,63.0,Panama
+Americas,ARG,2001,46.0,Argentina
+Africa,MUS,2005,22.0,Mauritius
+Europe,RUS,2005,88.0,Russian Federation
+Europe,ISR,2000,13.0,Israel
+Americas,DOM,2002,100.0,Dominican Republic
+Americas,HND,2006,84.0,Honduras
+Africa,COD,2020,409.0,Democratic Republic of the Congo
+Africa,ERI,2009,281.0,Eritrea
+Western Pacific,PHL,2010,531.0,Philippines
+Western Pacific,KIR,2017,718.0,Kiribati
+Europe,HRV,2011,19.0,Croatia
+Europe,DNK,2015,7.0,Denmark
+Africa,MWI,2020,138.0,Malawi
+Africa,DZA,2017,75.0,Algeria
+Americas,SUR,2004,38.0,Suriname
+Western Pacific,FSM,2014,391.0,Micronesia (Federated States of)
+Africa,MLI,2002,78.0,Mali
+Europe,SMR,2007,0.0,San Marino
+Africa,COM,2021,32.0,Comoros
+Americas,ECU,2006,60.0,Ecuador
+Europe,AND,2007,6.1,Andorra
+South-East Asia,NPL,2015,268.0,Nepal
+Western Pacific,KOR,2018,64.0,Republic of Korea
+Americas,ECU,2024,66.0,Ecuador
+Americas,PER,2007,194.0,Peru
+Africa,TCD,2014,162.0,Chad
+Africa,BDI,2011,148.0,Burundi
+South-East Asia,TLS,2019,373.0,Timor-Leste
+Europe,GEO,2018,86.0,Georgia
+Africa,TGO,2006,90.0,Togo
+Europe,UZB,2015,79.0,Uzbekistan
+Americas,URY,2005,28.0,Uruguay
+Europe,ALB,2019,16.0,Albania
+Western Pacific,KIR,2005,1280.0,Kiribati
+Africa,SWZ,2008,1390.0,Eswatini
+Africa,LBR,2002,186.0,Liberia
+South-East Asia,TLS,2020,381.0,Timor-Leste
+Americas,BLZ,2009,48.0,Belize
+Africa,GNB,2020,186.0,Guinea-Bissau
+Europe,UZB,2018,70.0,Uzbekistan
+Europe,BEL,2019,8.9,Belgium
+Western Pacific,FJI,2004,35.0,Fiji
+Americas,GRD,2021,1.7,Grenada
+Europe,LUX,2006,9.4,Luxembourg
+Western Pacific,CHN,2014,67.0,China
+Africa,ZAF,2002,971.0,South Africa
+Africa,MDG,2008,236.0,Madagascar
+Americas,MEX,2015,25.0,Mexico
+Europe,BIH,2000,158.0,Bosnia and Herzegovina
+Europe,SVK,2022,3.2,Slovakia
+Europe,GRC,2024,3.6,Greece
+Europe,ESP,2015,10.0,Spain
+Africa,TCD,2008,150.0,Chad
+Eastern Mediterranean,IRN,2009,29.0,Iran (Islamic Republic of)
+Western Pacific,VNM,2014,205.0,Viet Nam
+Western Pacific,PNG,2022,632.0,Papua New Guinea
+South-East Asia,LKA,2023,57.0,Sri Lanka
+Europe,PRT,2011,28.0,Portugal
+Eastern Mediterranean,BHR,2023,14.0,Bahrain
+Africa,CMR,2023,137.0,Cameroon
+Europe,AND,2008,4.8,Andorra
+Europe,GEO,2008,187.0,Georgia
+Eastern Mediterranean,SAU,2002,21.0,Saudi Arabia
+Europe,HRV,2013,16.0,Croatia
+Americas,KNA,2004,4.3,Saint Kitts and Nevis
+Europe,GEO,2002,216.0,Georgia
+Eastern Mediterranean,MAR,2017,98.0,Morocco
+Eastern Mediterranean,JOR,2003,8.9,Jordan
+Americas,CHL,2015,18.0,Chile
+Western Pacific,FJI,2024,104.0,Fiji
+Americas,PRI,2014,1.7,Puerto Rico
+Americas,GTM,2012,26.0,Guatemala
+Africa,SWZ,2003,1270.0,Eswatini
+Europe,ARM,2021,26.0,Armenia
+Americas,HND,2003,133.0,Honduras
+Europe,CHE,2015,7.6,Switzerland
+Europe,UKR,2020,75.0,Ukraine
+South-East Asia,LKA,2003,125.0,Sri Lanka
+Europe,GRC,2014,5.8,Greece
+Americas,HND,2024,38.0,Honduras
+South-East Asia,TLS,2005,952.0,Timor-Leste
+Western Pacific,PLW,2020,56.0,Palau
+Africa,CPV,2000,176.0,Cabo Verde
+Europe,FIN,2019,4.8,Finland
+Americas,PRY,2018,56.0,Paraguay
+Europe,TKM,2005,113.0,Turkmenistan
+Western Pacific,WSM,2008,6.3,Samoa
+Africa,ZMB,2022,295.0,Zambia
+Africa,TGO,2002,69.0,Togo
+Europe,AUT,2009,10.0,Austria
+Eastern Mediterranean,EGY,2004,19.0,Egypt
+Western Pacific,PLW,2022,39.0,Palau
+Western Pacific,NRU,2013,67.0,Nauru
+Americas,PRI,2009,2.6,Puerto Rico
+South-East Asia,BTN,2009,432.0,Bhutan
+Eastern Mediterranean,SAU,2020,8.7,Saudi Arabia
+Eastern Mediterranean,SOM,2002,351.0,Somalia
+Africa,GNQ,2022,207.0,Equatorial Guinea
+Americas,KNA,2008,11.0,Saint Kitts and Nevis
+Americas,KNA,2024,1.1,Saint Kitts and Nevis
+Europe,TJK,2012,147.0,Tajikistan
+Americas,NIC,2005,77.0,Nicaragua
+Europe,UZB,2003,167.0,Uzbekistan
+Africa,LSO,2007,1230.0,Lesotho
+Western Pacific,MYS,2021,98.0,Malaysia
+Western Pacific,KHM,2023,276.0,Cambodia
+Africa,CAF,2009,568.0,Central African Republic
+Americas,VCT,2020,13.0,Saint Vincent and the Grenadines
+Europe,MLT,2001,4.0,Malta
+Europe,MDA,2015,111.0,Republic of Moldova
+Europe,BGR,2010,53.0,Bulgaria
+Africa,BEN,2016,59.0,Benin
+Western Pacific,KOR,2011,101.0,Republic of Korea
+Western Pacific,WSM,2007,11.0,Samoa
+Europe,KGZ,2000,291.0,Kyrgyzstan
+Western Pacific,KOR,2020,48.0,Republic of Korea
+Americas,GTM,2010,26.0,Guatemala
+Africa,SEN,2012,177.0,Senegal
+Europe,KAZ,2014,86.0,Kazakhstan
+Americas,COL,2017,34.0,Colombia
+Americas,BHS,2002,25.0,Bahamas
+Eastern Mediterranean,BHR,2019,16.0,Bahrain
+Eastern Mediterranean,PAK,2010,276.0,Pakistan
+Europe,TUR,2000,54.0,Türkiye
+Western Pacific,MYS,2002,121.0,Malaysia
+Europe,ROU,2007,154.0,Romania
+Africa,NER,2013,111.0,Niger
+Americas,ARG,2014,27.0,Argentina
+Europe,ITA,2003,11.0,Italy
+Europe,KAZ,2015,78.0,Kazakhstan
+Eastern Mediterranean,YEM,2021,34.0,Yemen
+Africa,GIN,2008,187.0,Guinea
+Africa,NGA,2021,219.0,Nigeria
+Western Pacific,KHM,2013,373.0,Cambodia
+Africa,DZA,2007,104.0,Algeria
+Americas,MEX,2008,28.0,Mexico
+Americas,SLV,2016,65.0,El Salvador
+Africa,GNB,2001,225.0,Guinea-Bissau
+Europe,ESP,2013,14.0,Spain
+Africa,ZMB,2014,406.0,Zambia
+Western Pacific,KOR,2006,94.0,Republic of Korea
+Europe,SVK,2004,18.0,Slovakia
+Africa,SEN,2017,152.0,Senegal
+South-East Asia,NPL,2009,320.0,Nepal
+Africa,COM,2000,51.0,Comoros
+Western Pacific,KIR,2024,945.0,Kiribati
+Eastern Mediterranean,PAK,2003,276.0,Pakistan
+Africa,MOZ,2013,361.0,Mozambique
+Africa,TZA,2006,504.0,United Republic of Tanzania
+Africa,NER,2021,80.0,Niger
+Europe,TKM,2007,110.0,Turkmenistan
+Americas,TTO,2024,27.0,Trinidad and Tobago
+Western Pacific,CHN,2010,76.0,China
+Western Pacific,PNG,2004,741.0,Papua New Guinea
+Europe,TJK,2018,86.0,Tajikistan
+Europe,AUT,2010,9.8,Austria
+Eastern Mediterranean,IRQ,2003,66.0,Iraq
+Africa,CIV,2012,193.0,Cote d'Ivoire
+Eastern Mediterranean,ARE,2015,1.0,United Arab Emirates
+Europe,GEO,2013,143.0,Georgia
+Americas,ECU,2021,41.0,Ecuador
+Africa,SLE,2021,395.0,Sierra Leone
+Africa,GIN,2016,177.0,Guinea
+Eastern Mediterranean,SDN,2022,54.0,Sudan
+Africa,ZWE,2000,605.0,Zimbabwe
+Africa,CPV,2010,117.0,Cabo Verde
+Western Pacific,MNG,2023,448.0,Mongolia
+Americas,MEX,2010,28.0,Mexico
+Africa,SLE,2019,412.0,Sierra Leone
+Europe,AND,2020,2.6,Andorra
+South-East Asia,TLS,2007,837.0,Timor-Leste
+Europe,ESP,2009,20.0,Spain
+Africa,CIV,2001,180.0,Cote d'Ivoire
+Africa,SYC,2003,11.0,Seychelles
+Europe,UKR,2022,87.0,Ukraine
+Americas,TTO,2010,23.0,Trinidad and Tobago
+Africa,LBR,2019,249.0,Liberia
+Europe,MNE,2024,16.0,Montenegro
+Eastern Mediterranean,TUN,2006,38.0,Tunisia
+Western Pacific,COK,2010,0.0,Cook Islands
+Americas,SLV,2006,44.0,El Salvador
+Europe,MCO,2015,0.0,Monaco
+Europe,ISR,2012,8.3,Israel
+Americas,CAN,2019,5.6,Canada
+Africa,KEN,2008,564.0,Kenya
+Europe,KGZ,2012,186.0,Kyrgyzstan
+Eastern Mediterranean,IRQ,2018,27.0,Iraq
+Western Pacific,NIU,2024,55.0,Niue
+Americas,JAM,2000,12.0,Jamaica
+Eastern Mediterranean,JOR,2014,6.4,Jordan
+Africa,ZWE,2024,203.0,Zimbabwe
+Europe,ROU,2015,94.0,Romania
+Africa,SSD,2024,320.0,South Sudan
+Africa,TGO,2018,51.0,Togo
+Africa,GMB,2002,190.0,Gambia
+Africa,BEN,2023,42.0,Benin
+Eastern Mediterranean,QAT,2013,43.0,Qatar
+Americas,JAM,2014,4.4,Jamaica
+Americas,CUB,2018,7.6,Cuba
+Eastern Mediterranean,AFG,2002,197.0,Afghanistan
+Americas,ATG,2013,11.0,Antigua and Barbuda
+Western Pacific,FSM,2011,317.0,Micronesia (Federated States of)
+Africa,BWA,2000,976.0,Botswana
+Europe,SVN,2007,15.0,Slovenia
+Western Pacific,JPN,2014,19.0,Japan
+Africa,ERI,2018,132.0,Eritrea
+Europe,DNK,2000,16.0,Denmark
+Eastern Mediterranean,KWT,2017,31.0,Kuwait
+Africa,BDI,2003,200.0,Burundi
+Americas,LCA,2017,6.2,Saint Lucia
+Europe,LUX,2017,6.3,Luxembourg
+South-East Asia,THA,2009,188.0,Thailand
+Europe,IRL,2009,12.0,Ireland
+Europe,MCO,2001,0.0,Monaco
+Americas,BOL,2021,96.0,Bolivia (Plurinational State of)
+Western Pacific,COK,2006,6.6,Cook Islands
+Africa,STP,2000,254.0,Sao Tome and Principe
+Western Pacific,FJI,2022,105.0,Fiji
+Europe,MCO,2004,0.63,Monaco
+Americas,LCA,2011,4.1,Saint Lucia
+Eastern Mediterranean,IRQ,2017,29.0,Iraq
+Western Pacific,VNM,2006,260.0,Viet Nam
+Western Pacific,MHL,2002,270.0,Marshall Islands
+Western Pacific,CHN,2016,63.0,China
+Americas,GRD,2000,0.0,Grenada
+Western Pacific,NRU,2022,161.0,Nauru
+Eastern Mediterranean,KWT,2002,38.0,Kuwait
+Europe,MCO,2016,5.4,Monaco
+Africa,DZA,2018,74.0,Algeria
+Europe,FRA,2024,7.8,France
+Europe,LVA,2007,103.0,Latvia
+Americas,DOM,2001,124.0,Dominican Republic
+Western Pacific,TUV,2015,182.0,Tuvalu
+South-East Asia,BTN,2017,216.0,Bhutan
+Africa,CMR,2007,279.0,Cameroon
+Eastern Mediterranean,SOM,2005,323.0,Somalia
+Europe,UZB,2012,87.0,Uzbekistan
+Western Pacific,IDN,2017,319.0,Indonesia
+Americas,GTM,2011,23.0,Guatemala
+Europe,KGZ,2019,136.0,Kyrgyzstan
+Eastern Mediterranean,SYR,2003,62.0,Syrian Arab Republic
+South-East Asia,MMR,2013,431.0,Myanmar
+Western Pacific,NZL,2006,10.0,New Zealand
+Americas,GRD,2012,0.89,Grenada
+Europe,GEO,2011,165.0,Georgia
+Africa,ETH,2014,211.0,Ethiopia
+Africa,NGA,2007,219.0,Nigeria
+Africa,GNQ,2003,304.0,Equatorial Guinea
+Africa,ZMB,2017,361.0,Zambia
+South-East Asia,TLS,2024,496.0,Timor-Leste
+Western Pacific,KOR,2009,95.0,Republic of Korea
+Western Pacific,PLW,2021,45.0,Palau
+Europe,PRT,2016,20.0,Portugal
+Western Pacific,SLB,2019,111.0,Solomon Islands
+Africa,MRT,2008,165.0,Mauritania
+Africa,GAB,2024,371.0,Gabon
+Europe,DNK,2005,10.0,Denmark
+Europe,ROU,2016,84.0,Romania
+Europe,KAZ,2018,68.0,Kazakhstan
+Africa,UGA,2018,200.0,Uganda
+Africa,COG,2005,484.0,Congo
+Africa,NGA,2003,219.0,Nigeria
+Americas,BLZ,2017,47.0,Belize
+Europe,LTU,2004,125.0,Lithuania
+Africa,SYC,2004,20.0,Seychelles
+Americas,BHS,2015,21.0,Bahamas
+Europe,FRA,2012,8.9,France
+Europe,ROU,2008,148.0,Romania
+Americas,HND,2007,69.0,Honduras
+Western Pacific,MNG,2001,428.0,Mongolia
+Eastern Mediterranean,LBY,2010,49.0,Libya
+Americas,PRI,2000,9.8,Puerto Rico
+Africa,SLE,2009,504.0,Sierra Leone
+Americas,HTI,2008,456.0,Haiti
+Americas,JAM,2016,5.1,Jamaica
+Americas,TTO,2009,29.0,Trinidad and Tobago
+Africa,ERI,2002,498.0,Eritrea
+Europe,ISR,2013,4.9,Israel
+Africa,COG,2016,334.0,Congo
+Africa,ERI,2015,156.0,Eritrea
+Western Pacific,FSM,2020,178.0,Micronesia (Federated States of)
+Americas,USA,2018,3.0,United States of America
+Africa,GNQ,2007,280.0,Equatorial Guinea
+Western Pacific,IDN,2009,345.0,Indonesia
+Western Pacific,JPN,2023,9.8,Japan
+Europe,FIN,2009,9.0,Finland
+Europe,TKM,2012,76.0,Turkmenistan
+Europe,SWE,2011,7.0,Sweden
+Africa,BDI,2004,194.0,Burundi
+South-East Asia,TLS,2012,574.0,Timor-Leste
+Americas,SUR,2015,35.0,Suriname
+Europe,MDA,2001,87.0,Republic of Moldova
+Americas,BLZ,2010,75.0,Belize
+Americas,TTO,2018,23.0,Trinidad and Tobago
+Americas,HND,2019,38.0,Honduras
+Americas,VEN,2002,51.0,Venezuela (Bolivarian Republic of)
+Western Pacific,TON,2015,13.0,Tonga
+Western Pacific,VUT,2006,143.0,Vanuatu
+Americas,TTO,2006,27.0,Trinidad and Tobago
+Europe,SMR,2015,0.0,San Marino
+Western Pacific,JPN,2005,29.0,Japan
+Americas,PER,2024,139.0,Peru
+Western Pacific,PHL,2006,530.0,Philippines
+Europe,NOR,2005,7.4,Norway
+Western Pacific,TON,2020,7.6,Tonga
+Western Pacific,PLW,2019,34.0,Palau
+Europe,SVN,2006,15.0,Slovenia
+Western Pacific,TON,2011,8.4,Tonga
+Africa,AGO,2015,445.0,Angola
+Africa,CAF,2020,455.0,Central African Republic
+Africa,ZAF,2011,1200.0,South Africa
+Americas,LCA,2000,5.7,Saint Lucia
+Eastern Mediterranean,IRN,2010,29.0,Iran (Islamic Republic of)
+Americas,DOM,2011,64.0,Dominican Republic
+Eastern Mediterranean,PSE,2004,1.3,"occupied Palestinian territory, including east Jerusalem"
+Africa,GNB,2018,194.0,Guinea-Bissau
+Africa,NAM,2018,524.0,Namibia
+Western Pacific,CHN,2011,75.0,China
+Western Pacific,SLB,2002,224.0,Solomon Islands
+Western Pacific,VNM,2024,182.0,Viet Nam
+Americas,KNA,2014,15.0,Saint Kitts and Nevis
+Africa,AGO,2004,468.0,Angola
+Europe,MLT,2022,11.0,Malta
+Africa,MOZ,2008,351.0,Mozambique
+Western Pacific,NRU,2006,120.0,Nauru
+Europe,BLR,2014,56.0,Belarus
+Americas,MEX,2005,31.0,Mexico
+Africa,CAF,2011,545.0,Central African Republic
+Africa,LBR,2004,244.0,Liberia
+South-East Asia,TLS,2018,374.0,Timor-Leste
+Europe,NLD,2011,6.6,Netherlands (Kingdom of the)
+Africa,COM,2020,35.0,Comoros
+Europe,HUN,2003,40.0,Hungary
+Africa,TZA,2000,503.0,United Republic of Tanzania
+Europe,ARM,2024,19.0,Armenia
+Africa,SWZ,2011,1300.0,Eswatini
+Europe,ISR,2001,12.0,Israel
+Western Pacific,NRU,2003,30.0,Nauru
+Western Pacific,PHL,2002,569.0,Philippines
+Europe,AUT,2015,7.8,Austria
+South-East Asia,NPL,2012,293.0,Nepal
+South-East Asia,BTN,2013,328.0,Bhutan
+Eastern Mediterranean,DJI,2013,889.0,Djibouti
+South-East Asia,NPL,2006,350.0,Nepal
+Africa,COD,2009,510.0,Democratic Republic of the Congo
+Europe,RUS,2002,90.0,Russian Federation
+Europe,DNK,2010,7.8,Denmark
+Americas,CRI,2024,9.3,Costa Rica
+Western Pacific,MNG,2012,428.0,Mongolia
+Africa,SLE,2003,569.0,Sierra Leone
+Africa,SWZ,2013,1030.0,Eswatini
+Europe,ISL,2022,4.2,Iceland
+Europe,DNK,2024,3.2,Denmark
+Europe,HUN,2009,18.0,Hungary
+Europe,MKD,2005,54.0,North Macedonia
+Americas,CUB,2006,10.0,Cuba
+Eastern Mediterranean,KWT,2000,36.0,Kuwait
+Americas,BRA,2000,49.0,Brazil
+Africa,ZAF,2009,1260.0,South Africa
+Western Pacific,AUS,2007,6.5,Australia
+Western Pacific,WSM,2012,11.0,Samoa
+Americas,JAM,2008,6.6,Jamaica
+Eastern Mediterranean,JOR,2008,7.6,Jordan
+Western Pacific,FJI,2011,46.0,Fiji
+Eastern Mediterranean,IRQ,2009,47.0,Iraq
+Africa,GIN,2019,178.0,Guinea
+Europe,SVN,2019,5.5,Slovenia
+Eastern Mediterranean,PAK,2008,276.0,Pakistan
+Europe,BEL,2014,9.2,Belgium
+Europe,RUS,2021,47.0,Russian Federation
+Western Pacific,VUT,2017,67.0,Vanuatu
+Europe,SMR,2014,0.0,San Marino
+South-East Asia,BGD,2012,221.0,Bangladesh
+Eastern Mediterranean,PSE,2013,1.4,"occupied Palestinian territory, including east Jerusalem"
+Africa,LBR,2014,302.0,Liberia
+Africa,SEN,2018,147.0,Senegal
+Western Pacific,TUV,2008,165.0,Tuvalu
+Western Pacific,NZL,2011,8.5,New Zealand
+Europe,LVA,2012,76.0,Latvia
+South-East Asia,BTN,2014,307.0,Bhutan
+South-East Asia,MMR,2021,353.0,Myanmar
+Africa,CAF,2021,446.0,Central African Republic
+Americas,BRB,2014,1.8,Barbados
+Americas,URY,2004,34.0,Uruguay
+South-East Asia,NPL,2022,234.0,Nepal
+Europe,HRV,2022,6.6,Croatia
+Eastern Mediterranean,JOR,2022,4.2,Jordan
+Western Pacific,KHM,2024,272.0,Cambodia
+Africa,KEN,2001,499.0,Kenya
+South-East Asia,NPL,2014,276.0,Nepal
+Africa,DZA,2001,111.0,Algeria
+Western Pacific,KHM,2007,549.0,Cambodia
+Western Pacific,IDN,2022,375.0,Indonesia
+Africa,GNQ,2013,248.0,Equatorial Guinea
+Americas,DOM,2008,75.0,Dominican Republic
+Western Pacific,MYS,2016,106.0,Malaysia
+Western Pacific,AUS,2012,6.7,Australia
+Europe,CZE,2024,4.9,Czechia
+Americas,CUB,2009,8.6,Cuba
+Africa,MUS,2014,16.0,Mauritius
+Africa,GMB,2001,189.0,Gambia
+Americas,MEX,2021,27.0,Mexico
+Americas,JAM,2004,8.7,Jamaica
+Western Pacific,SLB,2016,141.0,Solomon Islands
+Europe,BGR,2012,44.0,Bulgaria
+Western Pacific,MYS,2004,107.0,Malaysia
+Eastern Mediterranean,EGY,2000,21.0,Egypt
+Americas,PRY,2021,57.0,Paraguay
+Americas,SUR,2010,57.0,Suriname
+Europe,GEO,2005,201.0,Georgia
+Western Pacific,TON,2016,7.6,Tonga
+Americas,USA,2000,7.7,United States of America
+Africa,GNB,2013,230.0,Guinea-Bissau
+Americas,NIC,2021,46.0,Nicaragua
+Europe,ESP,2006,24.0,Spain
+Europe,GEO,2001,222.0,Georgia
+Americas,GUY,2010,150.0,Guyana
+Africa,GNQ,2012,253.0,Equatorial Guinea
+Americas,PRI,2016,2.5,Puerto Rico
+Americas,BOL,2008,235.0,Bolivia (Plurinational State of)
+Western Pacific,LAO,2019,155.0,Lao People's Democratic Republic
+Eastern Mediterranean,EGY,2007,17.0,Egypt
+Africa,KEN,2017,319.0,Kenya
+Europe,SWE,2007,6.6,Sweden
+Americas,VEN,2007,39.0,Venezuela (Bolivarian Republic of)
+Europe,MKD,2001,59.0,North Macedonia
+Americas,PER,2017,128.0,Peru
+Africa,MUS,2009,17.0,Mauritius
+Europe,GEO,2004,206.0,Georgia
+Europe,ESP,2004,20.0,Spain
+Europe,ROU,2006,165.0,Romania
+Africa,KEN,2019,267.0,Kenya
+Americas,BOL,2005,300.0,Bolivia (Plurinational State of)
+Americas,BOL,2010,195.0,Bolivia (Plurinational State of)
+Africa,ETH,2004,388.0,Ethiopia
+Eastern Mediterranean,LBN,2003,16.0,Lebanon
+Africa,COM,2009,44.0,Comoros
+Americas,USA,2011,4.1,United States of America
+Americas,PRY,2004,88.0,Paraguay
+Western Pacific,IDN,2008,349.0,Indonesia
+Africa,TCD,2018,139.0,Chad
+Western Pacific,IDN,2003,366.0,Indonesia
+Europe,CHE,2003,10.0,Switzerland
+Africa,CMR,2005,255.0,Cameroon
+Africa,DZA,2006,107.0,Algeria
+Western Pacific,SGP,2021,50.0,Singapore
+Americas,BRB,2012,1.4,Barbados
+Africa,RWA,2001,215.0,Rwanda
+Western Pacific,PHL,2015,550.0,Philippines
+Americas,BRA,2007,44.0,Brazil
+Europe,FIN,2005,8.0,Finland
+Africa,BEN,2006,84.0,Benin
+Africa,TCD,2019,135.0,Chad
+Eastern Mediterranean,LBY,2015,32.0,Libya
+Europe,NOR,2001,8.5,Norway
+Americas,URY,2017,34.0,Uruguay
+Africa,NER,2015,98.0,Niger
+Europe,LVA,2017,38.0,Latvia
+Europe,IRL,2005,14.0,Ireland
+Europe,HUN,2016,9.8,Hungary
+Americas,CHL,2019,19.0,Chile
+Europe,LVA,2009,76.0,Latvia
+Europe,EST,2005,64.0,Estonia
+Africa,BWA,2016,405.0,Botswana
+Africa,SLE,2005,546.0,Sierra Leone
+Europe,CYP,2003,6.4,Cyprus
+Africa,ZAF,2021,513.0,South Africa
+Europe,ARM,2009,98.0,Armenia
+Americas,HND,2005,92.0,Honduras
+Americas,GTM,2003,24.0,Guatemala
+Europe,BIH,2016,38.0,Bosnia and Herzegovina
+Africa,DZA,2015,81.0,Algeria
+Western Pacific,LAO,2023,132.0,Lao People's Democratic Republic
+Americas,ECU,2016,42.0,Ecuador
+Americas,CUB,2019,6.8,Cuba
+Western Pacific,SGP,2014,47.0,Singapore
+Americas,PAN,2011,64.0,Panama
+Africa,MOZ,2007,348.0,Mozambique
+Eastern Mediterranean,IRN,2016,17.0,Iran (Islamic Republic of)
+Western Pacific,NZL,2002,11.0,New Zealand
+Western Pacific,PHL,2016,554.0,Philippines
+Western Pacific,KIR,2022,588.0,Kiribati
+Europe,GRC,2022,3.6,Greece
+Europe,MDA,2011,120.0,Republic of Moldova
+Americas,PRI,2003,5.6,Puerto Rico
+Europe,ITA,2002,9.7,Italy
+South-East Asia,IND,2004,315.0,India
+Western Pacific,COK,2019,6.2,Cook Islands
+Europe,ROU,2010,127.0,Romania
+Europe,BIH,2012,61.0,Bosnia and Herzegovina
+Africa,ZMB,2015,391.0,Zambia
+Eastern Mediterranean,PSE,2019,0.62,"occupied Palestinian territory, including east Jerusalem"
+Americas,HTI,2019,239.0,Haiti
+Eastern Mediterranean,EGY,2023,10.0,Egypt
+Europe,HUN,2000,45.0,Hungary
+Europe,SMR,2017,0.0,San Marino
+Europe,ISL,2014,2.4,Iceland
+Africa,CIV,2004,208.0,Cote d'Ivoire
+Africa,COD,2001,600.0,Democratic Republic of the Congo
+Europe,UKR,2013,120.0,Ukraine
+South-East Asia,MMR,2023,482.0,Myanmar
+Eastern Mediterranean,QAT,2017,31.0,Qatar
+Europe,BGR,2014,38.0,Bulgaria
+Europe,LUX,2010,7.5,Luxembourg
+Eastern Mediterranean,DJI,2016,600.0,Djibouti
+Africa,MLI,2001,77.0,Mali
+Americas,NIC,2020,47.0,Nicaragua
+Africa,UGA,2008,217.0,Uganda
+Europe,SVK,2019,4.8,Slovakia
+Europe,UKR,2008,162.0,Ukraine
+Americas,LCA,2014,3.4,Saint Lucia
+Eastern Mediterranean,PAK,2022,275.0,Pakistan
+Eastern Mediterranean,KWT,2003,36.0,Kuwait
+Africa,LBR,2013,315.0,Liberia
+Europe,ARM,2017,43.0,Armenia
+Americas,COL,2003,56.0,Colombia
+Africa,BDI,2006,182.0,Burundi
+Eastern Mediterranean,JOR,2011,6.4,Jordan
+Europe,AZE,2022,67.0,Azerbaijan
+Africa,MWI,2015,197.0,Malawi
+Eastern Mediterranean,LBN,2004,15.0,Lebanon
+Western Pacific,CHN,2009,81.0,China
+Americas,CAN,2014,5.0,Canada
+Western Pacific,NIU,2008,0.0,Niue
+Americas,GUY,2012,148.0,Guyana
+Europe,SVK,2011,9.4,Slovakia
+Africa,MDG,2016,217.0,Madagascar
+Americas,HND,2010,62.0,Honduras
+Americas,PRY,2002,91.0,Paraguay
+Eastern Mediterranean,AFG,2005,237.0,Afghanistan
+Americas,CAN,2001,8.0,Canada
+Americas,JAM,2006,6.4,Jamaica
+Americas,CRI,2007,18.0,Costa Rica
+Europe,PRT,2007,35.0,Portugal
+Western Pacific,AUS,2004,6.6,Australia
+Europe,PRT,2004,46.0,Portugal
+Africa,LBR,2016,279.0,Liberia
+Western Pacific,NIU,2019,0.0,Niue
+Europe,FIN,2016,4.8,Finland
+Europe,DEU,2012,5.5,Germany
+Africa,STP,2006,273.0,Sao Tome and Principe
+Africa,ZMB,2020,319.0,Zambia
+Africa,SSD,2015,383.0,South Sudan
+Africa,MWI,2010,338.0,Malawi
+Americas,CUB,2015,7.5,Cuba
+Africa,DZA,2004,109.0,Algeria
+Americas,CRI,2020,9.7,Costa Rica
+Africa,AGO,2014,451.0,Angola
+Africa,GNB,2023,178.0,Guinea-Bissau
+Africa,LSO,2000,827.0,Lesotho
+Africa,DZA,2012,85.0,Algeria
+Europe,FIN,2018,4.9,Finland
+Americas,BLZ,2003,80.0,Belize
+Africa,MLI,2020,56.0,Mali
+Eastern Mediterranean,BHR,2018,14.0,Bahrain
+Europe,CZE,2022,4.2,Czechia
+Eastern Mediterranean,BHR,2017,14.0,Bahrain
+Europe,MLT,2017,9.0,Malta
+Europe,BEL,2006,12.0,Belgium
+Europe,GBR,2020,7.0,United Kingdom of Great Britain and Northern Ireland
+Europe,MCO,2021,0.0,Monaco
+Western Pacific,TON,2010,10.0,Tonga
+Eastern Mediterranean,EGY,2012,14.0,Egypt
+Americas,ATG,2017,1.1,Antigua and Barbuda
+Americas,PRI,2010,3.2,Puerto Rico
+Western Pacific,TUV,2001,167.0,Tuvalu
+Americas,ARG,2008,31.0,Argentina
+Africa,TCD,2015,157.0,Chad
+Americas,SUR,2019,31.0,Suriname
+Western Pacific,COK,2004,6.6,Cook Islands
+Africa,MDG,2019,214.0,Madagascar
+Western Pacific,SGP,2018,47.0,Singapore
+Africa,GMB,2019,158.0,Gambia
+Eastern Mediterranean,YEM,2001,87.0,Yemen
+Western Pacific,COK,2003,0.0,Cook Islands
+Eastern Mediterranean,JOR,2015,6.5,Jordan
+Africa,ZWE,2016,233.0,Zimbabwe
+Europe,BGR,2003,77.0,Bulgaria
+Africa,MUS,2001,24.0,Mauritius
+Americas,CUB,2012,8.3,Cuba
+Europe,UZB,2005,160.0,Uzbekistan
+Americas,USA,2020,2.4,United States of America
+Western Pacific,KIR,2004,1260.0,Kiribati
+Africa,ZMB,2003,662.0,Zambia
+Americas,BRB,2017,0.0,Barbados
+Africa,ETH,2023,143.0,Ethiopia
+Europe,AND,2016,5.5,Andorra
+Europe,SVN,2017,6.5,Slovenia
+Eastern Mediterranean,SAU,2000,23.0,Saudi Arabia
+Eastern Mediterranean,QAT,2022,40.0,Qatar
+Europe,GBR,2013,13.0,United Kingdom of Great Britain and Northern Ireland
+Europe,AZE,2015,95.0,Azerbaijan
+Western Pacific,LAO,2002,305.0,Lao People's Democratic Republic
+Europe,ESP,2018,11.0,Spain
+Europe,BEL,2024,2.7,Belgium
+Americas,VEN,2016,36.0,Venezuela (Bolivarian Republic of)
+Africa,MWI,2006,392.0,Malawi
+Americas,DMA,2012,10.0,Dominica
+Eastern Mediterranean,SAU,2005,19.0,Saudi Arabia
+Eastern Mediterranean,PSE,2012,1.2,"occupied Palestinian territory, including east Jerusalem"
+South-East Asia,BTN,2004,512.0,Bhutan
+South-East Asia,THA,2008,196.0,Thailand
+Africa,CAF,2004,628.0,Central African Republic
+Europe,MCO,2008,0.97,Monaco
+Americas,PAN,2002,87.0,Panama
+Americas,ATG,2014,3.4,Antigua and Barbuda
+Africa,SWZ,2006,1460.0,Eswatini
+Eastern Mediterranean,KWT,2021,22.0,Kuwait
+Western Pacific,PLW,2009,102.0,Palau
+Western Pacific,PLW,2010,103.0,Palau
+Europe,ALB,2018,17.0,Albania
+Africa,SSD,2022,333.0,South Sudan
+Africa,STP,2015,175.0,Sao Tome and Principe
+Europe,MKD,2004,58.0,North Macedonia
+Europe,SWE,2005,8.1,Sweden
+Americas,ATG,2022,1.1,Antigua and Barbuda
+Africa,LBR,2007,305.0,Liberia
+Europe,UKR,2015,108.0,Ukraine
+Eastern Mediterranean,SYR,2012,24.0,Syrian Arab Republic
+Americas,GTM,2008,26.0,Guatemala
+Africa,BEN,2008,83.0,Benin
+Europe,POL,2006,30.0,Poland
+Europe,RUS,2007,90.0,Russian Federation
+Europe,CYP,2004,5.0,Cyprus
+Americas,SLV,2019,63.0,El Salvador
+South-East Asia,THA,2021,143.0,Thailand
+Europe,CZE,2002,15.0,Czechia
+Western Pacific,COK,2012,5.7,Cook Islands
+South-East Asia,IND,2010,276.0,India
+Western Pacific,PHL,2021,579.0,Philippines
+Africa,MOZ,2011,359.0,Mozambique
+Americas,HTI,2010,407.0,Haiti
+Europe,MCO,2011,1.1,Monaco
+Africa,TCD,2006,137.0,Chad
+Africa,BFA,2021,61.0,Burkina Faso
+Europe,TUR,2014,23.0,Türkiye
+Europe,HUN,2004,33.0,Hungary
+Europe,CZE,2004,13.0,Czechia
+Africa,MRT,2000,229.0,Mauritania
+Europe,ARM,2001,116.0,Armenia
+Americas,ECU,2019,46.0,Ecuador
+Africa,TCD,2004,129.0,Chad
+Africa,MWI,2017,162.0,Malawi
+Europe,MCO,2009,1.0,Monaco
+Americas,BHS,2014,18.0,Bahamas
+South-East Asia,MMR,2006,540.0,Myanmar
+Americas,HTI,2005,532.0,Haiti
+Europe,PRT,2009,32.0,Portugal
+Europe,DNK,2013,7.5,Denmark
+Europe,CHE,2021,4.7,Switzerland
+Africa,COG,2022,297.0,Congo
+Eastern Mediterranean,DJI,2018,433.0,Djibouti
+Europe,RUS,2019,50.0,Russian Federation
+Americas,DOM,2015,59.0,Dominican Republic
+Europe,DNK,2021,4.0,Denmark
+Americas,ECU,2018,45.0,Ecuador
+Western Pacific,MNG,2024,446.0,Mongolia
+Western Pacific,PNG,2008,549.0,Papua New Guinea
+South-East Asia,LKA,2006,106.0,Sri Lanka
+Americas,JAM,2019,3.5,Jamaica
+Europe,FIN,2004,7.7,Finland
+Africa,CPV,2009,114.0,Cabo Verde
+Europe,POL,2007,30.0,Poland
+Europe,ISR,2004,9.3,Israel
+Eastern Mediterranean,ARE,2008,2.6,United Arab Emirates
+Europe,SVK,2017,5.0,Slovakia
+Eastern Mediterranean,SAU,2021,9.0,Saudi Arabia
+Western Pacific,KOR,2023,38.0,Republic of Korea
+Europe,AND,2003,16.0,Andorra
+Western Pacific,FSM,2002,372.0,Micronesia (Federated States of)
+Africa,GNB,2012,241.0,Guinea-Bissau
+Africa,ZAF,2017,738.0,South Africa
+Europe,ESP,2010,19.0,Spain
+Americas,HND,2014,49.0,Honduras
+Eastern Mediterranean,LBY,2022,52.0,Libya
+Africa,AGO,2008,499.0,Angola
+Europe,FIN,2013,5.7,Finland
+South-East Asia,BGD,2019,221.0,Bangladesh
+Africa,MLI,2013,66.0,Mali
+Americas,DMA,2024,4.5,Dominica
+Western Pacific,LAO,2009,230.0,Lao People's Democratic Republic
+Western Pacific,MNG,2020,418.0,Mongolia
+Eastern Mediterranean,SOM,2013,187.0,Somalia
+Eastern Mediterranean,SYR,2019,21.0,Syrian Arab Republic
+Africa,SSD,2018,361.0,South Sudan
+Africa,SLE,2014,455.0,Sierra Leone
+Europe,DEU,2011,5.5,Germany
+Europe,SWE,2008,7.2,Sweden
+Eastern Mediterranean,PSE,2014,1.5,"occupied Palestinian territory, including east Jerusalem"
+Africa,STP,2008,101.0,Sao Tome and Principe
+Africa,SYC,2023,18.0,Seychelles
+Africa,KEN,2014,423.0,Kenya
+Europe,BLR,2024,17.0,Belarus
+Africa,TCD,2012,168.0,Chad
+Europe,KGZ,2003,299.0,Kyrgyzstan
+Europe,MDA,2012,128.0,Republic of Moldova
+Europe,POL,2005,31.0,Poland
+Europe,CYP,2002,4.0,Cyprus
+Americas,GRD,2018,1.7,Grenada
+Eastern Mediterranean,OMN,2006,23.0,Oman
+Europe,BEL,2010,11.0,Belgium
+Europe,BIH,2004,103.0,Bosnia and Herzegovina
+Eastern Mediterranean,AFG,2020,205.0,Afghanistan
+Europe,MNE,2005,41.0,Montenegro
+Western Pacific,KIR,2003,1220.0,Kiribati
+Europe,CHE,2005,8.9,Switzerland
+Western Pacific,IDN,2012,335.0,Indonesia
+Europe,NOR,2007,7.3,Norway
+Eastern Mediterranean,KWT,2024,10.0,Kuwait
+Americas,PAN,2000,71.0,Panama
+Europe,LTU,2009,109.0,Lithuania
+South-East Asia,TLS,2002,1140.0,Timor-Leste
+Africa,LSO,2013,948.0,Lesotho
+Western Pacific,KIR,2000,1280.0,Kiribati
+Europe,SVN,2010,11.0,Slovenia
+Europe,BEL,2021,8.2,Belgium
+Americas,CUB,2024,11.0,Cuba
+Africa,RWA,2006,123.0,Rwanda
+Africa,NER,2016,93.0,Niger
+Europe,TKM,2011,74.0,Turkmenistan
+Africa,TGO,2022,47.0,Togo
+Americas,PER,2014,136.0,Peru
+Europe,SRB,2010,51.0,Serbia
+Africa,CAF,2019,464.0,Central African Republic
+South-East Asia,IND,2018,208.0,India
+Europe,NLD,2018,5.2,Netherlands (Kingdom of the)
+Africa,CPV,2017,70.0,Cabo Verde
+Eastern Mediterranean,YEM,2011,42.0,Yemen
+Western Pacific,CHN,2019,58.0,China
+Europe,UKR,2010,136.0,Ukraine
+Americas,CUB,2021,5.4,Cuba
+Europe,RUS,2022,39.0,Russian Federation
+Europe,CYP,2005,5.2,Cyprus
+Western Pacific,VNM,2005,266.0,Viet Nam
+Western Pacific,NIU,2015,0.0,Niue
+Americas,HTI,2016,297.0,Haiti
+South-East Asia,MDV,2004,108.0,Maldives
+Africa,BFA,2004,85.0,Burkina Faso
+Africa,COG,2020,300.0,Congo
+Western Pacific,PNG,2018,611.0,Papua New Guinea
+Eastern Mediterranean,QAT,2018,38.0,Qatar
+Eastern Mediterranean,LBN,2012,18.0,Lebanon
+Africa,MUS,2008,17.0,Mauritius
+Europe,POL,2016,20.0,Poland
+Africa,COG,2013,385.0,Congo
+Europe,TKM,2001,177.0,Turkmenistan
+Western Pacific,FSM,2010,354.0,Micronesia (Federated States of)
+Eastern Mediterranean,QAT,2009,66.0,Qatar
+Africa,SLE,2024,372.0,Sierra Leone
+Africa,GAB,2021,401.0,Gabon
+Western Pacific,NIU,2020,56.0,Niue
+Europe,BLR,2021,24.0,Belarus
+Americas,CHL,2018,19.0,Chile
+Western Pacific,WSM,2024,5.5,Samoa
+Americas,CAN,2016,5.3,Canada
+Americas,COL,2022,44.0,Colombia
+Eastern Mediterranean,KWT,2009,45.0,Kuwait
+Americas,BOL,2003,342.0,Bolivia (Plurinational State of)
+Europe,ARM,2011,75.0,Armenia
+Western Pacific,MHL,2000,190.0,Marshall Islands
+Eastern Mediterranean,DJI,2008,1390.0,Djibouti
+Africa,TGO,2004,82.0,Togo
+Europe,MDA,2017,106.0,Republic of Moldova
+Europe,TJK,2024,75.0,Tajikistan
+Americas,NIC,2016,54.0,Nicaragua
+Africa,TGO,2019,49.0,Togo
+Europe,AZE,2007,175.0,Azerbaijan
+Western Pacific,SGP,2017,48.0,Singapore
+Europe,FIN,2003,9.8,Finland
+South-East Asia,MMR,2016,372.0,Myanmar
+Western Pacific,SGP,2003,63.0,Singapore
+Western Pacific,IDN,2024,382.0,Indonesia
+Europe,ISR,2005,7.3,Israel
+Americas,ECU,2004,93.0,Ecuador
+Africa,COM,2004,44.0,Comoros
+Africa,GAB,2002,342.0,Gabon
+Europe,CHE,2012,6.3,Switzerland
+Americas,ECU,2020,38.0,Ecuador
+Africa,MWI,2018,153.0,Malawi
+Eastern Mediterranean,SAU,2011,17.0,Saudi Arabia
+Americas,BRB,2013,1.4,Barbados
+Americas,COL,2013,36.0,Colombia
+Eastern Mediterranean,TUN,2015,50.0,Tunisia
+Europe,ROU,2002,203.0,Romania
+Europe,HUN,2020,5.1,Hungary
+Europe,UKR,2000,193.0,Ukraine
+Western Pacific,CHN,2000,107.0,China
+Western Pacific,BRN,2021,66.0,Brunei Darussalam
+Americas,JAM,2012,5.0,Jamaica
+Europe,PRT,2002,58.0,Portugal
+Eastern Mediterranean,YEM,2008,45.0,Yemen
