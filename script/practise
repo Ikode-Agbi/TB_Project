@@ -1,0 +1,86 @@
+import requests
+import pandas as pd
+
+API_Key = "https://ghoapi.azureedge.net/api/MDG_0000000020"
+
+country_data_key = "https://ghoapi.azureedge.net/api/DIMENSION/COUNTRY/DimensionValues"
+
+def get_data(API_Key):
+
+    response = requests.get(API_Key)
+
+    if response.status_code == 200:
+        dictionary_data = response.json()
+
+        data = dictionary_data['value']
+    
+        df = pd.DataFrame(data)
+        return df
+
+    else:
+        print(f"unsuccessful:{response.status_code}")
+
+
+def country_name_data(country_data_key):
+    
+    response = requests.get(country_data_key)
+
+    if response.status_code == 200:
+
+        dict_data = response.json()
+        
+        data = dict_data['value']
+
+        df = pd.DataFrame(data)
+
+        
+        clean_country_df = df[['Title', 'Code']]
+        return clean_country_df
+
+    else:
+        print(f"unsuccessful:{response.status_code}")
+
+
+def merge_data(df, clean_country_df):
+
+    merged_data = df.merge(clean_country_df, left_on = 'SpatialDim', right_on = 'Code', how = 'left'  )
+    return merged_data
+
+
+def clean_data(merged_data):
+
+    columns_to_keep = [
+        'SpatialDim', # country code
+        'ParentLocation', # continent
+        'TimeDimensionValue', # year
+        'NumericValue', #value
+        'Title', #country name
+    ]
+    
+    cleaned_data = merged_data[columns_to_keep]
+
+    ready_data = cleaned_data.rename(columns={
+        'SpatialDim':'country_code',
+        'ParentLocation':'continent',
+        'TimeDimensionValue': 'year',
+        'NumericValue': 'TB_incidence',
+        'Title': 'country'
+    })
+
+    return ready_data
+
+
+
+
+
+response = get_data(API_Key)
+
+country_data = country_name_data(country_data_key)
+
+merged_data = merge_data(response, country_data)
+
+cleaned_data = clean_data(merged_data)
+
+
+
+print(cleaned_data.head())
