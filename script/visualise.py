@@ -12,14 +12,29 @@ CHART_BG = "#FFFFFF"
 GRID_COLOUR = "rgba(100,100,100,0.15)"
 
 
+FONT = dict(family="Inter, sans-serif", color="#1B2A4A")
+
+
 def _base_layout(fig: go.Figure, height: int = 450) -> go.Figure:
-    """Apply consistent background and grid styling."""
+    """Apply consistent background and explicit text colours on every element."""
     fig.update_layout(
         paper_bgcolor=CHART_BG,
         plot_bgcolor=CHART_BG,
         height=height,
-        font=dict(family="Inter, sans-serif", size=13, color="#1B2A4A"),
+        font={**FONT, "size": 13},
+        title_font={**FONT, "size": 16},
+        legend_font={**FONT, "size": 12},
         margin=dict(l=10, r=10, t=50, b=10),
+    )
+    fig.update_xaxes(
+        tickfont={**FONT, "size": 12},
+        title_font={**FONT, "size": 13},
+        title_standoff=10,
+    )
+    fig.update_yaxes(
+        tickfont={**FONT, "size": 12},
+        title_font={**FONT, "size": 13},
+        title_standoff=10,
     )
     return fig
 
@@ -74,7 +89,8 @@ def choropleth_map(df: pd.DataFrame, selected_year: int) -> go.Figure:
         margin=dict(l=0, r=0, t=50, b=0),
         height=520,
         paper_bgcolor=CHART_BG,
-        font=dict(family="Inter, sans-serif", size=13, color="#1B2A4A"),
+        font={**FONT, "size": 13},
+        title_font={**FONT, "size": 16},
     )
     return fig
 
