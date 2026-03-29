@@ -17,7 +17,7 @@ def _base_layout(fig: go.Figure, height: int = 450) -> go.Figure:
         paper_bgcolor=TRANSPARENT,
         plot_bgcolor=TRANSPARENT,
         height=height,
-        font=dict(family="Inter, sans-serif", size=13),
+        font=dict(family="Inter, sans-serif", size=13, color="#1B2A4A"),
         margin=dict(l=10, r=10, t=50, b=10),
     )
     return fig
@@ -73,7 +73,7 @@ def choropleth_map(df: pd.DataFrame, selected_year: int) -> go.Figure:
         margin=dict(l=0, r=0, t=50, b=0),
         height=520,
         paper_bgcolor=TRANSPARENT,
-        font=dict(family="Inter, sans-serif", size=13),
+        font=dict(family="Inter, sans-serif", size=13, color="#1B2A4A"),
     )
     return fig
 
