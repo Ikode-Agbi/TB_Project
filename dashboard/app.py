@@ -31,9 +31,22 @@ st.markdown(
     """
     <style>
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
-    html, body, [class*="css"] { font-family: 'Inter', sans-serif; }
+    html, body, [class*="css"] { font-family: 'Inter', sans-serif; color: #1B2A4A; }
 
-    .stApp { background: #F0F4F8; }
+    .stApp { background: #F0F4F8; color: #1B2A4A; }
+
+    /* Force dark text across all Streamlit elements */
+    p, span, div, label, li, td, th, caption { color: #1B2A4A; }
+    .stMarkdown, .stText, .stCaption { color: #1B2A4A !important; }
+    [data-testid="stMarkdownContainer"] p { color: #1B2A4A !important; }
+    .stCaption p { color: #64748B !important; }
+    h1, h2, h3, h4, h5, h6 { color: #1B2A4A !important; }
+    .stSelectbox label, .stMultiSelect label, .stSlider label,
+    .stTextInput label, .stSelectSlider label { color: #1B2A4A !important; }
+    /* Tab text */
+    .stTabs [data-baseweb="tab"] { color: #1B2A4A !important; }
+    /* Info/warning/error boxes */
+    .stAlert p { color: #1B2A4A !important; }
 
     .hero-banner {
         background: linear-gradient(135deg, #1B2A4A 0%, #2E6DA4 60%, #3A9BC1 100%);
