@@ -8,14 +8,15 @@ CONTINENT_COLOURS = px.colors.qualitative.Set2
 RED_SCALE = "Reds"
 BLUE_SCALE = "Blues"
 TRANSPARENT = "rgba(0,0,0,0)"
-GRID_COLOUR = "rgba(180,180,180,0.2)"
+CHART_BG = "#FFFFFF"
+GRID_COLOUR = "rgba(100,100,100,0.15)"
 
 
 def _base_layout(fig: go.Figure, height: int = 450) -> go.Figure:
-    """Apply consistent transparent background and grid styling."""
+    """Apply consistent background and grid styling."""
     fig.update_layout(
-        paper_bgcolor=TRANSPARENT,
-        plot_bgcolor=TRANSPARENT,
+        paper_bgcolor=CHART_BG,
+        plot_bgcolor=CHART_BG,
         height=height,
         font=dict(family="Inter, sans-serif", size=13, color="#1B2A4A"),
         margin=dict(l=10, r=10, t=50, b=10),
@@ -69,10 +70,10 @@ def choropleth_map(df: pd.DataFrame, selected_year: int) -> go.Figure:
     )
     fig.update_layout(
         coloraxis_colorbar=dict(title="per 100k", thickness=14),
-        geo=dict(bgcolor=TRANSPARENT),
+        geo=dict(bgcolor=CHART_BG),
         margin=dict(l=0, r=0, t=50, b=0),
         height=520,
-        paper_bgcolor=TRANSPARENT,
+        paper_bgcolor=CHART_BG,
         font=dict(family="Inter, sans-serif", size=13, color="#1B2A4A"),
     )
     return fig
